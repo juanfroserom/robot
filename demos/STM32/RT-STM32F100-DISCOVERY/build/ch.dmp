@@ -1,0 +1,600 @@
+
+build/ch.elf:     file format elf32-littlearm
+build/ch.elf
+architecture: arm, flags 0x00000112:
+EXEC_P, HAS_SYMS, D_PAGED
+start address 0x08000181
+
+Program Header:
+    LOAD off    0x00008000 vaddr 0x08000000 paddr 0x08000000 align 2**15
+         filesz 0x000088bc memsz 0x000088bc flags rwx
+    LOAD off    0x00018800 vaddr 0x20000800 paddr 0x080088bc align 2**15
+         filesz 0x000000b4 memsz 0x000000b4 flags rw-
+    LOAD off    0x000188b8 vaddr 0x200008b8 paddr 0x08008970 align 2**15
+         filesz 0x00000000 memsz 0x00000bf0 flags rw-
+    LOAD off    0x00020000 vaddr 0x20000000 paddr 0x20000000 align 2**15
+         filesz 0x00000000 memsz 0x00002000 flags rw-
+private flags = 5000202: [Version5 EABI] [soft-float ABI] [has entry point]
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .mstack       00000400  20000000  20000000  00020000  2**0
+                  ALLOC
+  1 .pstack       00000400  20000400  20000400  00020000  2**0
+                  ALLOC
+  2 .vectors      00000180  08000000  08000000  00008000  2**7
+                  CONTENTS, ALLOC, LOAD, DATA
+  3 .text         00006e10  08000180  08000180  00008180  2**4
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  4 .rodata       0000192c  08006f90  08006f90  0000ef90  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+  5 .data         000000b4  20000800  080088bc  00018800  2**2
+                  CONTENTS, ALLOC, LOAD, DATA
+  6 .bss          00000bf0  200008b8  08008970  000188b8  2**3
+                  ALLOC
+  7 .heap         00000b58  200014a8  200014a8  00020000  2**0
+                  ALLOC
+  8 .ARM.attributes 0000002d  00000000  00000000  000188b4  2**0
+                  CONTENTS, READONLY
+  9 .comment      0000001f  00000000  00000000  000188e1  2**0
+                  CONTENTS, READONLY
+ 10 .debug_info   0001c35d  00000000  00000000  00018900  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 11 .debug_abbrev 00002ead  00000000  00000000  00034c5d  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 12 .debug_loc    00005942  00000000  00000000  00037b0a  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 13 .debug_aranges 00000790  00000000  00000000  0003d44c  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 14 .debug_ranges 00002d90  00000000  00000000  0003dbdc  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 15 .debug_line   00006695  00000000  00000000  0004096c  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 16 .debug_str    00003d19  00000000  00000000  00047001  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 17 .debug_frame  0000158c  00000000  00000000  0004ad1c  2**2
+                  CONTENTS, READONLY, DEBUGGING
+SYMBOL TABLE:
+20000000 l    d  .mstack	00000000 .mstack
+20000400 l    d  .pstack	00000000 .pstack
+08000000 l    d  .vectors	00000000 .vectors
+08000180 l    d  .text	00000000 .text
+08006f90 l    d  .rodata	00000000 .rodata
+20000800 l    d  .data	00000000 .data
+200008b8 l    d  .bss	00000000 .bss
+200014a8 l    d  .heap	00000000 .heap
+00000000 l    d  .ARM.attributes	00000000 .ARM.attributes
+00000000 l    d  .comment	00000000 .comment
+00000000 l    d  .debug_info	00000000 .debug_info
+00000000 l    d  .debug_abbrev	00000000 .debug_abbrev
+00000000 l    d  .debug_loc	00000000 .debug_loc
+00000000 l    d  .debug_aranges	00000000 .debug_aranges
+00000000 l    d  .debug_ranges	00000000 .debug_ranges
+00000000 l    d  .debug_line	00000000 .debug_line
+00000000 l    d  .debug_str	00000000 .debug_str
+00000000 l    d  .debug_frame	00000000 .debug_frame
+00000000 l    df *ABS*	00000000 ccweVGv9.ltrans1.o
+08001680 l     F .text	000000ac VectorB0.4130
+08001cd0 l     F .text	00000020 thread4A.9489.4247
+08001d20 l     F .text	0000002e thread4B.9486.4250
+200008b8 l     O .bss	00000014 vt2.6657.10762.4466
+200008cc l     O .bss	00000014 vt1.6656.10763.4465
+00000000 l    df *ABS*	00000000 build/obj/crt0_v7m.o
+080001ac l       .text	00000000 msloop
+080001ba l       .text	00000000 psloop
+080001ca l       .text	00000000 dloop
+080001de l       .text	00000000 bloop
+080001f4 l       .text	00000000 initloop
+08000200 l       .text	00000000 endinitloop
+08000208 l       .text	00000000 finiloop
+08000214 l       .text	00000000 endfiniloop
+00000000 l    df *ABS*	00000000 build/obj/chcoreasm_v7m.o
+e000ed04 l       *ABS*	00000000 SCB_ICSR
+10000000 l       *ABS*	00000000 ICSR_PENDSVSET
+00000000 l    df *ABS*	00000000 ccweVGv9.ltrans0.o
+08000430 l     F .text	0000009e chSysIntegrityCheckI.4415
+080004e0 l     F .text	0000005a chThdYield.4374
+080014a0 l     F .text	00000002 _unhandled_exception.4427
+00000000 l    df *ABS*	00000000 ccweVGv9.ltrans2.o
+08001fb0 l     F .text	00000038 chMtxTryLock.constprop.44.4272
+08002260 l     F .text	00000108 chHeapAllocAligned.constprop.25.4351
+200008e0 l     O .bss	00000020 test_heap.4527
+08007768 l     O .rodata	0000000c evhndl.9919.4486
+00000000 l    df *ABS*	00000000 ccweVGv9.ltrans3.o
+08003190 l     F .text	00000020 bmk_thread1.10696.4193
+20000900 l     O .bss	00000010 objects.10282.4437
+00000000 l    df *ABS*	00000000 ccweVGv9.ltrans4.o
+08004280 l     F .text	0000002a thread4.9231.4116
+080046c0 l     F .text	00000046 evt_thread7.9841.4211
+00000000 l    df *ABS*	00000000 ccweVGv9.ltrans5.o
+08005130 l     F .text	0000002e chThdEnqueueTimeoutS.4263
+08005160 l     F .text	00000054 iqGetTimeout.4136
+080051e0 l     F .text	000000b2 iqReadTimeout.4170
+080052c0 l     F .text	00000054 oqPutTimeout.4185
+08005340 l     F .text	000000b0 oqWriteTimeout.4207
+00000000 l    df *ABS*	00000000 ccweVGv9.ltrans6.o
+00000000 l    df *ABS*	00000000 ccweVGv9.ltrans7.o
+08007b28 l     O .rodata	00000010 test_005_005.9355.4711
+08007b38 l     O .rodata	00000010 test_012_001.10588.4766
+08007b48 l     O .rodata	0000001c test_sequence_006.4713
+0800871c l     O .rodata	00000010 test_006_001.9589.4714
+0800872c l     O .rodata	00000010 test_006_004.9590.4719
+08008664 l     O .rodata	00000010 test_006_005.9591.4720
+080085e4 l     O .rodata	00000010 test_006_007.9592.4721
+08007be0 l     O .rodata	00000010 test_006_008.9593.4722
+0800888c l     O .rodata	00000010 test_006_009.9594.4723
+08007b64 l     O .rodata	00000018 idle_descriptor.5931.4361.4790
+200010a0 l     O .bss	000000d8 ch_idle_thread_wa.4791
+08007b7c l     O .rodata	00000034 test_sequence_013.4772
+080085c4 l     O .rodata	00000010 test_013_001.10798.4773
+080084d4 l     O .rodata	00000010 test_013_002.10799.4778
+0800877c l     O .rodata	00000010 test_013_003.10800.4779
+08007bb0 l     O .rodata	00000010 test_013_004.10801.4780
+0800878c l     O .rodata	00000010 test_013_005.10802.4781
+08008514 l     O .rodata	00000010 test_013_006.10803.4782
+08008594 l     O .rodata	00000010 test_013_007.10804.4783
+08007c30 l     O .rodata	00000010 test_013_008.10805.4784
+0800889c l     O .rodata	00000010 test_013_009.10806.4785
+080087ec l     O .rodata	00000010 test_013_010.10807.4786
+080086ec l     O .rodata	00000010 test_013_011.10808.4787
+080085d4 l     O .rodata	00000010 test_013_012.10809.4788
+08007bc0 l     O .rodata	00000020 test_sequence_008.4730
+08008554 l     O .rodata	00000010 test_008_001.9962.4731
+080085a4 l     O .rodata	00000010 test_008_002.9963.4736
+08008564 l     O .rodata	00000010 test_008_003.9964.4737
+08008544 l     O .rodata	00000010 test_008_004.9965.4738
+080086a4 l     O .rodata	00000010 test_008_005.9966.4739
+0800879c l     O .rodata	00000010 test_008_006.9967.4740
+0800874c l     O .rodata	00000010 test_008_007.9968.4741
+08007bf0 l     O .rodata	00000010 test_011_001.10409.4759
+08007c00 l     O .rodata	00000010 test_002_003.8687.4685
+08007c10 l     O .rodata	00000010 test_002_001.8685.4679
+08007c20 l     O .rodata	00000010 test_009_001.10131.4743
+08007c40 l     O .rodata	00000010 test_010_002.10292.4756
+08007c50 l     O .rodata	00000008 test_sequence_004.4696
+080087ac l     O .rodata	00000010 test_004_001.9111.4697
+080084c4 l     O .rodata	00000010 test_005_003.9353.4709
+080084e4 l     O .rodata	00000010 test_005_001.9351.4703
+080084f4 l     O .rodata	00000010 test_002_002.8686.4684
+08008504 l     O .rodata	00000010 test_012_002.10589.4771
+08008524 l     O .rodata	00000010 test_003_001.8923.4688
+08008534 l     O .rodata	00000010 test_011_002.10410.4764
+08008574 l     O .rodata	00000010 test_010_001.10291.4751
+08008584 l     O .rodata	00000010 test_005_002.9352.4708
+080085b4 l     O .rodata	00000010 test_001_002.8633.4677
+2000087c l     O .data	00000038 test_suite.4670
+08008600 l     O .rodata	0000000c test_sequence_001.4671
+08008618 l     O .rodata	00000014 test_sequence_002.4678
+0800862c l     O .rodata	00000014 test_sequence_003.4687
+08008648 l     O .rodata	0000001c test_sequence_005.4702
+08008640 l     O .rodata	00000008 test_sequence_007.4724
+08008684 l     O .rodata	00000010 test_sequence_009.4742
+0800870c l     O .rodata	00000010 test_sequence_010.4750
+080085f4 l     O .rodata	0000000c test_sequence_011.4758
+0800860c l     O .rodata	0000000c test_sequence_012.4765
+080086dc l     O .rodata	00000010 test_001_001.8632.4672
+080087fc l     O .rodata	00000010 test_002_004.8688.4686
+080086cc l     O .rodata	00000010 test_003_002.8924.4693
+08008694 l     O .rodata	00000010 test_003_003.8925.4694
+080086fc l     O .rodata	00000010 test_003_004.8926.4695
+080087bc l     O .rodata	00000010 test_007_001.9748.4725
+080087dc l     O .rodata	00000010 test_005_004.9354.4710
+080087cc l     O .rodata	00000010 test_005_006.9356.4712
+08008674 l     O .rodata	00000010 test_009_003.10133.4749
+0800873c l     O .rodata	00000010 test_009_002.10132.4748
+080086b4 l     O .rodata	00000016 ch_debug.4794
+20001178 l     O .bss	00000148 waThread1.11030.4823
+080088ac l     O .rodata	00000010 test_010_003.10293.4757
+0800875c l     O .rodata	00000020 vmt.7825.4848
+0800880c l     O .rodata	00000080 ram_areas.4021.4849
+20001360 l     O .bss	00000148 waThread2.11029.4824
+00000000 l    df *ABS*	00000000 
+00000000 l       .rodata	00000000 __ram4_start__
+00000000 l       .rodata	00000000 __ram6_start__
+00000000 l       *ABS*	00000000 __ram5_end__
+00000000 l       *ABS*	00000000 __ram5_size__
+00000000 l       *ABS*	00000000 __ram1_size__
+00000000 l       *ABS*	00000000 __ram4_size__
+00000000 l       *ABS*	00000000 __ram1_end__
+00000000 l       *ABS*	00000000 __ram4_end__
+00002000 l       *ABS*	00000000 __ram0_size__
+00000000 l       *ABS*	00000000 __ram6_end__
+00000000 l       *ABS*	00000000 __ram7_size__
+00000000 l       .rodata	00000000 __ram7_start__
+00000000 l       *ABS*	00000000 __ram3_size__
+00000000 l       *ABS*	00000000 __ram3_end__
+00000000 l       *ABS*	00000000 __ram2_size__
+00000000 l       .rodata	00000000 __ram1_start__
+00000000 l       *ABS*	00000000 __ram6_size__
+00000000 l       *ABS*	00000000 __ram2_end__
+00000000 l       .rodata	00000000 __ram2_start__
+00000000 l       *ABS*	00000000 __ram7_end__
+20000000 l       .rodata	00000000 __ram0_start__
+00000000 l       .rodata	00000000 __ram5_start__
+20002000 l       *ABS*	00000000 __ram0_end__
+00000400 l       *ABS*	00000000 __main_stack_size__
+00000000 l       .rodata	00000000 __ram3_start__
+00000400 l       *ABS*	00000000 __process_stack_size__
+08000800 g     F .text	00000016 .hidden test_printn.part.0.8336
+080014a0 g     F .text	00000002 .hidden Vector58
+080014a0 g     F .text	00000002 .hidden VectorE8
+080014a0 g     F .text	00000002 .hidden Vector9C
+08000c60 g     F .text	0000009e .hidden test_003_003_execute.8789
+080014a0 g     F .text	00000002 .hidden VectorAC
+08006e70 g     F .text	00000052 chThdExit
+08000fd0 g     F .text	0000002a .hidden chEvtBroadcastFlagsI
+08004e10 g     F .text	00000052 .hidden chSchGoSleepTimeoutS
+080009b0 g     F .text	00000036 .hidden print_line.8334
+080014a0 g     F .text	00000002 .hidden DebugMon_Handler
+08001ef0 g     F .text	00000024 .hidden chSemWaitTimeoutS.part.1.5425
+080060a0 g     F .text	000000e8 .hidden test_006_007_execute.9510
+080010c0 g     F .text	000000ca .hidden chMtxLockS
+20000910 g     O .bss	0000000c .hidden sem1.10761
+080051c0 g     F .text	00000006 .hidden _gett.7731
+080014a0 g     F .text	00000002 .hidden Vector5C
+080055b0 g     F .text	0000035c .hidden test_009_002_execute.10105
+08001470 g     F .text	0000000e .hidden test_005_001_teardown.9253
+08002060 g     F .text	0000001a .hidden test_010_003_setup.10253
+08000740 g     F .text	000000ba .hidden test_002_001_execute.8664
+08005c30 g     F .text	000000dc .hidden test_008_004_execute.9884
+2000101c g     O .bss	00000001 .hidden test_global_fail
+08001280 g     F .text	000000a6 .hidden chHeapFree
+080014a0 g     F .text	00000002 .hidden Vector11C
+00000000 g       .bss	00000000 __ram5_clear__
+080014a0 g     F .text	00000002 .hidden HardFault_Handler
+080052b0 g     F .text	0000000a .hidden _read.7715
+200014a8 g       .heap	00000000 __ram0_init__
+08000700 g     F .text	00000032 .hidden _test_assert
+080014a0 g     F .text	00000002 .hidden Vector8C
+080014a0 g     F .text	00000002 .hidden SysTick_Handler
+08002d20 g     F .text	00000004 .hidden test_008_004_setup.9853
+08000b20 g     F .text	0000002a .hidden chEvtUnregister
+20000800 g     O .data	00000010 .hidden m2.9545
+20000fe8 g     O .bss	00000004 .hidden tr1.9068
+00000000 g       .bss	00000000 __ram1_free__
+080014a0 g     F .text	00000002 .hidden VectorDC
+08005b30 g     F .text	00000012 .hidden test_013_011_setup.10703
+080017d0 g     F .text	00000330 .hidden test_001_002_execute.8617
+080014a0 g     F .text	00000002 .hidden PendSV_Handler
+080014a0 g     F .text	00000002 .hidden NMI_Handler
+08000000 g     O .vectors	00000160 _vectors
+080088bc g       .data	00000000 __exidx_end
+08004710 g     F .text	00000158 .hidden test_008_007_execute.9859
+08000dd0 g     F .text	00000028 .hidden chSchGoSleepS
+08001540 g     F .text	00000020 .hidden test_006_004_setup.9504
+080014a0 g     F .text	00000002 .hidden Vector110
+08004f70 g     F .text	0000001e .hidden test_wait_tick
+08000610 g     F .text	00000006 .hidden h3.9865
+20000fc8 g     O .bss	0000000c .hidden sem1.9308
+08005040 g     F .text	000000ae .hidden test_013_010_execute.10705
+200014a8 g       .heap	00000000 __ram0_free__
+200014a8 g       .heap	00000000 __heap_base__
+08002c80 g     F .text	0000002a .hidden chCondSignal.constprop.42
+08000ec0 g     F .text	0000001a .hidden thread1.9234
+080014a0 g     F .text	00000002 .hidden Vector120
+08001730 g     F .text	0000009c .hidden thread8.9480
+08000d00 g     F .text	0000001e .hidden chSysRestoreStatusX.part.2.4326
+080014a0 g     F .text	00000002 .hidden VectorC8
+08002c00 g     F .text	00000072 .hidden chSemSignalWait.constprop.45
+080051d0 g     F .text	0000000a .hidden _get.7735
+08000d20 g     F .text	0000006e .hidden chSchWakeupS
+08008970 g       *ABS*	00000000 __ram3_init_text__
+08000be0 g     F .text	0000004a .hidden chSchRescheduleS
+080053f0 g     F .text	00000006 .hidden _writet.7720
+080014a0 g     F .text	00000002 .hidden Vector94
+080062a0 g     F .text	00000004 .hidden test_005_006_teardown.9263
+00000000 g       .bss	00000000 __ram5_noinit__
+080014a0 g     F .text	00000002 .hidden VectorA8
+080014a0 g     F .text	00000002 .hidden VectorB4
+08000320 g     F .text	00000012 .hidden notify1.8219
+08001500 g     F .text	0000001e .hidden test_006_007_setup.9500
+08000f00 g     F .text	0000002e .hidden chSchReadyI
+08000180 g       .vectors	00000000 __fini_array_end
+080006a0 g     F .text	00000056 .hidden _test_assert_sequence
+20000800 g       .pstack	00000000 __main_thread_stack_end__
+080088bc g       .rodata	00000000 __rodata_end__
+080031e0 g     F .text	0000014e .hidden test_010_001_execute.10265
+080042b0 g     F .text	00000208 .hidden test_005_003_execute.9283
+080014a0 g     F .text	00000002 .hidden Vector74
+08003730 g     F .text	000000e8 .hidden test_013_003_execute.10726
+080014a0 g     F .text	00000002 .hidden UsageFault_Handler
+080044c0 g     F .text	000000de .hidden test_002_002_execute.8660
+08001c90 g     F .text	00000036 .hidden Thread1.11008
+08005330 g     F .text	0000000a .hidden _put.7743
+080014a0 g     F .text	00000002 .hidden VectorEC
+200008b8 g       .bss	00000000 _bss_start
+080002f0 g     F .text	00000026 .hidden test_002_003_execute.8642
+20002000 g       .heap	00000000 __heap_end__
+080050f0 g     F .text	00000032 .hidden msg_loop_test.10723
+08002d50 g     F .text	0000001c .hidden test_008_007_setup.9847
+080005f0 g     F .text	00000006 .hidden h1.9871
+08004c20 g     F .text	00000014 .hidden test_010_001_setup.10257
+08001520 g     F .text	00000012 .hidden test_006_005_setup.9502
+20000838 g     O .data	00000028 .hidden mb1.10121
+08002ee0 g     F .text	00000046 .hidden _test_assert_time_window.constprop.2
+080014a0 g     F .text	00000002 .hidden Vector40
+080014a0 g     F .text	00000002 .hidden VectorF8
+080014a0 g     F .text	00000002 .hidden Vector108
+08002de0 g     F .text	00000038 .hidden chEvtWaitAll.constprop.29
+080014a0 g     F .text	00000002 .hidden VectorBC
+080014a0 g     F .text	00000002 .hidden Vector150
+00000000 g       .bss	00000000 __ram1_clear__
+080005e0 g     F .text	00000006 .hidden dyn_thread1.10516
+080014a0 g     F .text	00000002 .hidden Vector124
+08001210 g     F .text	00000068 .hidden chHeapStatus
+20000fd4 g     O .bss	00000014 .hidden threads
+08001660 g     F .text	00000012 .hidden test_005_001_setup.9251
+00000000 g       .bss	00000000 __ram7_free__
+08002e20 g     F .text	0000005e .hidden chThdCreateFromHeap.constprop.24
+08002d40 g     F .text	00000004 .hidden test_008_006_setup.9849
+080033b0 g     F .text	0000007e .hidden test_013_005_execute.10719
+080088bc g       .data	00000000 __exidx_start
+08000e40 g     F .text	00000048 .hidden chSemWait
+08008970 g       *ABS*	00000000 __ram0_init_text__
+08008970 g       *ABS*	00000000 __ram1_init_text__
+20000810 g     O .data	0000000c .hidden mp1.10281
+080002c0 g     F .text	0000000e .hidden test_004_001_setup.9048
+08001480 g     F .text	0000001a .hidden chSysGetStatusAndLockX.part.1.4323
+080014a0 g     F .text	00000002 .hidden Vector148
+20001338 g     O .bss	00000020 .hidden default_heap.6753
+20000950 g     O .bss	00000668 .hidden test_buffer
+08002030 g     F .text	00000030 .hidden test_011_001_setup.10391
+08002870 g     F .text	00000070 .hidden test_011_002_execute.10387
+08008970 g       *ABS*	00000000 __ram5_init_text__
+08001cf0 g     F .text	00000024 .hidden evt_thread3.9844
+08002ae0 g     F .text	0000004c .hidden chMBFetchI.constprop.15
+080014a0 g     F .text	00000002 .hidden Vector118
+08005f80 g     F .text	00000114 .hidden test_006_008_execute.9508
+08002d00 g     F .text	00000004 .hidden test_008_002_setup.9857
+080014a0 g     F .text	00000002 .hidden Vector64
+200014a8 g       .bss	00000000 _bss_end
+080054a0 g     F .text	00000088 .hidden chMBPostAhead.constprop.18
+2000081c g     O .data	00000018 .hidden gmp1.10280
+08001600 g     F .text	00000012 .hidden test_005_004_setup.9245
+08000180 g     F .text	00000000 Reset_Handler
+080045a0 g     F .text	0000011c .hidden test_004_001_execute.9052
+080014a0 g     F .text	00000002 .hidden VectorCC
+080011b0 g     F .text	00000022 .hidden thread1.9483
+080014a0 g     F .text	00000002 .hidden Vector54
+080011e0 g     F .text	00000022 .hidden thread9.9474
+080014a0 g     F .text	00000002 .hidden Vector98
+08000670 g     F .text	00000022 .hidden test_print
+00000000 g       .bss	00000000 __ram4_clear__
+00000000 g       .bss	00000000 __ram5_free__
+080014a0 g     F .text	00000002 .hidden VectorD8
+08008970 g       *ABS*	00000000 __ram6_init_text__
+08005ec0 g     F .text	000000b8 .hidden test_006_009_execute.9494
+08001f80 g     F .text	0000002c .hidden test_010_003_execute.10251
+080014a0 g     F .text	00000002 .hidden Vector138
+080014a0 g     F .text	00000002 .hidden Vector24
+08001190 g     F .text	00000014 .hidden chMtxLock
+00000000 g       .bss	00000000 __ram3_clear__
+08006f80  w    F .text	00000002 __default_exit
+08002370 g     F .text	00000076 .hidden thread6.9477
+08003820 g     F .text	00000082 .hidden test_013_002_execute.10728
+08005530 g     F .text	00000078 .hidden chMBFetch.constprop.16
+00000000 g       .bss	00000000 __ram6_init__
+08006ee0 g     F .text	00000040 chSchDoReschedule
+08003d90 g     F .text	0000013a .hidden test_009_003_execute.10097
+08000820 g     F .text	00000064 .hidden test_printn
+00000000 g       .bss	00000000 __ram7_init__
+080052a0 g     F .text	00000006 .hidden _readt.7706
+08003430 g     F .text	000000de .hidden test_013_004_execute.10721
+00000000 g       .bss	00000000 __ram6_free__
+08004e70 g     F .text	00000018 .hidden chThdSleep
+08003330 g     F .text	0000007e .hidden test_013_006_execute.10717
+08001ec0 g     F .text	00000026 .hidden thread2.9240
+080013a0 g     F .text	000000ce .hidden test_005_001_execute.9275
+08006ed0 g     F .text	00000004 .hidden bmk_thread3.10690
+080014a0 g     F .text	00000002 .hidden Vector84
+20001358 g     O .bss	00000004 .hidden test_tokp.8391
+00000000 g       .bss	00000000 __ram2_noinit__
+00000000 g       .bss	00000000 __ram6_noinit__
+08005ac0 g     F .text	00000038 .hidden test_009_003_setup.10099
+00000000 g       .bss	00000000 __ram4_init__
+080038b0 g     F .text	00000082 .hidden test_013_001_execute.10730
+00000000 g       .bss	00000000 __ram7_clear__
+08000600 g     F .text	00000006 .hidden h2.9868
+080002b0 g     F .text	00000004 .hidden null_provider.10247
+08006490 g     F .text	00000260 .hidden test_003_002_execute.8791
+080014a0 g     F .text	00000002 .hidden VectorD0
+08001000 g     F .text	00000050 .hidden chMtxUnlockS
+080059c0 g     F .text	000000be .hidden test_005_005_execute.9271
+20000800 g       .data	00000000 _data_start
+20001018 g     O .bss	00000004 .hidden test_failure_message.8395
+080014a0 g     F .text	00000002 .hidden Vector140
+080014a0 g     F .text	00000002 .hidden VectorE4
+08000ad0 g     F .text	0000002e .hidden chPoolAlloc
+080014a0 g     F .text	00000002 .hidden VectorC0
+080014a0 g     F .text	00000002 .hidden Vector158
+080062b0 g     F .text	00000004 .hidden test_005_005_teardown.9265
+08000e90 g     F .text	0000002c .hidden bmk_thread7.10687
+20000fb8 g     O .bss	00000010 .hidden mb_buffer.10122
+080014a0 g     F .text	00000002 .hidden Vector130
+08000254 g     F .text	00000000 _port_switch
+08004c10  w    F .text	00000002 __core_init
+08005320 g     F .text	00000006 .hidden _putt.7738
+00000000 g       .bss	00000000 __ram4_noinit__
+080040b0 g     F .text	000001c8 .hidden test_005_006_execute.9261
+08004c00  w    F .text	00000002 __late_init
+08001ba0 g     F .text	000000aa .hidden test_013_009_execute.10711
+08002ce0 g     F .text	0000001c .hidden chEvtGetAndClearEvents.constprop.35
+08000f30 g     F .text	00000040 .hidden chMsgSend
+080015c0 g     F .text	00000012 .hidden test_013_007_setup.10709
+08000a70 g     F .text	0000005a .hidden _port_irq_epilogue
+080014a0 g     F .text	00000002 .hidden Vector134
+20000920 g     O .bss	00000020 .hidden heap1.10541
+08001c50 g     F .text	0000003a .hidden Thread2.11005
+08001ff0 g     F .text	00000038 .hidden test_009_001_setup.10103
+00000000 g       .bss	00000000 __ram6_clear__
+08005eb0 g     F .text	00000004 .hidden test_006_004_teardown.9492
+08005e30 g     F .text	0000007e .hidden test_007_001_execute.9621
+08005410 g     F .text	00000088 .hidden chMBPost.constprop.20
+08000b00 g     F .text	0000001e .hidden chEvtAddEvents
+08001f20 g     F .text	0000005c .hidden chGuardedPoolAllocTimeout.constprop.11
+08001d50 g     F .text	0000016c .hidden test_006_004_execute.9516
+080014a0 g     F .text	00000002 .hidden VectorF0
+080014a0 g     F .text	00000002 .hidden Vector12C
+200008b4 g       .data	00000000 _data_end
+080014a0 g     F .text	00000002 .hidden Vector13C
+08000360 g     F .text	00000046 .hidden chCoreAllocAlignedWithOffset
+080014a0 g     F .text	00000002 .hidden Vector100
+080014a0 g     F .text	00000002 .hidden VectorE0
+080014a0 g     F .text	00000002 .hidden VectorF4
+08000180 g       .vectors	00000000 __fini_array_start
+08005d10 g     F .text	0000011c .hidden test_008_003_execute.9888
+08005b00 g     F .text	00000030 .hidden test_012_001_setup.10525
+00000000 g       .bss	00000000 __ram2_clear__
+08000f70 g     F .text	00000026 .hidden msg_thread1.9618
+080015a0 g     F .text	00000012 .hidden test_013_010_setup.10707
+08002080 g     F .text	00000026 .hidden bmk_thread4.10693
+08006f90 g       .rodata	00000000 __rodata_base__
+08000e00 g     F .text	00000040 .hidden chMsgWait
+08002cb0 g     F .text	0000002a .hidden chCondSignalI.constprop.41
+08003050 g     F .text	00000132 .hidden test_010_002_execute.10261
+080014a0 g     F .text	00000002 .hidden MemManage_Handler
+08000ee0 g     F .text	0000001a .hidden thread3.9237
+080066f0 g     F .text	000006e0 main
+080014a0 g     F .text	00000002 .hidden Vector6C
+08003d50 g     F .text	00000038 .hidden chMBReset.constprop.21
+08005400 g     F .text	0000000a .hidden _write.7726
+08004d30 g     F .text	00000034 .hidden thread1.9045
+20000ffc g     O .bss	00000010 .hidden test_tokens_buffer.8392
+080014a0 g     F .text	00000002 .hidden VectorA0
+08008970 g       *ABS*	00000000 __ram2_init_text__
+08000340 g     F .text	00000012 .hidden SVC_Handler
+08005a80 g     F .text	00000038 .hidden test_009_002_setup.10101
+00000000 g       .bss	00000000 __ram3_free__
+08000d90 g     F .text	00000032 .hidden chSemSignal
+08000180 g       .vectors	00000000 __init_array_end
+080031b0 g     F .text	0000002a .hidden vtcb.8639
+080014a0 g     F .text	00000002 .hidden VectorC4
+080014a0 g     F .text	00000002 .hidden Vector7C
+08008970 g       *ABS*	00000000 __ram4_init_text__
+00000000 g       .bss	00000000 __ram1_noinit__
+080014a0 g     F .text	00000002 .hidden Vector90
+08000fa0 g     F .text	0000002c .hidden chEvtSignalI
+08003940 g     F .text	00000188 .hidden test_012_002_execute.10519
+08000280 g     F .text	00000002 .hidden tmo.10681
+080014a0 g     F .text	00000002 .hidden Vector114
+08000264 g     F .text	00000000 _port_thread_start
+08004f90 g     F .text	000000ae .hidden test_013_011_execute.10701
+080014a0 g     F .text	00000002 .hidden Vector60
+080003b0 g     F .text	00000076 .hidden wakeup.4670
+080014a0 g     F .text	00000002 .hidden Vector1C
+08001580 g     F .text	0000001a .hidden test_010_002_setup.10255
+080015e0 g     F .text	00000012 .hidden test_005_005_setup.9243
+20000fec g     O .bss	00000010 .hidden mtx1.10760
+08005c00 g     F .text	00000026 .hidden test_wait_threads
+080014a0 g     F .text	00000002 .hidden Vector48
+00000000 g       .bss	00000000 __ram2_init__
+20000400 g       .pstack	00000000 __process_stack_base__
+20000860 g     O .data	00000004 .hidden es1.9918
+08000890 g     F .text	00000112 .hidden test_013_012_execute.10699
+08002b80 g     F .text	00000050 .hidden chMBPostI.constprop.19
+200014a8 g       .heap	00000000 __ram0_clear__
+08003ee0 g     F .text	00000004 .hidden test_009_002_teardown.10093
+08000570 g     F .text	00000034 .hidden test_terminate_threads
+080014a0 g     F .text	00000002 .hidden Vector70
+08002910 g     F .text	000001c4 .hidden VectorD4
+08000290 g     F .text	00000016 .hidden test_012_002_setup.10521
+08003ed0 g     F .text	00000004 .hidden test_009_001_teardown.10095
+080009f0 g     F .text	0000007c .hidden chVTDoResetI
+20001330 g     O .bss	00000004 .hidden test_step
+08005b50 g     F .text	00000062 .hidden chThdRelease
+080023f0 g     F .text	00000056 .hidden test_008_002_execute.9863
+080028e0 g     F .text	00000024 .hidden chThdDequeueNextI.constprop.49
+00000000 g       .bss	00000000 __ram3_noinit__
+08000b50 g     F .text	00000090 .hidden chThdCreateSuspendedI
+08002f30 g     F .text	0000011e .hidden test_008_001_execute.9861
+080004d0 g     F .text	00000002 .hidden _idle_thread.4314
+200014a8 g       .heap	00000000 __ram0_noinit__
+08004c40 g     F .text	000000f0 .hidden test_003_004_execute.8787
+080020b0 g     F .text	000001a4 .hidden test_006_005_execute.9514
+08006f20 g     F .text	00000054 __init_ram_areas
+080002d0 g     F .text	0000001e .hidden test_002_004_execute.8644
+080014a0 g     F .text	00000002 .hidden Vector4C
+080014a0 g     F .text	00000002 .hidden Vector144
+080005b0 g     F .text	00000028 .hidden test_emit_token
+080014a0 g     F .text	00000002 .hidden Vector80
+08000274 g     F .text	00000000 _port_switch_from_isr
+080014a0 g     F .text	00000002 .hidden Vector15C
+08000620 g     F .text	00000006 .hidden thread.8784
+080014a0 g     F .text	00000002 .hidden Vector68
+08001050 g     F .text	00000064 .hidden chMtxUnlock
+20000864 g     O .data	00000008 .hidden c1.9544
+08001b00 g     F .text	0000009c .hidden test_001_001_execute.8619
+20000400 g       .mstack	00000000 __main_stack_end__
+080014a0 g     F .text	00000002 .hidden Vector78
+08002d70 g     F .text	00000036 .hidden chEvtWaitOne.constprop.31
+00000000 g       .bss	00000000 __ram5_init__
+20001334 g     O .bss	00000004 .hidden test_chp.8390
+08002db0 g     F .text	0000002e .hidden chEvtWaitAny.constprop.30
+080014a0 g     F .text	00000002 .hidden Vector88
+08002e80 g     F .text	0000005a .hidden chThdCreateFromMemoryPool.constprop.23
+2000100c g     O .bss	00000008 .hidden ch_memcore
+20000400 g       .pstack	00000000 __main_thread_stack_base__
+080063c0 g     F .text	000000c8 .hidden test_005_004_execute.9279
+08004d70 g     F .text	0000009a .hidden chVTDoSetI
+08006190 g     F .text	00000110 .hidden test_006_001_execute.9512
+08008970 g       *ABS*	00000000 __ram7_init_text__
+00000000 g       .bss	00000000 __ram3_init__
+08003510 g     F .text	000000ec .hidden test_013_008_execute.10713
+080014a0 g     F .text	00000002 .hidden Vector104
+08003f00 g     F .text	000001a6 .hidden test_008_006_execute.9876
+080014a0 g     F .text	00000002 .hidden Vector10C
+08000278 g       .text	00000000 _port_exit_from_isr
+00000000 g       .bss	00000000 __ram1_init__
+08000c30 g     F .text	00000030 .hidden chThdSetPriority
+08000180 g       .vectors	00000000 __init_array_start
+08005bc0 g     F .text	0000003a .hidden chThdWait
+080088bc g       *ABS*	00000000 _textdata_start
+20001020 g     O .bss	0000007c .hidden SD1
+08002450 g     F .text	00000416 .hidden test_011_001_execute.10389
+080014a0 g     F .text	00000002 .hidden Vector14C
+08003600 g     F .text	00000130 .hidden test_013_007_execute.10715
+08003ef0 g     F .text	00000004 .hidden test_009_003_teardown.10091
+08001640 g     F .text	00000012 .hidden test_005_002_setup.9249
+080014a0 g     F .text	00000002 .hidden BusFault_Handler
+08000630 g     F .text	0000003a .hidden test_println
+080014a0 g     F .text	00000002 .hidden Vector50
+200012c0 g     O .bss	00000070 .hidden ch
+00000000 g       .bss	00000000 __ram2_free__
+080014a0 g     F .text	00000002 .hidden Vector154
+00000000 g       .bss	00000000 __ram4_free__
+08004e90 g     F .text	000000d4 .hidden test_003_001_execute.8795
+20000940 g     O .bss	0000000c .hidden mp1.10540
+08007928 g     O .rodata	00000014 .hidden wa
+08005910 g     F .text	000000a2 .hidden chThdCreateStatic.constprop.52
+20000000 g       .mstack	00000000 __main_stack_base__
+08000540 g     F .text	0000002e .hidden bmk_thread8.10684
+080014a0 g     F .text	00000002 .hidden Vector44
+080014a0 g     F .text	00000002 .hidden Vector28
+080014a0 g     F .text	00000002 .hidden VectorB8
+2000086c g     O .data	00000010 .hidden m1.9546
+080014a0 g     F .text	00000002 .hidden VectorFC
+08001360 g     F .text	0000003a .hidden chSemReset
+00000000 g       .bss	00000000 __ram7_noinit__
+08002b30 g     F .text	0000004c .hidden chMBPostAheadI.constprop.17
+08001560 g     F .text	00000012 .hidden test_006_001_setup.9506
+20000800 g       .pstack	00000000 __process_stack_end__
+20001014 g     O .bss	00000001 .hidden test_local_fail.8393
+08002bd0 g     F .text	00000024 .hidden chThdDequeueAllI.constprop.48
+080014a0 g     F .text	00000002 .hidden Vector34
+08002d10 g     F .text	00000004 .hidden test_008_003_setup.9855
+08006dd0 g     F .text	0000009e __early_init
+08001330 g     F .text	0000002a .hidden chSemSignalI
+08004870 g     F .text	00000382 .hidden test_009_001_execute.10107
+08001620 g     F .text	00000012 .hidden test_005_003_setup.9247
+08003c50 g     F .text	000000f2 .hidden test_008_005_execute.9880
+080014a0 g     F .text	00000002 .hidden Vector128
+080014b0 g     F .text	0000002c .hidden test_006_009_setup.9496
+080014e0 g     F .text	0000001e .hidden test_006_008_setup.9498
+080014a0 g     F .text	00000002 .hidden VectorA4
+20000834 g     O .data	00000004 .hidden es2.9917
+08003ad0 g     F .text	0000017e .hidden test_012_001_execute.10523
+08002d30 g     F .text	00000004 .hidden test_008_005_setup.9851
+080014a0 g     F .text	00000002 .hidden Vector20
+080062c0 g     F .text	000000fa .hidden test_005_002_execute.9267
+
+
