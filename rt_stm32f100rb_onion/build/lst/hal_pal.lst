@@ -1,4 +1,4 @@
-ARM GAS  /tmp/cc5GaSAK.s 			page 1
+ARM GAS  /tmp/ccqa0TTo.s 			page 1
 
 
    1              		.syntax unified
@@ -17,7 +17,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
   14              		.file	"hal_pal.c"
   15              		.text
   16              	.Ltext0:
-  17              		.section	.gnu.lto_.jmpfuncs.e9c92c7affc735eb,"",%progbits
+  17              		.section	.gnu.lto_.jmpfuncs.4fbeed2100e6cdcf,"",%progbits
   18 0000 789C6362 		.ascii	"x\234cb`b\300\006D\24043\003##3\02333\204\315\300X\006"
   18      6062C006 
   18      44A03433 
@@ -26,7 +26,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
   19 0018 A4010623 		.ascii	"\244\001\006#\000\243"
   19      00A3
   20              		.text
-  21              		.section	.gnu.lto_.inline.e9c92c7affc735eb,"",%progbits
+  21              		.section	.gnu.lto_.inline.4fbeed2100e6cdcf,"",%progbits
   22 0000 789C6362 		.ascii	"x\234cb`b\300\006\276Cif\006\006N\016Ff\006F0\023D:"
   22      6062C006 
   22      BE436966 
@@ -58,7 +58,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
   28 006e 7202E588 		.ascii	"r\002\345\210s\036\320&\011\220I,\274@}\023\374@\220"
   28      731ED026 
   28      0990492C 
-ARM GAS  /tmp/cc5GaSAK.s 			page 2
+ARM GAS  /tmp/ccqa0TTo.s 			page 2
 
 
   28      BC407D13 
@@ -66,14 +66,14 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
   29 0081 01003C62 		.ascii	"\001\000<b\037\210"
   29      1F88
   30              		.text
-  31              		.section	.gnu.lto_.pureconst.e9c92c7affc735eb,"",%progbits
+  31              		.section	.gnu.lto_.pureconst.4fbeed2100e6cdcf,"",%progbits
   32 0000 789C6362 		.ascii	"x\234cb`b`g\200\000f\006)F)&I\000\001\312\000_"
   32      60626067 
   32      80006606 
   32      29462926 
   32      490001CA 
   33              		.text
-  34              		.section	.gnu.lto_palReadBus.e9c92c7affc735eb,"",%progbits
+  34              		.section	.gnu.lto_palReadBus.4fbeed2100e6cdcf,"",%progbits
   35 0000 789C6D90 		.ascii	"x\234m\2201K\003A\020\205\337\233\275\315\335\245\260"
   35      314B0341 
   35      1085DF9B 
@@ -118,7 +118,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
   43      851D5EA9 
   43      5397A685 
   44 00a1 CD9CF612 		.ascii	"\315\234\366\022\027\314\331\350R\2665\206~\214}V\303"
-ARM GAS  /tmp/cc5GaSAK.s 			page 3
+ARM GAS  /tmp/ccqa0TTo.s 			page 3
 
 
   44      17CCD9E8 
@@ -153,7 +153,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
   50      1B931252 
   50      9F
   51              		.text
-  52              		.section	.gnu.lto_palWriteBus.e9c92c7affc735eb,"",%progbits
+  52              		.section	.gnu.lto_palWriteBus.4fbeed2100e6cdcf,"",%progbits
   53 0000 789C6D51 		.ascii	"x\234mQ\277K\303`\020\275\373\2764I\177\353V\235\004"
   53      BF4BC360 
   53      10BDFBBE 
@@ -178,7 +178,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
   57      0A9E2AE8 
   57      5544B6C4 
   57      66FC
-ARM GAS  /tmp/cc5GaSAK.s 			page 4
+ARM GAS  /tmp/ccqa0TTo.s 			page 4
 
 
   58 0057 4A34F40D 		.ascii	"J4\364\015\263$\304\3247\334\337f\255\2756\217\323\331"
@@ -238,7 +238,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
   69      83114C65 
   69      A345E0C4 
   69      8A47E76F 
-ARM GAS  /tmp/cc5GaSAK.s 			page 5
+ARM GAS  /tmp/ccqa0TTo.s 			page 5
 
 
   70 0127 11AB119D 		.ascii	"\021\253\021\235Do4\234>\254G]\361\251\343\203\3417"
@@ -254,7 +254,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
   72      A049BFF1 
   72      E57055
   73              		.text
-  74              		.section	.gnu.lto_palSetBusMode.e9c92c7affc735eb,"",%progbits
+  74              		.section	.gnu.lto_palSetBusMode.4fbeed2100e6cdcf,"",%progbits
   75 0000 789C6D90 		.ascii	"x\234m\220\277J\003A\020\306\277o\366\376\231\3122Z"
   75      BF4A0341 
   75      10C6BF6F 
@@ -298,7 +298,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
   83      6A8D9266 
   83      131B96C1 
   83      35AE6819 
-ARM GAS  /tmp/cc5GaSAK.s 			page 6
+ARM GAS  /tmp/ccqa0TTo.s 			page 6
 
 
   83      9694
@@ -330,7 +330,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
   89 0103 77D302DF 		.ascii	"w\323\002\337A\012MN"
   89      410A4D4E 
   90              		.text
-  91              		.section	.gnu.lto_.symbol_nodes.e9c92c7affc735eb,"",%progbits
+  91              		.section	.gnu.lto_.symbol_nodes.4fbeed2100e6cdcf,"",%progbits
   92 0000 789C6362 		.ascii	"x\234cb`bpe\200\002\246\333\214\365\014\014\023\316"
   92      60627065 
   92      8002A6DB 
@@ -350,15 +350,15 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
   95      00000210 
   95      15BD
   96              		.text
-  97              		.section	.gnu.lto_.refs.e9c92c7affc735eb,"",%progbits
+  97              		.section	.gnu.lto_.refs.4fbeed2100e6cdcf,"",%progbits
   98 0000 789C6362 		.ascii	"x\234cb`b`d\200\002\000\000F\000\006"
   98      60626064 
   98      80020000 
   98      460006
   99              		.text
- 100              		.section	.gnu.lto_.decls.e9c92c7affc735eb,"",%progbits
+ 100              		.section	.gnu.lto_.decls.4fbeed2100e6cdcf,"",%progbits
  101 0000 789CB557 		.ascii	"x\234\265WoL\024G\024\237\331=\352\035\236\224\232h"
-ARM GAS  /tmp/cc5GaSAK.s 			page 7
+ARM GAS  /tmp/ccqa0TTo.s 			page 7
 
 
  101      6F4C1447 
@@ -418,7 +418,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  112      31A3637F 
  112      81DCA138 
  112      D86C
-ARM GAS  /tmp/cc5GaSAK.s 			page 8
+ARM GAS  /tmp/ccqa0TTo.s 			page 8
 
 
  113 00f0 6B35FA92 		.ascii	"k5\372\222\364\306b\307\246\357\341\303$\272\233\304"
@@ -478,7 +478,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  125 01ba A9AC41BD 		.ascii	"\251\254A\275\3006:z\365\363\027I\357\030^\214|\014"
  125      C0363A7A 
  125      F5F31749 
-ARM GAS  /tmp/cc5GaSAK.s 			page 9
+ARM GAS  /tmp/ccqa0TTo.s 			page 9
 
 
  125      EF185E8C 
@@ -538,7 +538,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  136      93F6587C 
  136      FF6437FE 
  136      AC835C29 
-ARM GAS  /tmp/cc5GaSAK.s 			page 10
+ARM GAS  /tmp/ccqa0TTo.s 			page 10
 
 
  137 029e D12F9F9B 		.ascii	"\321/\237\233Y#\026\032\021\243\367\256\302\022fs?\315"
@@ -598,7 +598,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  148      699992E0 
  148      67DB28DD 
  148      BCECEEDA 
-ARM GAS  /tmp/cc5GaSAK.s 			page 11
+ARM GAS  /tmp/ccqa0TTo.s 			page 11
 
 
  149 0378 158BC757 		.ascii	"\025\213\307Wg\036\242\337\322\204(\213G\343\210\366"
@@ -658,7 +658,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  160      E976A55C 
  160      A8C70636 
  160      6E57B2
-ARM GAS  /tmp/cc5GaSAK.s 			page 12
+ARM GAS  /tmp/ccqa0TTo.s 			page 12
 
 
  161 044e 916BE2AC 		.ascii	"\221k\342\254\317\002\317\306x\3139j!\001\227\252\346"
@@ -718,7 +718,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  172      D02084
  173 0521 155FA059 		.ascii	"\025_\240Y\001\015g\004~\313\313D\345U\273iM\222\267"
  173      010D6704 
-ARM GAS  /tmp/cc5GaSAK.s 			page 13
+ARM GAS  /tmp/ccqa0TTo.s 			page 13
 
 
  173      7ECBCB44 
@@ -778,7 +778,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  184      B53A45D1 
  184      1F69F6
  185 05fb 8AE232BD 		.ascii	"\212\3422\275Q\374\332\372\212rS\257\302\330\333P\376"
-ARM GAS  /tmp/cc5GaSAK.s 			page 14
+ARM GAS  /tmp/ccqa0TTo.s 			page 14
 
 
  185      51FCDAFA 
@@ -788,7 +788,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  186 060c 1FBADABA 		.ascii	"\037\272\332\272\035"
  186      1D
  187              		.text
- 188              		.section	.gnu.lto_.symtab.e9c92c7affc735eb,"",%progbits
+ 188              		.section	.gnu.lto_.symtab.4fbeed2100e6cdcf,"",%progbits
  189 0000 70616C52 		.ascii	"palReadBus\000\000\000\000\000\000\000\000\000\000\000"
  189      65616442 
  189      75730000 
@@ -838,7 +838,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  200      636F6D6D 
  200      6F6E2720 
  200      272D666C 
-ARM GAS  /tmp/cc5GaSAK.s 			page 15
+ARM GAS  /tmp/ccqa0TTo.s 			page 15
 
 
  200      746F2700 
@@ -898,7 +898,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  254              		.cfi_offset 5, -4
  255              		.loc 1 94 0
  256 0006 22EA0105 		bic	r5, r2, r1
-ARM GAS  /tmp/cc5GaSAK.s 			page 16
+ARM GAS  /tmp/ccqa0TTo.s 			page 16
 
 
  257 000a 03F11004 		add	r4, r3, #16
@@ -958,7 +958,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  308              		.size	palSetBusMode, .-palSetBusMode
  309 0016 00BFAFF3 		.text
  309      0080AFF3 
-ARM GAS  /tmp/cc5GaSAK.s 			page 17
+ARM GAS  /tmp/ccqa0TTo.s 			page 17
 
 
  309      0080
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  363 0053 04       		.uleb128 0x4
  364 0054 40010000 		.4byte	.LASF5
  365 0058 02       		.byte	0x2
-ARM GAS  /tmp/cc5GaSAK.s 			page 18
+ARM GAS  /tmp/ccqa0TTo.s 			page 18
 
 
  366 0059 26       		.byte	0x26
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  420 00c8 03       		.byte	0x3
  421 00c9 42       		.byte	0x42
  422 00ca 77000000 		.4byte	0x77
-ARM GAS  /tmp/cc5GaSAK.s 			page 19
+ARM GAS  /tmp/ccqa0TTo.s 			page 19
 
 
  423 00ce 04       		.uleb128 0x4
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  477 0143 47010000 		.4byte	0x147
  478 0147 05       		.uleb128 0x5
  479 0148 07020000 		.4byte	.LASF46
-ARM GAS  /tmp/cc5GaSAK.s 			page 20
+ARM GAS  /tmp/ccqa0TTo.s 			page 20
 
 
  480 014c 44       		.byte	0x44
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  534 01b8 06       		.byte	0x6
  535 01b9 B9       		.byte	0xb9
  536 01ba E4000000 		.4byte	0xe4
-ARM GAS  /tmp/cc5GaSAK.s 			page 21
+ARM GAS  /tmp/ccqa0TTo.s 			page 21
 
 
  537 01be 21       		.byte	0x21
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  591 022c 30020000 		.4byte	0x230
  592 0230 0A       		.uleb128 0xa
  593 0231 04       		.byte	0x4
-ARM GAS  /tmp/cc5GaSAK.s 			page 22
+ARM GAS  /tmp/ccqa0TTo.s 			page 22
 
 
  594 0232 3C010000 		.4byte	0x13c
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  648 02a2 09       		.uleb128 0x9
  649 02a3 34040000 		.4byte	.LASF29
  650 02a7 06       		.byte	0x6
-ARM GAS  /tmp/cc5GaSAK.s 			page 23
+ARM GAS  /tmp/ccqa0TTo.s 			page 23
 
 
  651 02a8 6B01     		.2byte	0x16b
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  705 031a 0B       		.uleb128 0xb
  706 031b 18010000 		.4byte	.LASF57
  707 031f 14       		.byte	0x14
-ARM GAS  /tmp/cc5GaSAK.s 			page 24
+ARM GAS  /tmp/ccqa0TTo.s 			page 24
 
 
  708 0320 06       		.byte	0x6
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  762 0394 5801     		.2byte	0x158
  763 0396 39060000 		.4byte	0x639
  764 039a 04       		.byte	0x4
-ARM GAS  /tmp/cc5GaSAK.s 			page 25
+ARM GAS  /tmp/ccqa0TTo.s 			page 25
 
 
  765 039b 09       		.uleb128 0x9
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  819 040e 08       		.uleb128 0x8
  820 040f 64626700 		.ascii	"dbg\000"
  821 0413 06       		.byte	0x6
-ARM GAS  /tmp/cc5GaSAK.s 			page 26
+ARM GAS  /tmp/ccqa0TTo.s 			page 26
 
 
  822 0414 A801     		.2byte	0x1a8
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  876 0485 6201     		.2byte	0x162
  877 0487 30040000 		.4byte	0x430
  878 048b 14       		.byte	0x14
-ARM GAS  /tmp/cc5GaSAK.s 			page 27
+ARM GAS  /tmp/ccqa0TTo.s 			page 27
 
 
  879 048c 09       		.uleb128 0x9
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  933 04fa 723600   		.ascii	"r6\000"
  934 04fd 09       		.byte	0x9
  935 04fe 6E01     		.2byte	0x16e
-ARM GAS  /tmp/cc5GaSAK.s 			page 28
+ARM GAS  /tmp/ccqa0TTo.s 			page 28
 
 
  936 0500 A6040000 		.4byte	0x4a6
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  990 056e 06       		.byte	0x6
  991 056f E0       		.byte	0xe0
  992 0570 10010000 		.4byte	0x110
-ARM GAS  /tmp/cc5GaSAK.s 			page 29
+ARM GAS  /tmp/ccqa0TTo.s 			page 29
 
 
  993 0574 13       		.uleb128 0x13
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1047 05e5 04       		.byte	0x4
  1048 05e6 BF050000 		.4byte	0x5bf
  1049 05ea 05       		.uleb128 0x5
-ARM GAS  /tmp/cc5GaSAK.s 			page 30
+ARM GAS  /tmp/ccqa0TTo.s 			page 30
 
 
  1050 05eb A3010000 		.4byte	.LASF88
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1104 0657 02       		.byte	0x2
  1105 0658 9D010000 		.4byte	.LASF92
  1106 065c 04       		.uleb128 0x4
-ARM GAS  /tmp/cc5GaSAK.s 			page 31
+ARM GAS  /tmp/ccqa0TTo.s 			page 31
 
 
  1107 065d 57020000 		.4byte	.LASF93
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1161 06cf 9C       		.byte	0x9c
  1162 06d0 ED060000 		.4byte	0x6ed
  1163 06d4 18       		.uleb128 0x18
-ARM GAS  /tmp/cc5GaSAK.s 			page 32
+ARM GAS  /tmp/ccqa0TTo.s 			page 32
 
 
  1164 06d5 62757300 		.ascii	"bus\000"
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1218 0753 15       		.uleb128 0x15
  1219 0754 43070000 		.4byte	0x743
  1220 0758 1C       		.uleb128 0x1c
-ARM GAS  /tmp/cc5GaSAK.s 			page 33
+ARM GAS  /tmp/ccqa0TTo.s 			page 33
 
 
  1221 0759 16020000 		.4byte	.LASF104
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1275 07d1 D201     		.2byte	0x1d2
  1276 07d3 DC030000 		.4byte	0x3dc
  1277 07d7 23       		.uleb128 0x23
-ARM GAS  /tmp/cc5GaSAK.s 			page 34
+ARM GAS  /tmp/ccqa0TTo.s 			page 34
 
 
  1278 07d8 B9040000 		.4byte	.LASF112
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1332 0029 04       		.uleb128 0x4
  1333 002a 16       		.uleb128 0x16
  1334 002b 00       		.byte	0
-ARM GAS  /tmp/cc5GaSAK.s 			page 35
+ARM GAS  /tmp/ccqa0TTo.s 			page 35
 
 
  1335 002c 03       		.uleb128 0x3
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1389 0062 00       		.byte	0
  1390 0063 08       		.uleb128 0x8
  1391 0064 0D       		.uleb128 0xd
-ARM GAS  /tmp/cc5GaSAK.s 			page 36
+ARM GAS  /tmp/ccqa0TTo.s 			page 36
 
 
  1392 0065 00       		.byte	0
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1446 009b 01       		.byte	0x1
  1447 009c 27       		.uleb128 0x27
  1448 009d 19       		.uleb128 0x19
-ARM GAS  /tmp/cc5GaSAK.s 			page 37
+ARM GAS  /tmp/ccqa0TTo.s 			page 37
 
 
  1449 009e 01       		.uleb128 0x1
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1503 00d4 0B       		.uleb128 0xb
  1504 00d5 0B       		.uleb128 0xb
  1505 00d6 3A       		.uleb128 0x3a
-ARM GAS  /tmp/cc5GaSAK.s 			page 38
+ARM GAS  /tmp/ccqa0TTo.s 			page 38
 
 
  1506 00d7 0B       		.uleb128 0xb
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1560 010d 2E       		.uleb128 0x2e
  1561 010e 01       		.byte	0x1
  1562 010f 3F       		.uleb128 0x3f
-ARM GAS  /tmp/cc5GaSAK.s 			page 39
+ARM GAS  /tmp/ccqa0TTo.s 			page 39
 
 
  1563 0110 19       		.uleb128 0x19
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1617 0147 01       		.uleb128 0x1
  1618 0148 13       		.uleb128 0x13
  1619 0149 00       		.byte	0
-ARM GAS  /tmp/cc5GaSAK.s 			page 40
+ARM GAS  /tmp/ccqa0TTo.s 			page 40
 
 
  1620 014a 00       		.byte	0
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1674 0181 0E       		.uleb128 0xe
  1675 0182 3A       		.uleb128 0x3a
  1676 0183 0B       		.uleb128 0xb
-ARM GAS  /tmp/cc5GaSAK.s 			page 41
+ARM GAS  /tmp/ccqa0TTo.s 			page 41
 
 
  1677 0184 3B       		.uleb128 0x3b
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1731 01c0 49       		.uleb128 0x49
  1732 01c1 13       		.uleb128 0x13
  1733 01c2 3F       		.uleb128 0x3f
-ARM GAS  /tmp/cc5GaSAK.s 			page 42
+ARM GAS  /tmp/ccqa0TTo.s 			page 42
 
 
  1734 01c3 19       		.uleb128 0x19
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1788 0042 00000000 		.4byte	.LVL4
  1789 0046 0A000000 		.4byte	.LVL5
  1790 004a 0100     		.2byte	0x1
-ARM GAS  /tmp/cc5GaSAK.s 			page 43
+ARM GAS  /tmp/ccqa0TTo.s 			page 43
 
 
  1791 004c 50       		.byte	0x50
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1845              		.section	.debug_line,"",%progbits
  1846              	.Ldebug_line0:
  1847 0000 22020000 		.section	.debug_str,"MS",%progbits,1
-ARM GAS  /tmp/cc5GaSAK.s 			page 44
+ARM GAS  /tmp/ccqa0TTo.s 			page 44
 
 
  1847      0200DF01 
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1874              	.LASF37:
  1875 0078 72656673 		.ascii	"refs\000"
  1875      00
-ARM GAS  /tmp/cc5GaSAK.s 			page 45
+ARM GAS  /tmp/ccqa0TTo.s 			page 45
 
 
  1876              	.LASF81:
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1904              	.LASF87:
  1905 0103 63685F73 		.ascii	"ch_semaphore\000"
  1905      656D6170 
-ARM GAS  /tmp/cc5GaSAK.s 			page 46
+ARM GAS  /tmp/ccqa0TTo.s 			page 46
 
 
  1905      686F7265 
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1932              	.LASF88:
  1933 01a3 63685F6D 		.ascii	"ch_mutex\000"
  1933      75746578 
-ARM GAS  /tmp/cc5GaSAK.s 			page 47
+ARM GAS  /tmp/ccqa0TTo.s 			page 47
 
 
  1933      00
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1961      5F7400
  1962              	.LASF11:
  1963 0233 6C6F6E67 		.ascii	"long long int\000"
-ARM GAS  /tmp/cc5GaSAK.s 			page 48
+ARM GAS  /tmp/ccqa0TTo.s 			page 48
 
 
  1963      206C6F6E 
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  1986 0332 6D61696E 		.ascii	"mainthread\000"
  1986      74687265 
  1986      616400
-ARM GAS  /tmp/cc5GaSAK.s 			page 49
+ARM GAS  /tmp/ccqa0TTo.s 			page 49
 
 
  1987              	.LASF15:
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  2012      72736F6E 
  2012      2F436869 
  2012      62694F53 
-ARM GAS  /tmp/cc5GaSAK.s 			page 50
+ARM GAS  /tmp/ccqa0TTo.s 			page 50
 
 
  2013              	.LASF4:
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  2041              	.LASF38:
  2042 0470 77616974 		.ascii	"waiting\000"
  2042      696E6700 
-ARM GAS  /tmp/cc5GaSAK.s 			page 51
+ARM GAS  /tmp/ccqa0TTo.s 			page 51
 
 
  2043              	.LASF60:
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  2068 0519 70616C57 		.ascii	"palWriteBus\000"
  2068      72697465 
  2068      42757300 
-ARM GAS  /tmp/cc5GaSAK.s 			page 52
+ARM GAS  /tmp/ccqa0TTo.s 			page 52
 
 
  2069              	.LASF32:
@@ -3076,17 +3076,17 @@ ARM GAS  /tmp/cc5GaSAK.s 			page 1
  2076      6C00
  2077              		.comm	__gnu_lto_v1,1,1
  2078              		.ident	"GCC: (4.8.2-14ubuntu1+6) 4.8.2"
-ARM GAS  /tmp/cc5GaSAK.s 			page 53
+ARM GAS  /tmp/ccqa0TTo.s 			page 53
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 hal_pal.c
-     /tmp/cc5GaSAK.s:204    .text.palReadBus:0000000000000000 $t
-     /tmp/cc5GaSAK.s:210    .text.palReadBus:0000000000000000 palReadBus
-     /tmp/cc5GaSAK.s:233    .text.palWriteBus:0000000000000000 $t
-     /tmp/cc5GaSAK.s:239    .text.palWriteBus:0000000000000000 palWriteBus
-     /tmp/cc5GaSAK.s:274    .text.palSetBusMode:0000000000000000 $t
-     /tmp/cc5GaSAK.s:280    .text.palSetBusMode:0000000000000000 palSetBusMode
+     /tmp/ccqa0TTo.s:204    .text.palReadBus:0000000000000000 $t
+     /tmp/ccqa0TTo.s:210    .text.palReadBus:0000000000000000 palReadBus
+     /tmp/ccqa0TTo.s:233    .text.palWriteBus:0000000000000000 $t
+     /tmp/ccqa0TTo.s:239    .text.palWriteBus:0000000000000000 palWriteBus
+     /tmp/ccqa0TTo.s:274    .text.palSetBusMode:0000000000000000 $t
+     /tmp/ccqa0TTo.s:280    .text.palSetBusMode:0000000000000000 palSetBusMode
                             *COM*:0000000000000001 __gnu_lto_v1
                      .debug_frame:0000000000000010 $d
 

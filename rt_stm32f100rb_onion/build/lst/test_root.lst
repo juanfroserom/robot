@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccQneqRX.s 			page 1
+ARM GAS  /tmp/ccyn58t1.s 			page 1
 
 
    1              		.syntax unified
@@ -17,7 +17,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
   14              		.file	"test_root.c"
   15              		.text
   16              	.Ltext0:
-  17              		.section	.gnu.lto_.jmpfuncs.740bfd153261cb2b,"",%progbits
+  17              		.section	.gnu.lto_.jmpfuncs.a0624958383aa3c6,"",%progbits
   18 0000 789C6362 		.ascii	"x\234cb`b\300\006>\001q+\020\2630002U3\374j\230\321"
   18      6062C006 
   18      3E01712B 
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
   25      166526E6 
   25      95582930 
   25      703806F9 
-ARM GAS  /tmp/ccQneqRX.s 			page 2
+ARM GAS  /tmp/ccyn58t1.s 			page 2
 
 
   26 00a7 9699EBFA 		.ascii	"\226\231\353\372B$\035\213\22232KR\223KJ\213R\201\222"
@@ -74,7 +74,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
   28 00cf 151800EE 		.ascii	"\025\030\000\356\023Xj"
   28      13586A
   29              		.text
-  30              		.section	.gnu.lto_.inline.740bfd153261cb2b,"",%progbits
+  30              		.section	.gnu.lto_.inline.a0624958383aa3c6,"",%progbits
   31 0000 789C6362 		.ascii	"x\234cb`b\300\006\246Ai\026\006\006\341[\014\214`Ul"
   31      6062C006 
   31      A6416916 
@@ -98,7 +98,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
   35 0049 0080DD0D 		.ascii	"\000\200\335\015M"
   35      4D
   36              		.text
-  37              		.section	.gnu.lto_.pureconst.740bfd153261cb2b,"",%progbits
+  37              		.section	.gnu.lto_.pureconst.a0624958383aa3c6,"",%progbits
   38 0000 789C6362 		.ascii	"x\234cb`b\340d\200\000\026\006\011F\011f\011\026+\000"
   38      6062E064 
   38      80001606 
@@ -106,7 +106,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
   38      09162B00 
   39 0014 02DE009C 		.ascii	"\002\336\000\234"
   40              		.text
-  41              		.section	.gnu.lto_test_print_port_info.740bfd153261cb2b,"",%progbits
+  41              		.section	.gnu.lto_test_print_port_info.a0624958383aa3c6,"",%progbits
   42 0000 789C6362 		.ascii	"x\234cb`b@\007\222@\\\000\024^\005\244\031\231\031\030"
   42      60624007 
   42      92405C00 
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
   43      181819EA 
   43      9918EB
   44 0027 2319C16A 		.ascii	"#\031\301j\3273\035x\360\377\377\272\177\307\226\374"
-ARM GAS  /tmp/ccQneqRX.s 			page 3
+ARM GAS  /tmp/ccyn58t1.s 			page 3
 
 
   44      D7331D78 
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
   55      E797E8
   56 0105 2533086B 		.ascii	"%3\010kii)8\347\347\026d\346\244\026Y)\200\000\003\227"
   56      69692938 
-ARM GAS  /tmp/ccQneqRX.s 			page 4
+ARM GAS  /tmp/ccyn58t1.s 			page 4
 
 
   56      E7E71664 
@@ -211,7 +211,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
   62      0C00290E 
   62      D5D8
   63              		.text
-  64              		.section	.gnu.lto_test_terminate_threads.740bfd153261cb2b,"",%progbits
+  64              		.section	.gnu.lto_test_terminate_threads.a0624958383aa3c6,"",%progbits
   65 0000 789C5D92 		.ascii	"x\234]\222\277K\034A\024\307\277\337\231\235\3355\211"
   65      BF4B1C41 
   65      14C7BFDF 
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
   70 0058 590585FB 		.ascii	"Y\005\205\373\262,_\237\300S\321\014A\265}\001$\241"
   70      B22C5F9F 
   70      C053D10C 
-ARM GAS  /tmp/ccQneqRX.s 			page 5
+ARM GAS  /tmp/ccyn58t1.s 			page 5
 
 
   70      41B57D01 
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
   82      1FE67EC0 
   82      90ED4705 
   82      4B626306 
-ARM GAS  /tmp/ccQneqRX.s 			page 6
+ARM GAS  /tmp/ccyn58t1.s 			page 6
 
 
   82      658C
@@ -331,7 +331,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
   88      E35B4E2C 
   88      846C
   89              		.text
-  90              		.section	.gnu.lto_test_wait_threads.740bfd153261cb2b,"",%progbits
+  90              		.section	.gnu.lto_test_wait_threads.a0624958383aa3c6,"",%progbits
   91 0000 789C9552 		.ascii	"x\234\225R\277k\024A\024\376\276\231\235\335M0 il\203"
   91      BF6B1441 
   91      14FEBE99 
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
   95      F7BDF756 
   96 005c E1BCCCC9 		.ascii	"\341\274\314\3117#\346kr3\006\325\332g \213\025C\377"
   96      3723E66B 
-ARM GAS  /tmp/ccQneqRX.s 			page 7
+ARM GAS  /tmp/ccyn58t1.s 			page 7
 
 
   96      723306D5 
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  108 012a 19E0434D 		.ascii	"\031\340CM\037\242\227\357<\032\367q\300\010;LJ,\311"
  108      1FA297EF 
  108      3C1AF771 
-ARM GAS  /tmp/ccQneqRX.s 			page 8
+ARM GAS  /tmp/ccyn58t1.s 			page 8
 
 
  108      C0083B4C 
@@ -460,7 +460,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  116 01b7 FF00C42F 		.ascii	"\377\000\304/\225\331"
  116      95D9
  117              		.text
- 118              		.section	.gnu.lto_test_wait_tick.740bfd153261cb2b,"",%progbits
+ 118              		.section	.gnu.lto_test_wait_tick.a0624958383aa3c6,"",%progbits
  119 0000 789C8D53 		.ascii	"x\234\215SOH\024a\024\177ov\266]5\303\243V\330bD\205"
  119      4F481461 
  119      147F6F76 
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  121      283262EB 
  122 0041 A4902B75 		.ascii	"\244\220+uK\017\355\305\203\005a\267\212p{\337|6\272"
  122      4B0FEDC5 
-ARM GAS  /tmp/ccQneqRX.s 			page 9
+ARM GAS  /tmp/ccyn58t1.s 			page 9
 
 
  122      830561B7 
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  133      7ABA3899 
  134 0116 FCF7959B 		.ascii	"\374\367\225\233\365\316\375\364\210\263IT\210\260\000"
  134      F5CEFDF4 
-ARM GAS  /tmp/ccQneqRX.s 			page 10
+ARM GAS  /tmp/ccyn58t1.s 			page 10
 
 
  134      88B34954 
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  145      5DCC9271 
  145      86365EE9 
  146 01f4 DFE6C8F8 		.ascii	"\337\346\310\370\030\0339\255w\220\336x\360a/7?\316"
-ARM GAS  /tmp/ccQneqRX.s 			page 11
+ARM GAS  /tmp/ccyn58t1.s 			page 11
 
 
  146      181B39AD 
@@ -656,9 +656,9 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  157 02b9 02130C39 		.ascii	"\002\023\0149J"
  157      4A
  158              		.text
- 159              		.section	.gnu.lto_.symbol_nodes.740bfd153261cb2b,"",%progbits
+ 159              		.section	.gnu.lto_.symbol_nodes.a0624958383aa3c6,"",%progbits
  160 0000 789C4DCD 		.ascii	"x\234M\315IR\002A\020@\321\374U]\315$\342F\206sy\240"
-ARM GAS  /tmp/ccQneqRX.s 			page 12
+ARM GAS  /tmp/ccyn58t1.s 			page 12
 
 
  160      49520241 
@@ -712,13 +712,13 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  170 00ba C77BF207 		.ascii	"\307{\362\007\246E_\201"
  170      A6455F81 
  171              		.text
- 172              		.section	.gnu.lto_.refs.740bfd153261cb2b,"",%progbits
+ 172              		.section	.gnu.lto_.refs.a0624958383aa3c6,"",%progbits
  173 0000 789C35C1 		.ascii	"x\2345\301\307\021\2000\014\0000[\\\350\201P6a\377\335"
  173      C7118030 
  173      0C00305B 
  173      5CE88150 
  173      3661FFDD 
-ARM GAS  /tmp/ccQneqRX.s 			page 13
+ARM GAS  /tmp/ccyn58t1.s 			page 13
 
 
  174 0014 78704842 		.ascii	"xpHB<\361\311\014\272\220J\321\377\353`4\231-V\325f"
@@ -730,7 +730,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  175      3B5E22B6 
  175      015C
  176              		.text
- 177              		.section	.gnu.lto_.decls.740bfd153261cb2b,"",%progbits
+ 177              		.section	.gnu.lto_.decls.a0624958383aa3c6,"",%progbits
  178 0000 789CBD5B 		.ascii	"x\234\275[}p\024U\266\357\217\231L\206\204o\265pK\326"
  178      7D701455 
  178      B6EF8F99 
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  187      D433CA81 
  187      DA7E0065 
  187      2794DD50 
-ARM GAS  /tmp/ccQneqRX.s 			page 14
+ARM GAS  /tmp/ccyn58t1.s 			page 14
 
 
  187      F6426986 
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  198      25F7EBC7 
  198      302FB2
  199 0189 020BB732 		.ascii	"\002\013\2672\361I\266\0273\177\230Y\015M\241='\260"
-ARM GAS  /tmp/ccQneqRX.s 			page 15
+ARM GAS  /tmp/ccyn58t1.s 			page 15
 
 
  199      F149B617 
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  210      6C641F73 
  210      8CD3397D 
  210      CD
-ARM GAS  /tmp/ccQneqRX.s 			page 16
+ARM GAS  /tmp/ccyn58t1.s 			page 16
 
 
  211 0261 308CB315 		.ascii	"0\214\263\025\343\314aI \201\345\275F\001\361\265\326"
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  222      15621A13 
  222      D8D5ECC3 
  222      76A7A8
-ARM GAS  /tmp/ccQneqRX.s 			page 17
+ARM GAS  /tmp/ccyn58t1.s 			page 17
 
 
  223 033f 24E607F5 		.ascii	"$\346\007\365\270\241+\012\353j%g\326\225\322\350SZ"
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  234      7D7A6F05 
  234      368607CE 
  234      17EC
-ARM GAS  /tmp/ccQneqRX.s 			page 18
+ARM GAS  /tmp/ccyn58t1.s 			page 18
 
 
  235 0413 43509F83 		.ascii	"CP\237\203:qp\314f^\263)Mu\351\273p\273e\031V\211:\200"
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  246      372FFEE7 
  246      BA776479 
  246      568626C3 
-ARM GAS  /tmp/ccQneqRX.s 			page 19
+ARM GAS  /tmp/ccyn58t1.s 			page 19
 
 
  247 04f6 84229ADA 		.ascii	"\204\"\232\332p\330Q\300~\262\003f\351GU\321\235F\260"
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  258      5CD7FA45 
  258      69ACC649 
  258      1D671827 
-ARM GAS  /tmp/ccQneqRX.s 			page 20
+ARM GAS  /tmp/ccyn58t1.s 			page 20
 
 
  258      2D8E
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  270      25D6B97F 
  270      AB324CF7 
  271 06a7 60A0A549 		.ascii	"`\240\245I\026\3140\0310\2034 \\\"N?\340\370\370\262"
-ARM GAS  /tmp/ccQneqRX.s 			page 21
+ARM GAS  /tmp/ccyn58t1.s 			page 21
 
 
  271      16CC3019 
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  282      AE5C009C 
  282      6A
  283 0782 FF6AC5A9 		.ascii	"\377j\305\251\3229\201\234\330>\354\2059/\300\234cf"
-ARM GAS  /tmp/ccQneqRX.s 			page 22
+ARM GAS  /tmp/ccyn58t1.s 			page 22
 
 
  283      D239819C 
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  294      B8696318 
  294      57451B89 
  295 0857 FD00CD03 		.ascii	"\375\000\315\003o\246\366\300\224\372$Lx\3230@~\300"
-ARM GAS  /tmp/ccQneqRX.s 			page 23
+ARM GAS  /tmp/ccyn58t1.s 			page 23
 
 
  295      6FA6F6C0 
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  306      9973BFFC 
  306      0675EF3D 
  306      C5A6EC6B 
-ARM GAS  /tmp/ccQneqRX.s 			page 24
+ARM GAS  /tmp/ccyn58t1.s 			page 24
 
 
  306      6639
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  318      46AAE3A3 
  318      FFDC
  319 0a06 895524CC 		.ascii	"\211U$\314i9\341\336*\014\313\214d>\002UE\3433\036\301"
-ARM GAS  /tmp/ccQneqRX.s 			page 25
+ARM GAS  /tmp/ccyn58t1.s 			page 25
 
 
  319      6939E1DE 
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  330      6FE3893C 
  330      718ED7FC 
  330      B8A0
-ARM GAS  /tmp/ccQneqRX.s 			page 26
+ARM GAS  /tmp/ccyn58t1.s 			page 26
 
 
  331 0ae0 18D580A7 		.ascii	"\030\325\200\247\333\236I\217H\267\201\311X\233,\372"
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  342      6EDC45
  343 0bb1 875E909D 		.ascii	"\207^\220\235\014}\234\006\235\241K\3751\011\275\362"
  343      0C7D9C06 
-ARM GAS  /tmp/ccQneqRX.s 			page 27
+ARM GAS  /tmp/ccyn58t1.s 			page 27
 
 
  343      9DA14BFD 
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  354      A45FD7A4 
  354      E5BA19
  355 0c90 1AD4DF98 		.ascii	"\032\324\337\230D\006}\343\347kAeQ\365;\036\255~M\357"
-ARM GAS  /tmp/ccQneqRX.s 			page 28
+ARM GAS  /tmp/ccyn58t1.s 			page 28
 
 
  355      44067DE3 
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  366      D348BCD0 
  366      458FC4C6 
  366      EF
-ARM GAS  /tmp/ccQneqRX.s 			page 29
+ARM GAS  /tmp/ccyn58t1.s 			page 29
 
 
  367 0d63 C0F456D0 		.ascii	"\300\364V\320\355O\314\335&\245\240\365\233T\342\021"
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  378      34F5B3
  379 0e32 BD35AE94 		.ascii	"\2755\256\224\237\355\255u%\355p\000\303\216\365\327"
  379      9FEDAD75 
-ARM GAS  /tmp/ccQneqRX.s 			page 30
+ARM GAS  /tmp/ccyn58t1.s 			page 30
 
 
  379      25ED7000 
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  390      4F93B3
  391 0f05 EE319BEE 		.ascii	"\3561\233\356#\253\021\261\2346\"\032l1\331gf\262\237"
  391      23AB11B1 
-ARM GAS  /tmp/ccQneqRX.s 			page 31
+ARM GAS  /tmp/ccyn58t1.s 			page 31
 
 
  391      9C36221A 
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  403      FA528151 
  403      FF95539F 
  403      E44548F8 
-ARM GAS  /tmp/ccQneqRX.s 			page 32
+ARM GAS  /tmp/ccyn58t1.s 			page 32
 
 
  403      FC57
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  415      33A5B084 
  415      0DEF417F 
  415      0C051B
-ARM GAS  /tmp/ccQneqRX.s 			page 33
+ARM GAS  /tmp/ccyn58t1.s 			page 33
 
 
  416 10b7 284DE0CC 		.ascii	"(M\340\314\215\377\361H\245eE\360\277{|@\230\020\366"
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  426      C2
  427 1181 BCF8F23F 		.ascii	"\274\370\362?\000\244\033>\033\033\020\305r\217\312"
  427      00A41B3E 
-ARM GAS  /tmp/ccQneqRX.s 			page 34
+ARM GAS  /tmp/ccyn58t1.s 			page 34
 
 
  427      1B1B10C5 
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  438      82
  439 125a 42D7C8E7 		.ascii	"B\327\310\347F\025rc\013\371Q\317\024\272\013\012F\027"
  439      46157263 
-ARM GAS  /tmp/ccQneqRX.s 			page 35
+ARM GAS  /tmp/ccyn58t1.s 			page 35
 
 
  439      0BF951CF 
@@ -2098,12 +2098,12 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  450      7E2188FA 
  451 1331 AACCBB15 		.ascii	"\252\314\273\025\370\374\377\001\355\204N\361"
  451      F8FCFF01 
-ARM GAS  /tmp/ccQneqRX.s 			page 36
+ARM GAS  /tmp/ccyn58t1.s 			page 36
 
 
  451      ED844EF1 
  452              		.text
- 453              		.section	.gnu.lto_.symtab.740bfd153261cb2b,"",%progbits
+ 453              		.section	.gnu.lto_.symtab.a0624958383aa3c6,"",%progbits
  454 0000 74657374 		.ascii	"test_print_port_info\000\000\000\000\000\000\000\000"
  454      5F707269 
  454      6E745F70 
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  465 00dd 00000000 		.ascii	"\000\000\000\000\000\000\251\001\000\000test_sequen"
  465      0000A901 
  465      00007465 
-ARM GAS  /tmp/ccQneqRX.s 			page 37
+ARM GAS  /tmp/ccyn58t1.s 			page 37
 
 
  465      73745F73 
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  476      656E6365 
  477 01e1 02000000 		.ascii	"\002\000\000\000\000\000\000\000\000\000\331\001\000"
  477      00000000 
-ARM GAS  /tmp/ccQneqRX.s 			page 38
+ARM GAS  /tmp/ccyn58t1.s 			page 38
 
 
  477      0000D901 
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  489 02da 02000000 		.ascii	"\002\000\000\000\000\000\000\000\000\000\320\000\000"
  489      00000000 
  489      0000D000 
-ARM GAS  /tmp/ccQneqRX.s 			page 39
+ARM GAS  /tmp/ccyn58t1.s 			page 39
 
 
  489      00
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  517              		.loc 1 95 0
  518 0004 08B5     		push	{r3, lr}
  519              		.cfi_def_cfa_offset 8
-ARM GAS  /tmp/ccQneqRX.s 			page 40
+ARM GAS  /tmp/ccyn58t1.s 			page 40
 
 
  520              		.cfi_offset 3, -8
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  572              		.type	test_terminate_threads, %function
  573              	test_terminate_threads:
  574              	.LFB220:
-ARM GAS  /tmp/ccQneqRX.s 			page 41
+ARM GAS  /tmp/ccyn58t1.s 			page 41
 
 
  575              		.loc 1 135 0
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  629              		.cfi_offset 5, -12
  630              		.cfi_offset 6, -8
  631              		.cfi_offset 14, -4
-ARM GAS  /tmp/ccQneqRX.s 			page 42
+ARM GAS  /tmp/ccyn58t1.s 			page 42
 
 
  632 0002 40F20004 		movw	r4, #:lower16:.LANCHOR0
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  684              	.LBB54:
  685              	.LBB55:
  686              		.file 2 "../os/common/ext/CMSIS/include/cmsis_gcc.h"
-ARM GAS  /tmp/ccQneqRX.s 			page 43
+ARM GAS  /tmp/ccyn58t1.s 			page 43
 
 
  687              		.loc 2 264 0
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  741              		.size	test_buffer, 1640
  742              	test_buffer:
  743 0000 00000000 		.space	1640
-ARM GAS  /tmp/ccQneqRX.s 			page 44
+ARM GAS  /tmp/ccyn58t1.s 			page 44
 
 
  743      00000000 
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  784              	.LC3:
  785 0034 41524D76 		.ascii	"ARMv7-M\000"
  785      372D4D00 
-ARM GAS  /tmp/ccQneqRX.s 			page 45
+ARM GAS  /tmp/ccyn58t1.s 			page 45
 
 
  786              	.LC4:
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  822              		.file 20 "../test/rt/source/test/test_sequence_001.h"
  823              		.file 21 "../test/rt/source/test/test_sequence_002.h"
  824              		.file 22 "../test/rt/source/test/test_sequence_003.h"
-ARM GAS  /tmp/ccQneqRX.s 			page 46
+ARM GAS  /tmp/ccyn58t1.s 			page 46
 
 
  825              		.file 23 "../test/rt/source/test/test_sequence_004.h"
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  879 005a 00040000 		.4byte	.LASF5
  880 005e 03       		.uleb128 0x3
  881 005f BB040000 		.4byte	.LASF6
-ARM GAS  /tmp/ccQneqRX.s 			page 47
+ARM GAS  /tmp/ccyn58t1.s 			page 47
 
 
  882 0063 05       		.byte	0x5
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  936 00cf 77040000 		.4byte	.LASF18
  937 00d3 06       		.byte	0x6
  938 00d4 42       		.byte	0x42
-ARM GAS  /tmp/ccQneqRX.s 			page 48
+ARM GAS  /tmp/ccyn58t1.s 			page 48
 
 
  939 00d5 82000000 		.4byte	0x82
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  993 014d 09       		.byte	0x9
  994 014e 9A       		.byte	0x9a
  995 014f 25020000 		.4byte	0x225
-ARM GAS  /tmp/ccQneqRX.s 			page 49
+ARM GAS  /tmp/ccyn58t1.s 			page 49
 
 
  996 0153 06       		.uleb128 0x6
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  1050 01bf 06       		.uleb128 0x6
  1051 01c0 B1030000 		.4byte	.LASF37
  1052 01c4 09       		.byte	0x9
-ARM GAS  /tmp/ccQneqRX.s 			page 50
+ARM GAS  /tmp/ccyn58t1.s 			page 50
 
 
  1053 01c5 BE       		.byte	0xbe
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  1107 0236 03       		.uleb128 0x3
  1108 0237 DC060000 		.4byte	.LASF45
  1109 023b 08       		.byte	0x8
-ARM GAS  /tmp/ccQneqRX.s 			page 51
+ARM GAS  /tmp/ccyn58t1.s 			page 51
 
 
  1110 023c 49       		.byte	0x49
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  1164 02aa 5A020000 		.4byte	0x25a
  1165 02ae 00       		.byte	0
  1166 02af 09       		.uleb128 0x9
-ARM GAS  /tmp/ccQneqRX.s 			page 52
+ARM GAS  /tmp/ccyn58t1.s 			page 52
 
 
  1167 02b0 7A030000 		.4byte	.LASF30
@@ -3118,7 +3118,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  1221 0321 4501     		.2byte	0x145
  1222 0323 69030000 		.4byte	0x369
  1223 0327 09       		.uleb128 0x9
-ARM GAS  /tmp/ccQneqRX.s 			page 53
+ARM GAS  /tmp/ccyn58t1.s 			page 53
 
 
  1224 0328 19000000 		.4byte	.LASF48
@@ -3178,7 +3178,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  1278 039c 1E000000 		.4byte	.LASF58
  1279 03a0 09       		.byte	0x9
  1280 03a1 5A01     		.2byte	0x15a
-ARM GAS  /tmp/ccQneqRX.s 			page 54
+ARM GAS  /tmp/ccyn58t1.s 			page 54
 
 
  1281 03a3 31010000 		.4byte	0x131
@@ -3238,7 +3238,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  1335 0416 B6030000 		.4byte	0x3b6
  1336 041a 28       		.byte	0x28
  1337 041b 09       		.uleb128 0x9
-ARM GAS  /tmp/ccQneqRX.s 			page 55
+ARM GAS  /tmp/ccyn58t1.s 			page 55
 
 
  1338 041c C7000000 		.4byte	.LASF70
@@ -3298,7 +3298,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  1392 048c FF040000 		.4byte	0x4ff
  1393 0490 08       		.uleb128 0x8
  1394 0491 723400   		.ascii	"r4\000"
-ARM GAS  /tmp/ccQneqRX.s 			page 56
+ARM GAS  /tmp/ccyn58t1.s 			page 56
 
 
  1395 0494 0B       		.byte	0xb
@@ -3358,7 +3358,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  1449 0500 04       		.byte	0x4
  1450 0501 83040000 		.4byte	0x483
  1451 0505 12       		.uleb128 0x12
-ARM GAS  /tmp/ccQneqRX.s 			page 57
+ARM GAS  /tmp/ccyn58t1.s 			page 57
 
 
  1452 0506 60       		.byte	0x60
@@ -3418,7 +3418,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  1506 057a 0C       		.byte	0xc
  1507 057b AA01     		.2byte	0x1aa
  1508 057d 30040000 		.4byte	0x430
-ARM GAS  /tmp/ccQneqRX.s 			page 58
+ARM GAS  /tmp/ccyn58t1.s 			page 58
 
 
  1509 0581 20       		.byte	0x20
@@ -3478,7 +3478,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  1563 05f5 50       		.byte	0x50
  1564 05f6 09       		.uleb128 0x9
  1565 05f7 1F010000 		.4byte	.LASF83
-ARM GAS  /tmp/ccQneqRX.s 			page 59
+ARM GAS  /tmp/ccyn58t1.s 			page 59
 
 
  1566 05fb 0C       		.byte	0xc
@@ -3538,7 +3538,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  1620 066d B5060000 		.4byte	0x6b5
  1621 0671 16       		.uleb128 0x16
  1622 0672 80040000 		.4byte	.LASF92
-ARM GAS  /tmp/ccQneqRX.s 			page 60
+ARM GAS  /tmp/ccyn58t1.s 			page 60
 
 
  1623 0676 09       		.byte	0x9
@@ -3598,7 +3598,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  1677 06e4 0E       		.byte	0xe
  1678 06e5 3E       		.byte	0x3e
  1679 06e6 20070000 		.4byte	0x720
-ARM GAS  /tmp/ccQneqRX.s 			page 61
+ARM GAS  /tmp/ccyn58t1.s 			page 61
 
 
  1680 06ea 0C       		.byte	0xc
@@ -3658,7 +3658,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  1734 0753 04       		.byte	0x4
  1735 0754 06       		.uleb128 0x6
  1736 0755 55020000 		.4byte	.LASF101
-ARM GAS  /tmp/ccQneqRX.s 			page 62
+ARM GAS  /tmp/ccyn58t1.s 			page 62
 
 
  1737 0759 0F       		.byte	0xf
@@ -3718,7 +3718,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  1791 07c4 03       		.byte	0x3
  1792 07c5 1E       		.uleb128 0x1e
  1793 07c6 E8010000 		.4byte	.LASF109
-ARM GAS  /tmp/ccQneqRX.s 			page 63
+ARM GAS  /tmp/ccyn58t1.s 			page 63
 
 
  1794 07ca 12       		.byte	0x12
@@ -3778,7 +3778,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  1848 0846 03       		.byte	0x3
  1849 0847 00000000 		.4byte	.LC0
  1850 084b 00       		.byte	0
-ARM GAS  /tmp/ccQneqRX.s 			page 64
+ARM GAS  /tmp/ccyn58t1.s 			page 64
 
 
  1851 084c 23       		.uleb128 0x23
@@ -3838,7 +3838,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  1905 08be 00       		.byte	0
  1906 08bf 23       		.uleb128 0x23
  1907 08c0 56000000 		.4byte	.LVL6
-ARM GAS  /tmp/ccQneqRX.s 			page 65
+ARM GAS  /tmp/ccyn58t1.s 			page 65
 
 
  1908 08c4 DE0B0000 		.4byte	0xbde
@@ -3898,7 +3898,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  1962 0938 27       		.uleb128 0x27
  1963 0939 1C000000 		.4byte	.LVL13
  1964 093d 120C0000 		.4byte	0xc12
-ARM GAS  /tmp/ccQneqRX.s 			page 66
+ARM GAS  /tmp/ccyn58t1.s 			page 66
 
 
  1965 0941 00       		.byte	0
@@ -3958,7 +3958,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2019 09c9 EE090000 		.4byte	0x9ee
  2020 09cd 2D       		.uleb128 0x2d
  2021 09ce B0070000 		.4byte	0x7b0
-ARM GAS  /tmp/ccQneqRX.s 			page 67
+ARM GAS  /tmp/ccyn58t1.s 			page 67
 
 
  2022 09d2 0E000000 		.4byte	.LBB57
@@ -4018,7 +4018,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2076 0a48 31       		.uleb128 0x31
  2077 0a49 F0000000 		.4byte	.LASF117
  2078 0a4d 13       		.byte	0x13
-ARM GAS  /tmp/ccQneqRX.s 			page 68
+ARM GAS  /tmp/ccyn58t1.s 			page 68
 
 
  2079 0a4e 9606     		.2byte	0x696
@@ -4078,7 +4078,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2133 0aca 34       		.uleb128 0x34
  2134 0acb 8D060000 		.4byte	.LASF123
  2135 0acf 19       		.byte	0x19
-ARM GAS  /tmp/ccQneqRX.s 			page 69
+ARM GAS  /tmp/ccyn58t1.s 			page 69
 
 
  2136 0ad0 19       		.byte	0x19
@@ -4138,7 +4138,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2190 0b4b 5A0B0000 		.4byte	0xb5a
  2191 0b4f 5A0B0000 		.4byte	0xb5a
  2192 0b53 11       		.uleb128 0x11
-ARM GAS  /tmp/ccQneqRX.s 			page 70
+ARM GAS  /tmp/ccyn58t1.s 			page 70
 
 
  2193 0b54 29040000 		.4byte	0x429
@@ -4198,7 +4198,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2247 0bca 776100   		.ascii	"wa\000"
  2248 0bcd 01       		.byte	0x1
  2249 0bce 7E       		.byte	0x7e
-ARM GAS  /tmp/ccQneqRX.s 			page 71
+ARM GAS  /tmp/ccyn58t1.s 			page 71
 
 
  2250 0bcf D90B0000 		.4byte	0xbd9
@@ -4258,7 +4258,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2304 0005 13       		.uleb128 0x13
  2305 0006 0B       		.uleb128 0xb
  2306 0007 03       		.uleb128 0x3
-ARM GAS  /tmp/ccQneqRX.s 			page 72
+ARM GAS  /tmp/ccyn58t1.s 			page 72
 
 
  2307 0008 0E       		.uleb128 0xe
@@ -4318,7 +4318,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2361 003e 0B       		.uleb128 0xb
  2362 003f 3B       		.uleb128 0x3b
  2363 0040 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccQneqRX.s 			page 73
+ARM GAS  /tmp/ccyn58t1.s 			page 73
 
 
  2364 0041 01       		.uleb128 0x1
@@ -4378,7 +4378,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2418 0077 3A       		.uleb128 0x3a
  2419 0078 0B       		.uleb128 0xb
  2420 0079 3B       		.uleb128 0x3b
-ARM GAS  /tmp/ccQneqRX.s 			page 74
+ARM GAS  /tmp/ccyn58t1.s 			page 74
 
 
  2421 007a 05       		.uleb128 0x5
@@ -4438,7 +4438,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2475 00b0 0F       		.uleb128 0xf
  2476 00b1 35       		.uleb128 0x35
  2477 00b2 00       		.byte	0
-ARM GAS  /tmp/ccQneqRX.s 			page 75
+ARM GAS  /tmp/ccyn58t1.s 			page 75
 
 
  2478 00b3 49       		.uleb128 0x49
@@ -4498,7 +4498,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2532 00e9 0B       		.uleb128 0xb
  2533 00ea 3B       		.uleb128 0x3b
  2534 00eb 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccQneqRX.s 			page 76
+ARM GAS  /tmp/ccyn58t1.s 			page 76
 
 
  2535 00ec 01       		.uleb128 0x1
@@ -4558,7 +4558,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2589 0122 13       		.uleb128 0x13
  2590 0123 00       		.byte	0
  2591 0124 00       		.byte	0
-ARM GAS  /tmp/ccQneqRX.s 			page 77
+ARM GAS  /tmp/ccyn58t1.s 			page 77
 
 
  2592 0125 1A       		.uleb128 0x1a
@@ -4618,7 +4618,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2646 015b 3B       		.uleb128 0x3b
  2647 015c 05       		.uleb128 0x5
  2648 015d 27       		.uleb128 0x27
-ARM GAS  /tmp/ccQneqRX.s 			page 78
+ARM GAS  /tmp/ccyn58t1.s 			page 78
 
 
  2649 015e 19       		.uleb128 0x19
@@ -4678,7 +4678,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2703 0194 21       		.uleb128 0x21
  2704 0195 34       		.uleb128 0x34
  2705 0196 00       		.byte	0
-ARM GAS  /tmp/ccQneqRX.s 			page 79
+ARM GAS  /tmp/ccyn58t1.s 			page 79
 
 
  2706 0197 03       		.uleb128 0x3
@@ -4738,7 +4738,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2760 01d3 00       		.byte	0
  2761 01d4 25       		.uleb128 0x25
  2762 01d5 898201   		.uleb128 0x4109
-ARM GAS  /tmp/ccQneqRX.s 			page 80
+ARM GAS  /tmp/ccyn58t1.s 			page 80
 
 
  2763 01d8 01       		.byte	0x1
@@ -4798,7 +4798,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2817 0211 9742     		.uleb128 0x2117
  2818 0213 19       		.uleb128 0x19
  2819 0214 01       		.uleb128 0x1
-ARM GAS  /tmp/ccQneqRX.s 			page 81
+ARM GAS  /tmp/ccyn58t1.s 			page 81
 
 
  2820 0215 13       		.uleb128 0x13
@@ -4858,7 +4858,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2874 024b 1D       		.uleb128 0x1d
  2875 024c 01       		.byte	0x1
  2876 024d 31       		.uleb128 0x31
-ARM GAS  /tmp/ccQneqRX.s 			page 82
+ARM GAS  /tmp/ccyn58t1.s 			page 82
 
 
  2877 024e 13       		.uleb128 0x13
@@ -4918,7 +4918,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2931 0286 13       		.uleb128 0x13
  2932 0287 3F       		.uleb128 0x3f
  2933 0288 19       		.uleb128 0x19
-ARM GAS  /tmp/ccQneqRX.s 			page 83
+ARM GAS  /tmp/ccyn58t1.s 			page 83
 
 
  2934 0289 3C       		.uleb128 0x3c
@@ -4978,7 +4978,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  2988 02bf 3F       		.uleb128 0x3f
  2989 02c0 19       		.uleb128 0x19
  2990 02c1 02       		.uleb128 0x2
-ARM GAS  /tmp/ccQneqRX.s 			page 84
+ARM GAS  /tmp/ccyn58t1.s 			page 84
 
 
  2991 02c2 18       		.uleb128 0x18
@@ -5038,7 +5038,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  3045 02f8 0E       		.uleb128 0xe
  3046 02f9 3A       		.uleb128 0x3a
  3047 02fa 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccQneqRX.s 			page 85
+ARM GAS  /tmp/ccyn58t1.s 			page 85
 
 
  3048 02fb 3B       		.uleb128 0x3b
@@ -5098,7 +5098,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  3102 0008 0200     		.2byte	0x2
  3103 000a 30       		.byte	0x30
  3104 000b 9F       		.byte	0x9f
-ARM GAS  /tmp/ccQneqRX.s 			page 86
+ARM GAS  /tmp/ccyn58t1.s 			page 86
 
 
  3105 000c 00000000 		.4byte	0
@@ -5158,7 +5158,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  3151      00
  3152              	.LASF2:
  3153 0012 73697A65 		.ascii	"size_t\000"
-ARM GAS  /tmp/ccQneqRX.s 			page 87
+ARM GAS  /tmp/ccyn58t1.s 			page 87
 
 
  3153      5F7400
@@ -5218,7 +5218,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  3178              	.LASF14:
  3179 00a7 6C6F6E67 		.ascii	"long long unsigned int\000"
  3179      206C6F6E 
-ARM GAS  /tmp/ccQneqRX.s 			page 88
+ARM GAS  /tmp/ccyn58t1.s 			page 88
 
 
  3179      6720756E 
@@ -5278,7 +5278,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  3205      737400
  3206              	.LASF105:
  3207 0145 706F7274 		.ascii	"port_unlock\000"
-ARM GAS  /tmp/ccQneqRX.s 			page 89
+ARM GAS  /tmp/ccyn58t1.s 			page 89
 
 
  3207      5F756E6C 
@@ -5338,7 +5338,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  3235 01cc 77616974 		.ascii	"waiting\000"
  3235      696E6700 
  3236              	.LASF98:
-ARM GAS  /tmp/ccQneqRX.s 			page 90
+ARM GAS  /tmp/ccyn58t1.s 			page 90
 
 
  3237 01d4 6D757465 		.ascii	"mutex_t\000"
@@ -5398,7 +5398,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  3265      7400
  3266              	.LASF40:
  3267 0284 6570656E 		.ascii	"epending\000"
-ARM GAS  /tmp/ccQneqRX.s 			page 91
+ARM GAS  /tmp/ccyn58t1.s 			page 91
 
 
  3267      64696E67 
@@ -5458,7 +5458,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  3293      69727475 
  3293      616C5F74 
  3293      696D6572 
-ARM GAS  /tmp/ccQneqRX.s 			page 92
+ARM GAS  /tmp/ccyn58t1.s 			page 92
 
 
  3293      735F6C69 
@@ -5518,7 +5518,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  3319      74696D65 
  3319      725F7400 
  3320              	.LASF23:
-ARM GAS  /tmp/ccQneqRX.s 			page 93
+ARM GAS  /tmp/ccyn58t1.s 			page 93
 
 
  3321 03c6 74707269 		.ascii	"tprio_t\000"
@@ -5578,7 +5578,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  3348              	.LASF84:
  3349 0454 43435852 		.ascii	"CCXR\000"
  3349      00
-ARM GAS  /tmp/ccQneqRX.s 			page 94
+ARM GAS  /tmp/ccyn58t1.s 			page 94
 
 
  3350              	.LASF144:
@@ -5638,7 +5638,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  3377 04e1 74657374 		.ascii	"test_suite\000"
  3377      5F737569 
  3377      746500
-ARM GAS  /tmp/ccQneqRX.s 			page 95
+ARM GAS  /tmp/ccyn58t1.s 			page 95
 
 
  3378              	.LASF27:
@@ -5698,7 +5698,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  3402              	.LASF15:
  3403 0582 75696E74 		.ascii	"uint8_t\000"
  3403      385F7400 
-ARM GAS  /tmp/ccQneqRX.s 			page 96
+ARM GAS  /tmp/ccyn58t1.s 			page 96
 
 
  3404              	.LASF36:
@@ -5758,7 +5758,7 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  3422      5F736571 
  3422      75656E63 
  3422      655F3030 
-ARM GAS  /tmp/ccQneqRX.s 			page 97
+ARM GAS  /tmp/ccyn58t1.s 			page 97
 
 
  3422      3600
@@ -5805,38 +5805,38 @@ ARM GAS  /tmp/ccQneqRX.s 			page 1
  3440      636B00
  3441              		.comm	__gnu_lto_v1,1,1
  3442              		.ident	"GCC: (4.8.2-14ubuntu1+6) 4.8.2"
-ARM GAS  /tmp/ccQneqRX.s 			page 98
+ARM GAS  /tmp/ccyn58t1.s 			page 98
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 test_root.c
-     /tmp/ccQneqRX.s:502    .text.test_print_port_info:0000000000000000 $t
-     /tmp/ccQneqRX.s:508    .text.test_print_port_info:0000000000000000 test_print_port_info
-     /tmp/ccQneqRX.s:775    .rodata.str1.4:0000000000000000 .LC0
-     /tmp/ccQneqRX.s:778    .rodata.str1.4:0000000000000014 .LC1
-     /tmp/ccQneqRX.s:781    .rodata.str1.4:0000000000000020 .LC2
-     /tmp/ccQneqRX.s:784    .rodata.str1.4:0000000000000034 .LC3
-     /tmp/ccQneqRX.s:786    .rodata.str1.4:000000000000003c .LC4
-     /tmp/ccQneqRX.s:789    .rodata.str1.4:0000000000000050 .LC5
-     /tmp/ccQneqRX.s:792    .rodata.str1.4:000000000000005c .LC6
-     /tmp/ccQneqRX.s:795    .rodata.str1.4:0000000000000070 .LC7
-     /tmp/ccQneqRX.s:567    .text.test_terminate_threads:0000000000000000 $t
-     /tmp/ccQneqRX.s:573    .text.test_terminate_threads:0000000000000000 test_terminate_threads
-     /tmp/ccQneqRX.s:608    .text.test_terminate_threads:000000000000001c $d
-     /tmp/ccQneqRX.s:613    .text.test_wait_threads:0000000000000000 $t
-     /tmp/ccQneqRX.s:619    .text.test_wait_threads:0000000000000000 test_wait_threads
-     /tmp/ccQneqRX.s:799    .bss.threads:0000000000000000 .LANCHOR0
-     /tmp/ccQneqRX.s:660    .text.test_wait_tick:0000000000000000 $t
-     /tmp/ccQneqRX.s:666    .text.test_wait_tick:0000000000000000 test_wait_tick
-     /tmp/ccQneqRX.s:767    .rodata.wa:0000000000000000 wa
-     /tmp/ccQneqRX.s:802    .bss.threads:0000000000000000 threads
-     /tmp/ccQneqRX.s:742    .bss.test_buffer:0000000000000000 test_buffer
-     /tmp/ccQneqRX.s:748    .data.test_suite:0000000000000000 test_suite
-     /tmp/ccQneqRX.s:739    .bss.test_buffer:0000000000000000 $d
-     /tmp/ccQneqRX.s:745    .data.test_suite:0000000000000000 $d
-     /tmp/ccQneqRX.s:764    .rodata.wa:0000000000000000 $d
-     /tmp/ccQneqRX.s:774    .rodata.str1.4:0000000000000000 $d
-     /tmp/ccQneqRX.s:798    .bss.threads:0000000000000000 $d
+     /tmp/ccyn58t1.s:502    .text.test_print_port_info:0000000000000000 $t
+     /tmp/ccyn58t1.s:508    .text.test_print_port_info:0000000000000000 test_print_port_info
+     /tmp/ccyn58t1.s:775    .rodata.str1.4:0000000000000000 .LC0
+     /tmp/ccyn58t1.s:778    .rodata.str1.4:0000000000000014 .LC1
+     /tmp/ccyn58t1.s:781    .rodata.str1.4:0000000000000020 .LC2
+     /tmp/ccyn58t1.s:784    .rodata.str1.4:0000000000000034 .LC3
+     /tmp/ccyn58t1.s:786    .rodata.str1.4:000000000000003c .LC4
+     /tmp/ccyn58t1.s:789    .rodata.str1.4:0000000000000050 .LC5
+     /tmp/ccyn58t1.s:792    .rodata.str1.4:000000000000005c .LC6
+     /tmp/ccyn58t1.s:795    .rodata.str1.4:0000000000000070 .LC7
+     /tmp/ccyn58t1.s:567    .text.test_terminate_threads:0000000000000000 $t
+     /tmp/ccyn58t1.s:573    .text.test_terminate_threads:0000000000000000 test_terminate_threads
+     /tmp/ccyn58t1.s:608    .text.test_terminate_threads:000000000000001c $d
+     /tmp/ccyn58t1.s:613    .text.test_wait_threads:0000000000000000 $t
+     /tmp/ccyn58t1.s:619    .text.test_wait_threads:0000000000000000 test_wait_threads
+     /tmp/ccyn58t1.s:799    .bss.threads:0000000000000000 .LANCHOR0
+     /tmp/ccyn58t1.s:660    .text.test_wait_tick:0000000000000000 $t
+     /tmp/ccyn58t1.s:666    .text.test_wait_tick:0000000000000000 test_wait_tick
+     /tmp/ccyn58t1.s:767    .rodata.wa:0000000000000000 wa
+     /tmp/ccyn58t1.s:802    .bss.threads:0000000000000000 threads
+     /tmp/ccyn58t1.s:742    .bss.test_buffer:0000000000000000 test_buffer
+     /tmp/ccyn58t1.s:748    .data.test_suite:0000000000000000 test_suite
+     /tmp/ccyn58t1.s:739    .bss.test_buffer:0000000000000000 $d
+     /tmp/ccyn58t1.s:745    .data.test_suite:0000000000000000 $d
+     /tmp/ccyn58t1.s:764    .rodata.wa:0000000000000000 $d
+     /tmp/ccyn58t1.s:774    .rodata.str1.4:0000000000000000 $d
+     /tmp/ccyn58t1.s:798    .bss.threads:0000000000000000 $d
                             *COM*:0000000000000001 __gnu_lto_v1
                      .debug_frame:0000000000000010 $d
 

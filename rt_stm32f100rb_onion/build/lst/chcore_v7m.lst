@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccigaZrY.s 			page 1
+ARM GAS  /tmp/cc8siAbf.s 			page 1
 
 
    1              		.syntax unified
@@ -17,7 +17,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
   14              		.file	"chcore_v7m.c"
   15              		.text
   16              	.Ltext0:
-  17              		.section	.gnu.lto_.jmpfuncs.8d350996dd212e29,"",%progbits
+  17              		.section	.gnu.lto_.jmpfuncs.ea27d1e65d892695,"",%progbits
   18 0000 789C6362 		.ascii	"x\234cb`b\300\006\270\24043\030\263\000I\000\001\302"
   18      6062C006 
   18      B8A03433 
@@ -25,7 +25,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
   18      0001C2
   19 0013 0019     		.ascii	"\000\031"
   20              		.text
-  21              		.section	.gnu.lto_.inline.8d350996dd212e29,"",%progbits
+  21              		.section	.gnu.lto_.inline.ea27d1e65d892695,"",%progbits
   22 0000 789C6362 		.ascii	"x\234cb`b\300\006\334\24043\003\003\277\030#\003\223"
   22      6062C006 
   22      DCA03433 
@@ -44,21 +44,21 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
   25 0038 000FB806 		.ascii	"\000\017\270\006\321"
   25      D1
   26              		.text
-  27              		.section	.gnu.lto_.pureconst.8d350996dd212e29,"",%progbits
+  27              		.section	.gnu.lto_.pureconst.ea27d1e65d892695,"",%progbits
   28 0000 789C6362 		.ascii	"x\234cb`b`g\200\000f\006+f+\026+\000\002\367\000\304"
   28      60626067 
   28      80006606 
   28      2B662B16 
   28      2B0002F7 
   29              		.text
-  30              		.section	.gnu.lto__port_irq_epilogue.part.0.8d350996dd212e29,"",%progbits
+  30              		.section	.gnu.lto__port_irq_epilogue.part.0.ea27d1e65d892695,"",%progbits
   31 0000 789CAD52 		.ascii	"x\234\255RMHTQ\024>\347\276\367F\235\306\212\026\201"
   31      4D485451 
   31      143EE7BE 
   31      F7469DC6 
   31      8A1681
   32 0013 10320861 		.ascii	"\0202\010a\240\314K\012\\\005\205mZ\014\205\243P\213"
-ARM GAS  /tmp/ccigaZrY.s 			page 2
+ARM GAS  /tmp/cc8siAbf.s 			page 2
 
 
   32      A0CC4B0A 
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
   43      1F483293 
   43      5D1B1AAE 
   43      19DA
-ARM GAS  /tmp/ccigaZrY.s 			page 3
+ARM GAS  /tmp/cc8siAbf.s 			page 3
 
 
   44 00e8 43AA0C3A 		.ascii	"C\252\014:\367C.0\236\313\347\327_V\271\020\3748\203"
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
   55 01b2 C66A6D71 		.ascii	"\306jmqU\262\027\025\013\263\375~o\005y\206'\266\211"
   55      55B21715 
   55      0BB3FD7E 
-ARM GAS  /tmp/ccigaZrY.s 			page 4
+ARM GAS  /tmp/cc8siAbf.s 			page 4
 
 
   55      6F057986 
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
   66      F5B6
   67 028d 78E3BAD1 		.ascii	"x\343\272\321m\204\"\201\216\333\315A\217\001\252\021"
   67      6D842281 
-ARM GAS  /tmp/ccigaZrY.s 			page 5
+ARM GAS  /tmp/cc8siAbf.s 			page 5
 
 
   67      8EDBCD41 
@@ -260,7 +260,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
   71 02cf F0079CF2 		.ascii	"\360\007\234\362C\""
   71      4322
   72              		.text
-  73              		.section	.gnu.lto_SVC_Handler.8d350996dd212e29,"",%progbits
+  73              		.section	.gnu.lto_SVC_Handler.ea27d1e65d892695,"",%progbits
   74 0000 789C8D52 		.ascii	"x\234\215RMHTQ\024>\347\336\367t\260\214\242\225\020"
   74      4D485451 
   74      143EE7DE 
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
   81      94D6C304 
   81      E7578B8B 
   81      5F8A3876 
-ARM GAS  /tmp/ccigaZrY.s 			page 6
+ARM GAS  /tmp/cc8siAbf.s 			page 6
 
 
   81      AD
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
   93      3AACD444 
   93      54291385 
   93      7F0034C5 
-ARM GAS  /tmp/ccigaZrY.s 			page 7
+ARM GAS  /tmp/cc8siAbf.s 			page 7
 
 
   94 015e BDD4E70F 		.ascii	"\275\324\347\017\355\012\001\272\212\226+K\367\366\363"
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  105      C41A35E9 
  106 022b 0EACC398 		.ascii	"\016\254\303\230=\031\243)\2368\2360\254N\326\321u\326"
  106      3D19A329 
-ARM GAS  /tmp/ccigaZrY.s 			page 8
+ARM GAS  /tmp/cc8siAbf.s 			page 8
 
 
  106      9E389E30 
@@ -449,7 +449,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  111      FC065C92 
  111      2232
  112              		.text
- 113              		.section	.gnu.lto__port_irq_epilogue.8d350996dd212e29,"",%progbits
+ 113              		.section	.gnu.lto__port_irq_epilogue.ea27d1e65d892695,"",%progbits
  114 0000 789C8D52 		.ascii	"x\234\215RMh\023A\024~of\267]k\225\234*z\250\241 \012"
  114      4D681341 
  114      147E6F66 
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  119 0061 DEFB8600 		.ascii	"\336\373\206\000\201v\271*\316\031\012\360Lh\354\000"
  119      8176B92A 
  119      CE190AF0 
-ARM GAS  /tmp/ccigaZrY.s 			page 9
+ARM GAS  /tmp/cc8siAbf.s 			page 9
 
 
  119      4C68EC00 
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  131      87655E10 
  131      691D73F0 
  131      50
-ARM GAS  /tmp/ccigaZrY.s 			page 10
+ARM GAS  /tmp/cc8siAbf.s 			page 10
 
 
  132 0142 A84E5942 		.ascii	"\250NYB\343{.?\355U\323\274\254\021l\314W\006w\315]"
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  143      B3BF25DA 
  143      CC
  144 0217 66F48158 		.ascii	"f\364\201X\342FB\267&\330\370\344mSgv\332J\017\2172"
-ARM GAS  /tmp/ccigaZrY.s 			page 11
+ARM GAS  /tmp/cc8siAbf.s 			page 11
 
 
  144      E24642B7 
@@ -615,7 +615,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  146      0F9290F0 
  146      29
  147              		.text
- 148              		.section	.gnu.lto_.symbol_nodes.8d350996dd212e29,"",%progbits
+ 148              		.section	.gnu.lto_.symbol_nodes.ea27d1e65d892695,"",%progbits
  149 0000 789C45CA 		.ascii	"x\234E\312\271\015\2000\024\004\321\335o\273\0162j\243"
  149      B90D8030 
  149      1404D1DD 
@@ -641,14 +641,14 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  153      E3018988 
  153      1EF8
  154              		.text
- 155              		.section	.gnu.lto_.refs.8d350996dd212e29,"",%progbits
+ 155              		.section	.gnu.lto_.refs.ea27d1e65d892695,"",%progbits
  156 0000 789C6362 		.ascii	"x\234cb`b`g\200\000&\006&F&&\006\000\000\352\000\025"
  156      60626067 
  156      80002606 
  156      26462626 
  156      060000EA 
  157              		.text
- 158              		.section	.gnu.lto_.decls.8d350996dd212e29,"",%progbits
+ 158              		.section	.gnu.lto_.decls.ea27d1e65d892695,"",%progbits
  159 0000 789CAD57 		.ascii	"x\234\255W}l\024\307\025\237\331;\177\\\3558\011\015"
  159      7D6C14C7 
  159      159FD93B 
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  160      284D5211 
  160      D5E7C01F 
  160      A5520B98 
-ARM GAS  /tmp/ccigaZrY.s 			page 12
+ARM GAS  /tmp/cc8siAbf.s 			page 12
 
 
  161 0022 33D4FEC3 		.ascii	"3\324\376\303\315\351.\240J\374\261l\327\007>\345\316"
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  172      07640AE4 
  172      6710C39F 
  173 00f8 83ECD3EC 		.ascii	"\203\354\323\354b\342\013V\347\021\214e\320\257\303"
-ARM GAS  /tmp/ccigaZrY.s 			page 13
+ARM GAS  /tmp/cc8siAbf.s 			page 13
 
 
  173      62E20B56 
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  184      871D
  185 01cc C10F9AE1 		.ascii	"\301\017\232\341\337\266\014\375\235\337\375\3356\364"
  185      DFB60CFD 
-ARM GAS  /tmp/ccigaZrY.s 			page 14
+ARM GAS  /tmp/cc8siAbf.s 			page 14
 
 
  185      9DDFFDDD 
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  197 02a6 CBCB8C11 		.ascii	"\313\313\214\021\200\377\314\000\016\245<:\177+;Z\027"
  197      80FFCC00 
  197      0EA53C3A 
-ARM GAS  /tmp/ccigaZrY.s 			page 15
+ARM GAS  /tmp/cc8siAbf.s 			page 15
 
 
  197      7F2B3B5A 
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  209      59B4749A 
  209      C85E7BED 
  209      CA45BC0B 
-ARM GAS  /tmp/ccigaZrY.s 			page 16
+ARM GAS  /tmp/cc8siAbf.s 			page 16
 
 
  209      F6
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  220      B7AD
  221 044f 4C40AE7F 		.ascii	"L@\256\177\324g\310u5\03184\344u\260\334\237\262\313"
  221      D467C875 
-ARM GAS  /tmp/ccigaZrY.s 			page 17
+ARM GAS  /tmp/cc8siAbf.s 			page 17
 
 
  221      35193834 
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  232      392033DD 
  233 052e 6729BD2E 		.ascii	"g)\275.\365r$&\351\"s\365\217M\327\2459\270\270\031"
  233      F5722426 
-ARM GAS  /tmp/ccigaZrY.s 			page 18
+ARM GAS  /tmp/cc8siAbf.s 			page 18
 
 
  233      E92273F5 
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  244      55B0714F 
  244      67873101 
  244      350F13F0 
-ARM GAS  /tmp/ccigaZrY.s 			page 19
+ARM GAS  /tmp/cc8siAbf.s 			page 19
 
 
  245 060e D71BCD3B 		.ascii	"\327\033\315;6\033M\241\226gG\201\333\343f\267\215,"
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  256      F22DAB7B 
  256      DB
  257 06da 8E622726 		.ascii	"\216b'&>0\2338k4\201\236\250\251\361'\222~1\021\217"
-ARM GAS  /tmp/ccigaZrY.s 			page 20
+ARM GAS  /tmp/cc8siAbf.s 			page 20
 
 
  257      3E309B38 
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  268      10DA6332 
  268      2F3FDF16 
  268      49C2B4EF 
-ARM GAS  /tmp/ccigaZrY.s 			page 21
+ARM GAS  /tmp/cc8siAbf.s 			page 21
 
 
  268      F1BC
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  281 0889 545153D3 		.ascii	"TQS\323\352\272\220w%Qu\360\337\023\\\035\362\324\203"
  281      EABA9077 
  281      255175F0 
-ARM GAS  /tmp/ccigaZrY.s 			page 22
+ARM GAS  /tmp/cc8siAbf.s 			page 22
 
 
  281      DF135C1D 
@@ -1275,7 +1275,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  283      F43F
  284 08bf 4559DB24 		.ascii	"EY\333$"
  285              		.text
- 286              		.section	.gnu.lto_.symtab.8d350996dd212e29,"",%progbits
+ 286              		.section	.gnu.lto_.symtab.ea27d1e65d892695,"",%progbits
  287 0000 5356435F 		.ascii	"SVC_Handler\000\000\000\000\000\000\000\000\000\000"
  287      48616E64 
  287      6C657200 
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  297      70753D63 
  297      6F727465 
  297      782D6D33 
-ARM GAS  /tmp/ccigaZrY.s 			page 23
+ARM GAS  /tmp/cc8siAbf.s 			page 23
 
 
  297      2720272D 
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  339              	@ 0 "" 2
  340              	.LVL2:
  341              		.thumb
-ARM GAS  /tmp/ccigaZrY.s 			page 24
+ARM GAS  /tmp/cc8siAbf.s 			page 24
 
 
  342              	.LBE54:
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  393              	.LBE84:
  394              	.LBE83:
  395              		.loc 1 125 0
-ARM GAS  /tmp/ccigaZrY.s 			page 25
+ARM GAS  /tmp/cc8siAbf.s 			page 25
 
 
  396 0008 4FF46D43 		mov	r3, #60672
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  450              	.LVL10:
  451 0036 30B1     		cbz	r0, .L4
  452              		.loc 1 153 0
-ARM GAS  /tmp/ccigaZrY.s 			page 26
+ARM GAS  /tmp/cc8siAbf.s 			page 26
 
 
  453 0038 40F20003 		movw	r3, #:lower16:_port_switch_from_isr
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  505 0035 06       		.byte	0x6
  506 0036 49050000 		.4byte	.LASF1
  507 003a 04       		.uleb128 0x4
-ARM GAS  /tmp/ccigaZrY.s 			page 27
+ARM GAS  /tmp/cc8siAbf.s 			page 27
 
 
  508 003b 45040000 		.4byte	.LASF4
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  562 00a7 04       		.byte	0x4
  563 00a8 2A       		.byte	0x2a
  564 00a9 3A000000 		.4byte	0x3a
-ARM GAS  /tmp/ccigaZrY.s 			page 28
+ARM GAS  /tmp/cc8siAbf.s 			page 28
 
 
  565 00ad 04       		.uleb128 0x4
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  619 0122 B8000000 		.4byte	0xb8
  620 0126 04       		.uleb128 0x4
  621 0127 2C000000 		.4byte	.LASF26
-ARM GAS  /tmp/ccigaZrY.s 			page 29
+ARM GAS  /tmp/cc8siAbf.s 			page 29
 
 
  622 012b 06       		.byte	0x6
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  676 0197 B7070000 		.4byte	0x7b7
  677 019b 1C       		.byte	0x1c
  678 019c 06       		.uleb128 0x6
-ARM GAS  /tmp/ccigaZrY.s 			page 30
+ARM GAS  /tmp/cc8siAbf.s 			page 30
 
 
  679 019d 23050000 		.4byte	.LASF34
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  733 020d A1050000 		.4byte	.LASF42
  734 0211 07       		.byte	0x7
  735 0212 3201     		.2byte	0x132
-ARM GAS  /tmp/ccigaZrY.s 			page 31
+ARM GAS  /tmp/cc8siAbf.s 			page 31
 
 
  736 0214 02030000 		.4byte	0x302
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  790 0280 9B040000 		.4byte	.LASF51
  791 0284 06       		.byte	0x6
  792 0285 57       		.byte	0x57
-ARM GAS  /tmp/ccigaZrY.s 			page 32
+ARM GAS  /tmp/cc8siAbf.s 			page 32
 
 
  793 0286 8A020000 		.4byte	0x28a
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  847 02fc 0D       		.uleb128 0xd
  848 02fd 02030000 		.4byte	0x302
  849 0301 00       		.byte	0
-ARM GAS  /tmp/ccigaZrY.s 			page 33
+ARM GAS  /tmp/cc8siAbf.s 			page 33
 
 
  850 0302 0E       		.uleb128 0xe
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  904 0372 AB030000 		.4byte	0x3ab
  905 0376 09       		.uleb128 0x9
  906 0377 55000000 		.4byte	.LASF47
-ARM GAS  /tmp/ccigaZrY.s 			page 34
+ARM GAS  /tmp/cc8siAbf.s 			page 34
 
 
  907 037b 07       		.byte	0x7
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  961 03ee 07       		.byte	0x7
  962 03ef A001     		.2byte	0x1a0
  963 03f1 7F020000 		.4byte	0x27f
-ARM GAS  /tmp/ccigaZrY.s 			page 35
+ARM GAS  /tmp/cc8siAbf.s 			page 35
 
 
  964 03f5 00       		.byte	0
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1018 0466 0C       		.byte	0xc
  1019 0467 08       		.uleb128 0x8
  1020 0468 53435200 		.ascii	"SCR\000"
-ARM GAS  /tmp/ccigaZrY.s 			page 36
+ARM GAS  /tmp/cc8siAbf.s 			page 36
 
 
  1021 046c 08       		.byte	0x8
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1075 04e1 08       		.byte	0x8
  1076 04e2 B001     		.2byte	0x1b0
  1077 04e4 25040000 		.4byte	0x425
-ARM GAS  /tmp/ccigaZrY.s 			page 37
+ARM GAS  /tmp/cc8siAbf.s 			page 37
 
 
  1078 04e8 3C       		.byte	0x3c
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1132 055b 4A050000 		.4byte	0x54a
  1133 055f 12       		.uleb128 0x12
  1134 0560 C3000000 		.4byte	0xc3
-ARM GAS  /tmp/ccigaZrY.s 			page 38
+ARM GAS  /tmp/cc8siAbf.s 			page 38
 
 
  1135 0564 6F050000 		.4byte	0x56f
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1189 05df 09       		.byte	0x9
  1190 05e0 8A       		.byte	0x8a
  1191 05e1 63060000 		.4byte	0x663
-ARM GAS  /tmp/ccigaZrY.s 			page 39
+ARM GAS  /tmp/cc8siAbf.s 			page 39
 
 
  1192 05e5 00       		.byte	0
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1246 0651 B9050000 		.4byte	0x5b9
  1247 0655 1C       		.byte	0x1c
  1248 0656 08       		.uleb128 0x8
-ARM GAS  /tmp/ccigaZrY.s 			page 40
+ARM GAS  /tmp/cc8siAbf.s 			page 40
 
 
  1249 0657 6C7200   		.ascii	"lr\000"
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1303 06c5 4101     		.2byte	0x141
  1304 06c7 B9050000 		.4byte	0x5b9
  1305 06cb 18       		.byte	0x18
-ARM GAS  /tmp/ccigaZrY.s 			page 41
+ARM GAS  /tmp/cc8siAbf.s 			page 41
 
 
  1306 06cc 09       		.uleb128 0x9
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1360 073e 04       		.byte	0x4
  1361 073f 1A020000 		.4byte	0x21a
  1362 0743 05       		.uleb128 0x5
-ARM GAS  /tmp/ccigaZrY.s 			page 42
+ARM GAS  /tmp/cc8siAbf.s 			page 42
 
 
  1363 0744 20010000 		.4byte	.LASF102
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1417 07b0 03       		.uleb128 0x3
  1418 07b1 01       		.byte	0x1
  1419 07b2 08       		.byte	0x8
-ARM GAS  /tmp/ccigaZrY.s 			page 43
+ARM GAS  /tmp/cc8siAbf.s 			page 43
 
 
  1420 07b3 24020000 		.4byte	.LASF105
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1474 0823 C3000000 		.4byte	0xc3
  1475 0827 00       		.byte	0
  1476 0828 1D       		.uleb128 0x1d
-ARM GAS  /tmp/ccigaZrY.s 			page 44
+ARM GAS  /tmp/cc8siAbf.s 			page 44
 
 
  1477 0829 79030000 		.4byte	.LASF111
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1531 0897 0C080000 		.4byte	0x80c
  1532 089b 00000000 		.4byte	.LBB51
  1533 089f 04000000 		.4byte	.LBE51-.LBB51
-ARM GAS  /tmp/ccigaZrY.s 			page 45
+ARM GAS  /tmp/cc8siAbf.s 			page 45
 
 
  1534 08a3 01       		.byte	0x1
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1588 0926 23       		.uleb128 0x23
  1589 0927 49080000 		.4byte	0x849
  1590 092b 02000000 		.4byte	.LBB83
-ARM GAS  /tmp/ccigaZrY.s 			page 46
+ARM GAS  /tmp/cc8siAbf.s 			page 46
 
 
  1591 092f 06000000 		.4byte	.LBE83-.LBB83
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1645 09b4 0C080000 		.4byte	0x80c
  1646 09b8 1E000000 		.4byte	.LBB93
  1647 09bc 04000000 		.4byte	.LBE93-.LBB93
-ARM GAS  /tmp/ccigaZrY.s 			page 47
+ARM GAS  /tmp/cc8siAbf.s 			page 47
 
 
  1648 09c0 01       		.byte	0x1
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1702 0006 0B       		.uleb128 0xb
  1703 0007 03       		.uleb128 0x3
  1704 0008 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccigaZrY.s 			page 48
+ARM GAS  /tmp/cc8siAbf.s 			page 48
 
 
  1705 0009 1B       		.uleb128 0x1b
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1759 003f 3B       		.uleb128 0x3b
  1760 0040 0B       		.uleb128 0xb
  1761 0041 01       		.uleb128 0x1
-ARM GAS  /tmp/ccigaZrY.s 			page 49
+ARM GAS  /tmp/cc8siAbf.s 			page 49
 
 
  1762 0042 13       		.uleb128 0x13
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1816 0078 0B       		.uleb128 0xb
  1817 0079 3B       		.uleb128 0x3b
  1818 007a 05       		.uleb128 0x5
-ARM GAS  /tmp/ccigaZrY.s 			page 50
+ARM GAS  /tmp/cc8siAbf.s 			page 50
 
 
  1819 007b 49       		.uleb128 0x49
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1873 00b1 35       		.uleb128 0x35
  1874 00b2 00       		.byte	0
  1875 00b3 49       		.uleb128 0x49
-ARM GAS  /tmp/ccigaZrY.s 			page 51
+ARM GAS  /tmp/cc8siAbf.s 			page 51
 
 
  1876 00b4 13       		.uleb128 0x13
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1930 00ea 15       		.uleb128 0x15
  1931 00eb 17       		.uleb128 0x17
  1932 00ec 01       		.byte	0x1
-ARM GAS  /tmp/ccigaZrY.s 			page 52
+ARM GAS  /tmp/cc8siAbf.s 			page 52
 
 
  1933 00ed 0B       		.uleb128 0xb
@@ -3118,7 +3118,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  1987 0123 05       		.uleb128 0x5
  1988 0124 00       		.byte	0
  1989 0125 03       		.uleb128 0x3
-ARM GAS  /tmp/ccigaZrY.s 			page 53
+ARM GAS  /tmp/cc8siAbf.s 			page 53
 
 
  1990 0126 0E       		.uleb128 0xe
@@ -3178,7 +3178,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  2044 015c 00       		.byte	0
  2045 015d 00       		.byte	0
  2046 015e 1D       		.uleb128 0x1d
-ARM GAS  /tmp/ccigaZrY.s 			page 54
+ARM GAS  /tmp/cc8siAbf.s 			page 54
 
 
  2047 015f 2E       		.uleb128 0x2e
@@ -3238,7 +3238,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  2101 0195 2E       		.uleb128 0x2e
  2102 0196 01       		.byte	0x1
  2103 0197 3F       		.uleb128 0x3f
-ARM GAS  /tmp/ccigaZrY.s 			page 55
+ARM GAS  /tmp/cc8siAbf.s 			page 55
 
 
  2104 0198 19       		.uleb128 0x19
@@ -3298,7 +3298,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  2158 01cf 0B       		.uleb128 0xb
  2159 01d0 01       		.byte	0x1
  2160 01d1 11       		.uleb128 0x11
-ARM GAS  /tmp/ccigaZrY.s 			page 56
+ARM GAS  /tmp/cc8siAbf.s 			page 56
 
 
  2161 01d2 01       		.uleb128 0x1
@@ -3358,7 +3358,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  2215 0208 05       		.uleb128 0x5
  2216 0209 00       		.byte	0
  2217 020a 31       		.uleb128 0x31
-ARM GAS  /tmp/ccigaZrY.s 			page 57
+ARM GAS  /tmp/cc8siAbf.s 			page 57
 
 
  2218 020b 13       		.uleb128 0x13
@@ -3418,7 +3418,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  2272 0244 19       		.uleb128 0x19
  2273 0245 00       		.byte	0
  2274 0246 00       		.byte	0
-ARM GAS  /tmp/ccigaZrY.s 			page 58
+ARM GAS  /tmp/cc8siAbf.s 			page 58
 
 
  2275 0247 2E       		.uleb128 0x2e
@@ -3478,7 +3478,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  2329 0024 06000000 		.4byte	.LVL1
  2330 0028 0100     		.2byte	0x1
  2331 002a 53       		.byte	0x53
-ARM GAS  /tmp/ccigaZrY.s 			page 59
+ARM GAS  /tmp/cc8siAbf.s 			page 59
 
 
  2332 002b 06000000 		.4byte	.LVL1
@@ -3538,7 +3538,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  2386              		.section	.debug_aranges,"",%progbits
  2387 0000 24000000 		.4byte	0x24
  2388 0004 0200     		.2byte	0x2
-ARM GAS  /tmp/ccigaZrY.s 			page 60
+ARM GAS  /tmp/cc8siAbf.s 			page 60
 
 
  2389 0006 00000000 		.4byte	.Ldebug_info0
@@ -3598,7 +3598,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  2426      64696E67 
  2426      00
  2427              	.LASF0:
-ARM GAS  /tmp/ccigaZrY.s 			page 61
+ARM GAS  /tmp/cc8siAbf.s 			page 61
 
 
  2428 0048 756E7369 		.ascii	"unsigned int\000"
@@ -3658,7 +3658,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  2455              	.LASF50:
  2456 00cf 70726576 		.ascii	"prev\000"
  2456      00
-ARM GAS  /tmp/ccigaZrY.s 			page 62
+ARM GAS  /tmp/cc8siAbf.s 			page 62
 
 
  2457              	.LASF49:
@@ -3718,7 +3718,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  2482      68497350 
  2482      7265656D 
  2482      7074696F 
-ARM GAS  /tmp/ccigaZrY.s 			page 63
+ARM GAS  /tmp/cc8siAbf.s 			page 63
 
 
  2482      6E526571 
@@ -3778,7 +3778,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  2511              	.LASF81:
  2512 0209 41465352 		.ascii	"AFSR\000"
  2512      00
-ARM GAS  /tmp/ccigaZrY.s 			page 64
+ARM GAS  /tmp/cc8siAbf.s 			page 64
 
 
  2513              	.LASF124:
@@ -3838,7 +3838,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  2542 028f 6D73675F 		.ascii	"msg_t\000"
  2542      7400
  2543              	.LASF76:
-ARM GAS  /tmp/ccigaZrY.s 			page 65
+ARM GAS  /tmp/cc8siAbf.s 			page 65
 
 
  2544 0295 43465352 		.ascii	"CFSR\000"
@@ -3898,7 +3898,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  2567      5200
  2568              	.LASF3:
  2569 0393 73686F72 		.ascii	"short int\000"
-ARM GAS  /tmp/ccigaZrY.s 			page 66
+ARM GAS  /tmp/cc8siAbf.s 			page 66
 
 
  2569      7420696E 
@@ -3958,7 +3958,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  2594              	.LASF91:
  2595 044f 706F7274 		.ascii	"port_extctx\000"
  2595      5F657874 
-ARM GAS  /tmp/ccigaZrY.s 			page 67
+ARM GAS  /tmp/cc8siAbf.s 			page 67
 
 
  2595      63747800 
@@ -4018,7 +4018,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  2625 04d9 756E7369 		.ascii	"unsigned char\000"
  2625      676E6564 
  2625      20636861 
-ARM GAS  /tmp/ccigaZrY.s 			page 68
+ARM GAS  /tmp/cc8siAbf.s 			page 68
 
 
  2625      7200
@@ -4078,7 +4078,7 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  2653 0579 63757272 		.ascii	"current\000"
  2653      656E7400 
  2654              	.LASF109:
-ARM GAS  /tmp/ccigaZrY.s 			page 69
+ARM GAS  /tmp/cc8siAbf.s 			page 69
 
 
  2655 0581 706F7274 		.ascii	"port_unlock\000"
@@ -4103,15 +4103,15 @@ ARM GAS  /tmp/ccigaZrY.s 			page 1
  2665      5000
  2666              		.comm	__gnu_lto_v1,1,1
  2667              		.ident	"GCC: (4.8.2-14ubuntu1+6) 4.8.2"
-ARM GAS  /tmp/ccigaZrY.s 			page 70
+ARM GAS  /tmp/cc8siAbf.s 			page 70
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 chcore_v7m.c
-     /tmp/ccigaZrY.s:304    .text.SVC_Handler:0000000000000000 $t
-     /tmp/ccigaZrY.s:310    .text.SVC_Handler:0000000000000000 SVC_Handler
-     /tmp/ccigaZrY.s:364    .text._port_irq_epilogue:0000000000000000 $t
-     /tmp/ccigaZrY.s:370    .text._port_irq_epilogue:0000000000000000 _port_irq_epilogue
+     /tmp/cc8siAbf.s:304    .text.SVC_Handler:0000000000000000 $t
+     /tmp/cc8siAbf.s:310    .text.SVC_Handler:0000000000000000 SVC_Handler
+     /tmp/cc8siAbf.s:364    .text._port_irq_epilogue:0000000000000000 $t
+     /tmp/cc8siAbf.s:370    .text._port_irq_epilogue:0000000000000000 _port_irq_epilogue
                             *COM*:0000000000000001 __gnu_lto_v1
                      .debug_frame:0000000000000010 $d
 

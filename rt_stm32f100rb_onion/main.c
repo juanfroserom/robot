@@ -360,7 +360,7 @@ while ((PosCx != PosFx) || (PosCy != PosFy)) {
 		chThdSleepMilliseconds(1000);
 		
 		while (s){
-		if(PosCy == PosFy){
+		if((PosCy == PosFy) && (PosCx == PosFx)){
 			//Stop 
 			pwmEnableChannel(&PWMD1, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD1, 0)); 
 			pwmEnableChannel(&PWMD3, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD3, 0));
@@ -396,6 +396,19 @@ while ((PosCx != PosFx) || (PosCy != PosFy)) {
 				palSetPad(GPIOA,11);	
 				chThdSleepMilliseconds(1000);
 				PosCy=PosCy+1;
+				//Stop 
+				pwmEnableChannel(&PWMD1, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD1, 0)); 
+				pwmEnableChannel(&PWMD3, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD3, 0));
+				palSetPad(GPIOA,9);
+				palSetPad(GPIOA,11);
+				chThdSleepMilliseconds(1000);
+				//Left
+				pwmEnableChannel(&PWMD1, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD1, 1000)); 
+				pwmEnableChannel(&PWMD3, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD3, 0));
+				palSetPad(GPIOA,9);
+				palSetPad(GPIOA,11);
+				chThdSleepMilliseconds(550);
+
 				//Stop 
 				pwmEnableChannel(&PWMD1, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD1, 0)); 
 				pwmEnableChannel(&PWMD3, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD3, 0));
@@ -606,12 +619,26 @@ while ((PosCx != PosFx) || (PosCy != PosFy)) {
 			palSetPad(GPIOA,11);	
 			chThdSleepMilliseconds(1500*PosFy);
 
+			//Stop 
+			pwmEnableChannel(&PWMD1, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD1, 0)); 
+			pwmEnableChannel(&PWMD3, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD3, 0));
+			palSetPad(GPIOA,9);
+			palSetPad(GPIOA,11);
+			chThdSleepMilliseconds(1000);
+
 			//Right
 			pwmEnableChannel(&PWMD1, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD1, 0)); 
 			pwmEnableChannel(&PWMD3, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD3, 1000));
 			palSetPad(GPIOA,9);
 			palSetPad(GPIOA,11);
 			chThdSleepMilliseconds(550);
+
+			//Stop 
+			pwmEnableChannel(&PWMD1, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD1, 0)); 
+			pwmEnableChannel(&PWMD3, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD3, 0));
+			palSetPad(GPIOA,9);
+			palSetPad(GPIOA,11);
+			chThdSleepMilliseconds(1000);
 
 			//Advance
 			pwmEnableChannel(&PWMD1, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD1, 6000)); 
@@ -620,12 +647,26 @@ while ((PosCx != PosFx) || (PosCy != PosFy)) {
 			palSetPad(GPIOA,11);	
 			chThdSleepMilliseconds(1500*PosFx);
 
+			//Stop 
+			pwmEnableChannel(&PWMD1, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD1, 0)); 
+			pwmEnableChannel(&PWMD3, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD3, 0));
+			palSetPad(GPIOA,9);
+			palSetPad(GPIOA,11);
+			chThdSleepMilliseconds(1000);
+
 			//Right
 			pwmEnableChannel(&PWMD1, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD1, 0)); 
 			pwmEnableChannel(&PWMD3, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD3, 1000));
 			palSetPad(GPIOA,9);
 			palSetPad(GPIOA,11);
 			chThdSleepMilliseconds(550);
+
+			//Stop 
+			pwmEnableChannel(&PWMD1, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD1, 0)); 
+			pwmEnableChannel(&PWMD3, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD3, 0));
+			palSetPad(GPIOA,9);
+			palSetPad(GPIOA,11);
+			chThdSleepMilliseconds(1000);
 
 			//Right
 			pwmEnableChannel(&PWMD1, 0, PWM_PERCENTAGE_TO_WIDTH(&PWMD1, 0)); 

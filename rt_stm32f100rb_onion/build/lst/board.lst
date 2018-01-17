@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccPHV5BD.s 			page 1
+ARM GAS  /tmp/cckWP88T.s 			page 1
 
 
    1              		.syntax unified
@@ -17,7 +17,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
   14              		.file	"board.c"
   15              		.text
   16              	.Ltext0:
-  17              		.section	.gnu.lto_.jmpfuncs.56a2f947af06f500,"",%progbits
+  17              		.section	.gnu.lto_.jmpfuncs.e2ae6aa631327516,"",%progbits
   18 0000 789C6362 		.ascii	"x\234cb`b\300\006\330\2414H\226\221\201\001\000\001"
   18      6062C006 
   18      D8A13448 
@@ -25,7 +25,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
   18      0001
   19 0012 39000F   		.ascii	"9\000\017"
   20              		.text
-  21              		.section	.gnu.lto_.inline.56a2f947af06f500,"",%progbits
+  21              		.section	.gnu.lto_.inline.e2ae6aa631327516,"",%progbits
   22 0000 789C6362 		.ascii	"x\234cb`b\300\006\264\2414P\226\205\207\021\254\210"
   22      6062C006 
   22      B4A13450 
@@ -37,14 +37,14 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
   23      15660000 
   23      2CE001E7 
   24              		.text
-  25              		.section	.gnu.lto_.pureconst.56a2f947af06f500,"",%progbits
+  25              		.section	.gnu.lto_.pureconst.e2ae6aa631327516,"",%progbits
   26 0000 789C6362 		.ascii	"x\234cb`b`e\200\000&\006\011F\006\000\000\346\000%"
   26      60626065 
   26      80002606 
   26      09460600 
   26      00E60025 
   27              		.text
-  28              		.section	.gnu.lto___early_init.56a2f947af06f500,"",%progbits
+  28              		.section	.gnu.lto___early_init.e2ae6aa631327516,"",%progbits
   29 0000 789C6362 		.ascii	"x\234cb`b@\007\222@\\\011\304\006@\314\310\314\300\310"
   29      60624007 
   29      92405C09 
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
   31 0026 1FC90856 		.ascii	"\037\311\010V\273\236\351\300\203\377\377\327mx\372"
   31      BB9EE9C0 
   31      83FFFFD7 
-ARM GAS  /tmp/ccPHV5BD.s 			page 2
+ARM GAS  /tmp/cckWP88T.s 			page 2
 
 
   31      6D78FA
@@ -96,7 +96,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
   38      2330
   39 00ae 86       		.ascii	"\206"
   40              		.text
-  41              		.section	.gnu.lto_boardInit.56a2f947af06f500,"",%progbits
+  41              		.section	.gnu.lto_boardInit.e2ae6aa631327516,"",%progbits
   42 0000 789C6362 		.ascii	"x\234cb`b@\007\222@\034\010\304\006@\314\310\314\300"
   42      60624007 
   42      92401C08 
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
   45      B07C08
   46 0047 9004690A 		.ascii	"\220\004i\012\005J\002i\346\213\014\214\211\214\013"
   46      054A0269 
-ARM GAS  /tmp/ccPHV5BD.s 			page 3
+ARM GAS  /tmp/cckWP88T.s 			page 3
 
 
   46      E68B0C8C 
@@ -140,7 +140,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
   49      C90C00
   50 008d F2C02570 		.ascii	"\362\300%p"
   51              		.text
-  52              		.section	.gnu.lto_.symbol_nodes.56a2f947af06f500,"",%progbits
+  52              		.section	.gnu.lto_.symbol_nodes.e2ae6aa631327516,"",%progbits
   53 0000 789C6362 		.ascii	"x\234cb`b\260e\200\002\246;\214\365\014\014\023\316"
   53      6062B065 
   53      8002A63B 
@@ -159,13 +159,13 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
   56 003b 003FAE12 		.ascii	"\000?\256\022\022"
   56      12
   57              		.text
-  58              		.section	.gnu.lto_.refs.56a2f947af06f500,"",%progbits
+  58              		.section	.gnu.lto_.refs.e2ae6aa631327516,"",%progbits
   59 0000 789C6362 		.ascii	"x\234cb`b`d\200\002\000\000F\000\006"
   59      60626064 
   59      80020000 
   59      460006
   60              		.text
-  61              		.section	.gnu.lto_.decls.56a2f947af06f500,"",%progbits
+  61              		.section	.gnu.lto_.decls.e2ae6aa631327516,"",%progbits
   62 0000 789CAD96 		.ascii	"x\234\255\226Ml\033E\024\200\337\254\243`7V\213\"Q\001"
   62      4D6C1B45 
   62      1480DFAC 
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
   63      0AD4
   64 0026 226D05A7 		.ascii	"\"m\005\247ej\273\215\305\326\266\3545\3759\215\032"
   64      656ABB8D 
-ARM GAS  /tmp/ccPHV5BD.s 			page 4
+ARM GAS  /tmp/cckWP88T.s 			page 4
 
 
   64      C5D6B6EC 
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
   75      2E10A5DE 
   75      CF59B3F8 
   75      63B4
-ARM GAS  /tmp/ccPHV5BD.s 			page 5
+ARM GAS  /tmp/cckWP88T.s 			page 5
 
 
   76 0100 CCFEAE54 		.ascii	"\314\376\256T\266H\333\012\014\020\024\275H\272\326"
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
   87      EAE7F76E 
   87      3C8B5747 
   87      C975
-ARM GAS  /tmp/ccPHV5BD.s 			page 6
+ARM GAS  /tmp/cckWP88T.s 			page 6
 
 
   88 01da 01BAA038 		.ascii	"\001\272\2408A\224<\344sf\016\316m\001N\023\333\326"
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
   99      AB7B06
  100 02a6 BE66D962 		.ascii	"\276f\331b\210\222/\204AnH.u\313\030\311\224s|\2062"
  100      88922F84 
-ARM GAS  /tmp/ccPHV5BD.s 			page 7
+ARM GAS  /tmp/cckWP88T.s 			page 7
 
 
  100      416E482E 
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  112      DF9B3D42 
  112      39B90AE8 
  112      948023C9 
-ARM GAS  /tmp/ccPHV5BD.s 			page 8
+ARM GAS  /tmp/cckWP88T.s 			page 8
 
 
  112      58424B47 
@@ -455,7 +455,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  119 03fa ADFB9089 		.ascii	"\255\373\220\211Zx"
  119      5A78
  120              		.text
- 121              		.section	.gnu.lto_.symtab.56a2f947af06f500,"",%progbits
+ 121              		.section	.gnu.lto_.symtab.e2ae6aa631327516,"",%progbits
  122 0000 5F5F6561 		.ascii	"__early_init\000\000\000\000\000\000\000\000\000\000"
  122      726C795F 
  122      696E6974 
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  125      00000000 
  126 0051 0000AB00 		.ascii	"\000\000\253\000\000\000stm32_clock_init\000\000\002"
  126      00007374 
-ARM GAS  /tmp/ccPHV5BD.s 			page 9
+ARM GAS  /tmp/cckWP88T.s 			page 9
 
 
  126      6D33325F 
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  157      AFF30080 
  158              		.align	2
  159              		.p2align 4,,15
-ARM GAS  /tmp/ccPHV5BD.s 			page 10
+ARM GAS  /tmp/cckWP88T.s 			page 10
 
 
  160              		.global	boardInit
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  211              	.Ldebug_info0:
  212 0000 C9060000 		.4byte	0x6c9
  213 0004 0400     		.2byte	0x4
-ARM GAS  /tmp/ccPHV5BD.s 			page 11
+ARM GAS  /tmp/cckWP88T.s 			page 11
 
 
  214 0006 00000000 		.4byte	.Ldebug_abbrev0
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  268 0078 FC030000 		.4byte	.LASF9
  269 007c 02       		.byte	0x2
  270 007d 38       		.byte	0x38
-ARM GAS  /tmp/ccPHV5BD.s 			page 12
+ARM GAS  /tmp/cckWP88T.s 			page 12
 
 
  271 007e 82000000 		.4byte	0x82
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  325 00f0 09000000 		.4byte	.LASF21
  326 00f4 04       		.byte	0x4
  327 00f5 3E       		.byte	0x3e
-ARM GAS  /tmp/ccPHV5BD.s 			page 13
+ARM GAS  /tmp/cckWP88T.s 			page 13
 
 
  328 00f6 A2000000 		.4byte	0xa2
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  382 016b 0C       		.byte	0xc
  383 016c 06       		.uleb128 0x6
  384 016d AD020000 		.4byte	.LASF30
-ARM GAS  /tmp/ccPHV5BD.s 			page 14
+ARM GAS  /tmp/cckWP88T.s 			page 14
 
 
  385 0171 06       		.byte	0x6
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  439 01dd 06       		.byte	0x6
  440 01de 1A01     		.2byte	0x11a
  441 01e0 4F020000 		.4byte	0x24f
-ARM GAS  /tmp/ccPHV5BD.s 			page 15
+ARM GAS  /tmp/cckWP88T.s 			page 15
 
 
  442 01e4 2C       		.byte	0x2c
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  496 0254 05       		.byte	0x5
  497 0255 50       		.byte	0x50
  498 0256 5A020000 		.4byte	0x25a
-ARM GAS  /tmp/ccPHV5BD.s 			page 16
+ARM GAS  /tmp/cckWP88T.s 			page 16
 
 
  499 025a 05       		.uleb128 0x5
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  553 02cb 09       		.uleb128 0x9
  554 02cc 01020000 		.4byte	.LASF31
  555 02d0 06       		.byte	0x6
-ARM GAS  /tmp/ccPHV5BD.s 			page 17
+ARM GAS  /tmp/cckWP88T.s 			page 17
 
 
  556 02d1 7201     		.2byte	0x172
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  610 0343 09       		.uleb128 0x9
  611 0344 0E020000 		.4byte	.LASF58
  612 0348 06       		.byte	0x6
-ARM GAS  /tmp/ccPHV5BD.s 			page 18
+ARM GAS  /tmp/cckWP88T.s 			page 18
 
 
  613 0349 4901     		.2byte	0x149
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  667 03bc 06       		.byte	0x6
  668 03bd 7C01     		.2byte	0x17c
  669 03bf D1030000 		.4byte	0x3d1
-ARM GAS  /tmp/ccPHV5BD.s 			page 19
+ARM GAS  /tmp/cckWP88T.s 			page 19
 
 
  670 03c3 09       		.uleb128 0x9
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  724 0435 07       		.byte	0x7
  725 0436 6D       		.byte	0x6d
  726 0437 CE000000 		.4byte	0xce
-ARM GAS  /tmp/ccPHV5BD.s 			page 20
+ARM GAS  /tmp/cckWP88T.s 			page 20
 
 
  727 043b 05       		.uleb128 0x5
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  781 04a7 14       		.byte	0x14
  782 04a8 08       		.uleb128 0x8
  783 04a9 72313000 		.ascii	"r10\000"
-ARM GAS  /tmp/ccPHV5BD.s 			page 21
+ARM GAS  /tmp/cckWP88T.s 			page 21
 
 
  784 04ad 08       		.byte	0x8
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  838 051b 63050000 		.4byte	0x563
  839 051f 11       		.uleb128 0x11
  840 0520 ED040000 		.4byte	.LASF81
-ARM GAS  /tmp/ccPHV5BD.s 			page 22
+ARM GAS  /tmp/cckWP88T.s 			page 22
 
 
  841 0524 06       		.byte	0x6
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  895 0592 0A       		.byte	0xa
  896 0593 3E       		.byte	0x3e
  897 0594 CE050000 		.4byte	0x5ce
-ARM GAS  /tmp/ccPHV5BD.s 			page 23
+ARM GAS  /tmp/cckWP88T.s 			page 23
 
 
  898 0598 0C       		.byte	0xc
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  952 0601 6E       		.byte	0x6e
  953 0602 C3000000 		.4byte	0xc3
  954 0606 08       		.byte	0x8
-ARM GAS  /tmp/ccPHV5BD.s 			page 24
+ARM GAS  /tmp/cckWP88T.s 			page 24
 
 
  955 0607 00       		.byte	0
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  1009 0673 9C       		.byte	0x9c
  1010 0674 82060000 		.4byte	0x682
  1011 0678 16       		.uleb128 0x16
-ARM GAS  /tmp/ccPHV5BD.s 			page 25
+ARM GAS  /tmp/cckWP88T.s 			page 25
 
 
  1012 0679 04000000 		.4byte	.LVL0
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  1066 000e 01       		.uleb128 0x1
  1067 000f 10       		.uleb128 0x10
  1068 0010 17       		.uleb128 0x17
-ARM GAS  /tmp/ccPHV5BD.s 			page 26
+ARM GAS  /tmp/cckWP88T.s 			page 26
 
 
  1069 0011 00       		.byte	0
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  1123 0047 00       		.byte	0
  1124 0048 03       		.uleb128 0x3
  1125 0049 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccPHV5BD.s 			page 27
+ARM GAS  /tmp/cckWP88T.s 			page 27
 
 
  1126 004a 3A       		.uleb128 0x3a
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  1180 0080 00       		.byte	0
  1181 0081 0A       		.uleb128 0xa
  1182 0082 0F       		.uleb128 0xf
-ARM GAS  /tmp/ccPHV5BD.s 			page 28
+ARM GAS  /tmp/cckWP88T.s 			page 28
 
 
  1183 0083 00       		.byte	0
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  1237 00b9 01       		.uleb128 0x1
  1238 00ba 13       		.uleb128 0x13
  1239 00bb 00       		.byte	0
-ARM GAS  /tmp/ccPHV5BD.s 			page 29
+ARM GAS  /tmp/cckWP88T.s 			page 29
 
 
  1240 00bc 00       		.byte	0
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  1294 00f2 15       		.uleb128 0x15
  1295 00f3 2E       		.uleb128 0x2e
  1296 00f4 01       		.byte	0x1
-ARM GAS  /tmp/ccPHV5BD.s 			page 30
+ARM GAS  /tmp/cckWP88T.s 			page 30
 
 
  1297 00f5 3F       		.uleb128 0x3f
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  1351 0130 00       		.byte	0
  1352 0131 00       		.byte	0
  1353 0132 18       		.uleb128 0x18
-ARM GAS  /tmp/ccPHV5BD.s 			page 31
+ARM GAS  /tmp/cckWP88T.s 			page 31
 
 
  1354 0133 34       		.uleb128 0x34
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  1408 0169 19       		.uleb128 0x19
  1409 016a 03       		.uleb128 0x3
  1410 016b 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccPHV5BD.s 			page 32
+ARM GAS  /tmp/cckWP88T.s 			page 32
 
 
  1411 016c 3A       		.uleb128 0x3a
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  1454      64696E67 
  1454      00
  1455              	.LASF97:
-ARM GAS  /tmp/ccPHV5BD.s 			page 33
+ARM GAS  /tmp/cckWP88T.s 			page 33
 
 
  1456 002a 70616C5F 		.ascii	"pal_default_config\000"
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  1476              	.LASF80:
  1477 014a 77747365 		.ascii	"wtsemp\000"
  1477      6D7000
-ARM GAS  /tmp/ccPHV5BD.s 			page 34
+ARM GAS  /tmp/cckWP88T.s 			page 34
 
 
  1478              	.LASF5:
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  1505 01f7 63685F74 		.ascii	"ch_thread\000"
  1505      68726561 
  1505      6400
-ARM GAS  /tmp/ccPHV5BD.s 			page 35
+ARM GAS  /tmp/cckWP88T.s 			page 35
 
 
  1506              	.LASF31:
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  1533      6E74385F 
  1533      7400
  1534              	.LASF103:
-ARM GAS  /tmp/ccPHV5BD.s 			page 36
+ARM GAS  /tmp/cckWP88T.s 			page 36
 
 
  1535 0294 73746D33 		.ascii	"stm32_clock_init\000"
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  1564              	.LASF15:
  1565 0319 75696E74 		.ascii	"uint16_t\000"
  1565      31365F74 
-ARM GAS  /tmp/ccPHV5BD.s 			page 37
+ARM GAS  /tmp/cckWP88T.s 			page 37
 
 
  1565      00
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  1591 03b3 50424461 		.ascii	"PBData\000"
  1591      746100
  1592              	.LASF88:
-ARM GAS  /tmp/ccPHV5BD.s 			page 38
+ARM GAS  /tmp/cckWP88T.s 			page 38
 
 
  1593 03ba 5F426F6F 		.ascii	"_Bool\000"
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  1619      6A7000
  1620              	.LASF40:
  1621 044a 6D74786C 		.ascii	"mtxlist\000"
-ARM GAS  /tmp/ccPHV5BD.s 			page 39
+ARM GAS  /tmp/cckWP88T.s 			page 39
 
 
  1621      69737400 
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  1648              	.LASF23:
  1649 04dd 6D73675F 		.ascii	"msg_t\000"
  1649      7400
-ARM GAS  /tmp/ccPHV5BD.s 			page 40
+ARM GAS  /tmp/cckWP88T.s 			page 40
 
 
  1650              	.LASF29:
@@ -2357,17 +2357,17 @@ ARM GAS  /tmp/ccPHV5BD.s 			page 1
  1657      5F7400
  1658              		.comm	__gnu_lto_v1,1,1
  1659              		.ident	"GCC: (4.8.2-14ubuntu1+6) 4.8.2"
-ARM GAS  /tmp/ccPHV5BD.s 			page 41
+ARM GAS  /tmp/cckWP88T.s 			page 41
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 board.c
-     /tmp/ccPHV5BD.s:137    .text.__early_init:0000000000000000 $t
-     /tmp/ccPHV5BD.s:143    .text.__early_init:0000000000000000 __early_init
-     /tmp/ccPHV5BD.s:158    .text.boardInit:0000000000000000 $t
-     /tmp/ccPHV5BD.s:164    .text.boardInit:0000000000000000 boardInit
-     /tmp/ccPHV5BD.s:180    .rodata.pal_default_config:0000000000000000 pal_default_config
-     /tmp/ccPHV5BD.s:177    .rodata.pal_default_config:0000000000000000 $d
+     /tmp/cckWP88T.s:137    .text.__early_init:0000000000000000 $t
+     /tmp/cckWP88T.s:143    .text.__early_init:0000000000000000 __early_init
+     /tmp/cckWP88T.s:158    .text.boardInit:0000000000000000 $t
+     /tmp/cckWP88T.s:164    .text.boardInit:0000000000000000 boardInit
+     /tmp/cckWP88T.s:180    .rodata.pal_default_config:0000000000000000 pal_default_config
+     /tmp/cckWP88T.s:177    .rodata.pal_default_config:0000000000000000 $d
                             *COM*:0000000000000001 __gnu_lto_v1
                      .debug_frame:0000000000000010 $d
 

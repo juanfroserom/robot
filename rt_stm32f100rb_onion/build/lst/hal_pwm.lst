@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccXdXdaP.s 			page 1
+ARM GAS  /tmp/cchk29Gr.s 			page 1
 
 
    1              		.syntax unified
@@ -17,7 +17,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
   14              		.file	"hal_pwm.c"
   15              		.text
   16              	.Ltext0:
-  17              		.section	.gnu.lto_.jmpfuncs.309fc447539978a9,"",%progbits
+  17              		.section	.gnu.lto_.jmpfuncs.e01dc43e7e206e48,"",%progbits
   18 0000 789C6362 		.ascii	"x\234cb`b\300\006B\24047\020322132003\002\011\026fV"
   18      6062C006 
   18      42A03437 
@@ -33,7 +33,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
   20      B1190083 
   20      160325
   21              		.text
-  22              		.section	.gnu.lto_.inline.309fc447539978a9,"",%progbits
+  22              		.section	.gnu.lto_.inline.e01dc43e7e206e48,"",%progbits
   23 0000 789C7D8F 		.ascii	"x\234}\217\275\015\2030\020F?\377\304>\033#\"Dj6HI:"
   23      BD0D8330 
   23      10463FFF 
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
   27      8BA157F0 
   28 005a 251BBB34 		.ascii	"%\033\2734pK\363m4\034\011.&\212\346\026\264\336%\344"
   28      704BF36D 
-ARM GAS  /tmp/ccXdXdaP.s 			page 2
+ARM GAS  /tmp/cchk29Gr.s 			page 2
 
 
   28      341C092E 
@@ -77,7 +77,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
   31 0098 1C5E3C74 		.ascii	"\034^<t#}"
   31      237D
   32              		.text
-  33              		.section	.gnu.lto_.pureconst.309fc447539978a9,"",%progbits
+  33              		.section	.gnu.lto_.pureconst.e01dc43e7e206e48,"",%progbits
   34 0000 789C6362 		.ascii	"x\234cb`b\020g\200\000n\006\011F)&+f+\026+V+6+v+\016"
   34      60621067 
   34      80006E06 
@@ -87,7 +87,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
   35      2B001C69 
   35      029A
   36              		.text
-  37              		.section	.gnu.lto_pwmInit.309fc447539978a9,"",%progbits
+  37              		.section	.gnu.lto_pwmInit.e01dc43e7e206e48,"",%progbits
   38 0000 789C6362 		.ascii	"x\234cb`b@\007\222@\\\011\304R@\314\310\314\300\310"
   38      60624007 
   38      92405C09 
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
   43      AA861897 
   44 006c 09A22F32 		.ascii	"\011\242/24>\370\315\004S\004\001!@\011\240\001 \307"
   44      343EF8CD 
-ARM GAS  /tmp/ccXdXdaP.s 			page 3
+ARM GAS  /tmp/cchk29Gr.s 			page 3
 
 
   44      04530401 
@@ -132,7 +132,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
   46      BD640600 
   46      698B2A14 
   47              		.text
-  48              		.section	.gnu.lto_pwmObjectInit.309fc447539978a9,"",%progbits
+  48              		.section	.gnu.lto_pwmObjectInit.e01dc43e7e206e48,"",%progbits
   49 0000 789C6362 		.ascii	"x\234cb`b@\007\222@\034\314\310\300 \005\244\031\231"
   49      60624007 
   49      92401CCC 
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
   57      DD4C
   58 00a0 70DD2C30 		.ascii	"p\335,0\335;\260\350f\305\256\233\031\256\233\025\304"
   58      DD3BB0E8 
-ARM GAS  /tmp/ccXdXdaP.s 			page 4
+ARM GAS  /tmp/cchk29Gr.s 			page 4
 
 
   58      66C5AE9B 
@@ -197,7 +197,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
   61      CC0000D3 
   61      8E5554
   62              		.text
-  63              		.section	.gnu.lto_pwmStart.309fc447539978a9,"",%progbits
+  63              		.section	.gnu.lto_pwmStart.e01dc43e7e206e48,"",%progbits
   64 0000 789C8553 		.ascii	"x\234\205SMh\023A\024~o7\177\2666\351\321\212\304P\021"
   64      4D681341 
   64      147E6F37 
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
   71      3CAA083E 
   71      1A30
   72 0092 008A8DF0 		.ascii	"\000\212\215\360\303\222iVb*\222\216d\357L\321\310\016"
-ARM GAS  /tmp/ccXdXdaP.s 			page 5
+ARM GAS  /tmp/cchk29Gr.s 			page 5
 
 
   72      C3926956 
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
   83      C60CB84C 
   83      97CA689B 
   83      95A1
-ARM GAS  /tmp/ccXdXdaP.s 			page 6
+ARM GAS  /tmp/cchk29Gr.s 			page 6
 
 
   84 0165 7EB9E1C1 		.ascii	"~\271\341\301r\234+G\207\274\207\245\306\273\262K\004"
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
   95      29377B59 
   95      1624D5
   96 023d 508C7446 		.ascii	"P\214tF\222\2101\346`\365B7\2335\026\214n\206\025\243"
-ARM GAS  /tmp/ccXdXdaP.s 			page 7
+ARM GAS  /tmp/cchk29Gr.s 			page 7
 
 
   96      928831E6 
@@ -376,7 +376,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
   98      0B88CC13 
   98      08
   99              		.text
- 100              		.section	.gnu.lto_pwmStop.309fc447539978a9,"",%progbits
+ 100              		.section	.gnu.lto_pwmStop.e01dc43e7e206e48,"",%progbits
  101 0000 789C8552 		.ascii	"x\234\205ROh\323P\030\377\276\027\263\326\025\331\216"
  101      4F68D350 
  101      18FFBE17 
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  109      5D514C24 
  109      8F7B9129 
  109      7A0BF865 
-ARM GAS  /tmp/ccXdXdaP.s 			page 8
+ARM GAS  /tmp/cchk29Gr.s 			page 8
 
 
  109      64C24AEF 
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  121      3E34A8EB 
  121      B7C65E5D 
  121      357CE08D 
-ARM GAS  /tmp/ccXdXdaP.s 			page 9
+ARM GAS  /tmp/cchk29Gr.s 			page 9
 
 
  121      F5406161 
@@ -531,14 +531,14 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  131      01A07BFC 
  131      C8
  132              		.text
- 133              		.section	.gnu.lto_pwmChangePeriod.309fc447539978a9,"",%progbits
+ 133              		.section	.gnu.lto_pwmChangePeriod.e01dc43e7e206e48,"",%progbits
  134 0000 789C8552 		.ascii	"x\234\205RAh\023A\024\375\1776\233D\253\324\243\021"
  134      41681341 
  134      14FD7F36 
  134      9B44ABD4 
  134      A311
  135 0012 894BA128 		.ascii	"\211K\241(V\262\336\274*9\365\220KSA\275\204\355\270"
-ARM GAS  /tmp/ccXdXdaP.s 			page 10
+ARM GAS  /tmp/cchk29Gr.s 			page 10
 
 
  135      56B2DEBC 
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  146      DFB656A4 
  146      631ADEC1 
  147 00ec 918852E7 		.ascii	"\221\210R\347\351\265\355\241\303\321\351\327\365O\303"
-ARM GAS  /tmp/ccXdXdaP.s 			page 11
+ARM GAS  /tmp/cchk29Gr.s 			page 11
 
 
  147      E9B5EDA1 
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  158      59117A30 
  158      97532D47 
  159 01ce 6855D5B1 		.ascii	"hU\325\261\271\260\245\332%3\307\341h\340\340\226iZ"
-ARM GAS  /tmp/ccXdXdaP.s 			page 12
+ARM GAS  /tmp/cchk29Gr.s 			page 12
 
 
  159      B9B0A5DA 
@@ -694,7 +694,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  165      F63CFC06 
  165      B5CCEDBF 
  166              		.text
- 167              		.section	.gnu.lto_pwmEnableChannel.309fc447539978a9,"",%progbits
+ 167              		.section	.gnu.lto_pwmEnableChannel.e01dc43e7e206e48,"",%progbits
  168 0000 789C8D52 		.ascii	"x\234\215RMh\023A\024~o&\177\246H{4\"1\024\212B%\353"
  168      4D681341 
  168      147E6F26 
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  172 004f F866B7D9 		.ascii	"\370f\267\331$-Tw\231yo\346{\357}o\346\033\006\014\366"
  172      242D5477 
  172      99796FE6 
-ARM GAS  /tmp/ccXdXdaP.s 			page 13
+ARM GAS  /tmp/cchk29Gr.s 			page 13
 
 
  172      7BEF7D6F 
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  184      A783BFDA 
  184      C3
  185 012f 237EC775 		.ascii	"#~\307u\250||\261\231\360)t\014\015\303\232\353\272"
-ARM GAS  /tmp/ccXdXdaP.s 			page 14
+ARM GAS  /tmp/cchk29Gr.s 			page 14
 
 
  185      A87C7CB1 
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  196      3BA38882 
  196      B06C2D3F 
  197 020f 203CA516 		.ascii	" <\245\026'\265\341\236hm\246\254d\262\271\221\234b"
-ARM GAS  /tmp/ccXdXdaP.s 			page 15
+ARM GAS  /tmp/cchk29Gr.s 			page 15
 
 
  197      27B5E19E 
@@ -863,7 +863,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  201 025a 5FF9D0F7 		.ascii	"_\371\320\367y"
  201      79
  202              		.text
- 203              		.section	.gnu.lto_pwmDisableChannel.309fc447539978a9,"",%progbits
+ 203              		.section	.gnu.lto_pwmDisableChannel.e01dc43e7e206e48,"",%progbits
  204 0000 789C8D52 		.ascii	"x\234\215RMh\023A\024~o6\233M,\322\036\215H\014\005"
  204      4D681341 
  204      147E6F36 
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  210      17
  211 007a 2EA29FFB 		.ascii	".\242\237\373\220\325[\355\366\203Z\363\345/|\302\006"
  211      90D55BED 
-ARM GAS  /tmp/ccXdXdaP.s 			page 16
+ARM GAS  /tmp/cchk29Gr.s 			page 16
 
 
  211      F6835AF3 
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  223      1476FE94 
  223      EABE4A9D 
  223      AAA821E0 
-ARM GAS  /tmp/ccXdXdaP.s 			page 17
+ARM GAS  /tmp/cchk29Gr.s 			page 17
 
 
  223      1A
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  236 0223 39CD8B33 		.ascii	"9\315\2133\227t\225[\256\351\346\015\316\251\"\021\344"
  236      9774955B 
  236      AEE9E60D 
-ARM GAS  /tmp/ccXdXdaP.s 			page 18
+ARM GAS  /tmp/cchk29Gr.s 			page 18
 
 
  236      CEA92211 
@@ -1037,7 +1037,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  239      F803BC12 
  239      FA40
  240              		.text
- 241              		.section	.gnu.lto_pwmEnablePeriodicNotification.309fc447539978a9,"",%progbits
+ 241              		.section	.gnu.lto_pwmEnablePeriodicNotification.e01dc43e7e206e48,"",%progbits
  242 0000 789C8592 		.ascii	"x\234\205\222\317k\023A\024\307\337\233u\333\200\210"
  242      CF6B1341 
  242      14C7DF9B 
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  250      9CE52C94 
  250      71DE86B6 
  250      D62B8E
-ARM GAS  /tmp/ccXdXdaP.s 			page 19
+ARM GAS  /tmp/cchk29Gr.s 			page 19
 
 
  251 0093 448A449C 		.ascii	"D\212D\234\231\246\335\\?\213\314x\353\015,\347\000"
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  262      9D61DAFC 
  262      D4B2334C 
  262      2364A366 
-ARM GAS  /tmp/ccXdXdaP.s 			page 20
+ARM GAS  /tmp/cchk29Gr.s 			page 20
 
 
  262      8CC0
@@ -1185,7 +1185,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  271      F007C067 
  271      D4E9
  272              		.text
- 273              		.section	.gnu.lto_pwmDisablePeriodicNotification.309fc447539978a9,"",%progbits
+ 273              		.section	.gnu.lto_pwmDisablePeriodicNotification.e01dc43e7e206e48,"",%progbits
  274 0000 789C8592 		.ascii	"x\234\205\222Mh\023A\024\307\337\233u\333\200\210=Z"
  274      4D681341 
  274      14C7DF9B 
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  276 0020 0A7A0AEB 		.ascii	"\012z\012\353\270$\013\231n\330Ik\213\207N\233\034\012"
  276      B8240B99 
  276      6ED8496B 
-ARM GAS  /tmp/ccXdXdaP.s 			page 21
+ARM GAS  /tmp/cchk29Gr.s 			page 21
 
 
  276      8B874E9B 
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  287      06237D8F 
  287      292432
  288 0107 564C2D0B 		.ascii	"VL-\013\317q]\337\276\340Sv\277\236\264\376\242W\357"
-ARM GAS  /tmp/ccXdXdaP.s 			page 22
+ARM GAS  /tmp/cchk29Gr.s 			page 22
 
 
  288      CF715DDF 
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  299      A7D5
  300 01d4 8A9A5769 		.ascii	"\212\232Wi\305\210\011\024m\324b<UF\012\305I\347\252"
  300      C5880914 
-ARM GAS  /tmp/ccXdXdaP.s 			page 23
+ARM GAS  /tmp/cchk29Gr.s 			page 23
 
 
  300      6DD4623C 
@@ -1331,7 +1331,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  302 01f7 C31F8DAD 		.ascii	"\303\037\215\255\325\011"
  302      D509
  303              		.text
- 304              		.section	.gnu.lto_pwmEnableChannelNotification.309fc447539978a9,"",%progbits
+ 304              		.section	.gnu.lto_pwmEnableChannelNotification.e01dc43e7e206e48,"",%progbits
  305 0000 789C8552 		.ascii	"x\234\205RAh\023A\024\375\1776\333FD\354\321\212\304"
  305      41681341 
  305      14FD7F36 
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  313      A4012660 
  314 00aa 43EB46FB 		.ascii	"C\353F\373\3273:\243\261\252?\350z\263\323\301\223\022"
  314      D7333AA3 
-ARM GAS  /tmp/ccXdXdaP.s 			page 24
+ARM GAS  /tmp/cchk29Gr.s 			page 24
 
 
  314      B1AA3FE8 
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  325      D985E5
  326 017a F6F6644F 		.ascii	"\366\366dO\226x\314\320\005\320;1\245\307\262Y\356\207"
  326      9678CCD0 
-ARM GAS  /tmp/ccXdXdaP.s 			page 25
+ARM GAS  /tmp/cchk29Gr.s 			page 25
 
 
  326      05D03B31 
@@ -1479,7 +1479,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  333      FAD4
  334 0204 E2       		.ascii	"\342"
  335              		.text
- 336              		.section	.gnu.lto_pwmDisableChannelNotification.309fc447539978a9,"",%progbits
+ 336              		.section	.gnu.lto_pwmDisableChannelNotification.e01dc43e7e206e48,"",%progbits
  337 0000 789C8552 		.ascii	"x\234\205RAh\023A\024\375\1776\333FD\354\321\212\304"
  337      41681341 
  337      14FD7F36 
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  340 003d 4188E041 		.ascii	"A\210\340A\017F\212g!\007\017*\004\361\242E\220\370"
  340      0F468A67 
  340      21070F2A 
-ARM GAS  /tmp/ccXdXdaP.s 			page 26
+ARM GAS  /tmp/cchk29Gr.s 			page 26
 
 
  340      04F1A245 
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  352      3BC8A78F 
  352      BFEAE25D 
  352      E6
-ARM GAS  /tmp/ccXdXdaP.s 			page 27
+ARM GAS  /tmp/cchk29Gr.s 			page 27
 
 
  353 0120 1FE05AEB 		.ascii	"\037\340Z\353\233\214;\000\\\205\337\341\365pL\242-"
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  364      61DAB9E4 
  364      6AAF1A
  365 01f2 C853CEB1 		.ascii	"\310S\316\261\323\300\002\030U\236\362\203E\370\013"
-ARM GAS  /tmp/ccXdXdaP.s 			page 28
+ARM GAS  /tmp/cchk29Gr.s 			page 28
 
 
  365      D3C00218 
@@ -1626,7 +1626,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  365      45F80B
  366 0201 7C34D5E7 		.ascii	"|4\325\347"
  367              		.text
- 368              		.section	.gnu.lto_.symbol_nodes.309fc447539978a9,"",%progbits
+ 368              		.section	.gnu.lto_.symbol_nodes.e01dc43e7e206e48,"",%progbits
  369 0000 789C4DC8 		.ascii	"x\234M\310I\012\302@\024\204\341W\335&Q\223\030\207"
  369      490AC240 
  369      1484E157 
@@ -1674,16 +1674,16 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  378 00a4 CEAFF201 		.ascii	"\316\257\362\001D+u|"
  378      442B757C 
  379              		.text
- 380              		.section	.gnu.lto_.refs.309fc447539978a9,"",%progbits
+ 380              		.section	.gnu.lto_.refs.e01dc43e7e206e48,"",%progbits
  381 0000 789C6362 		.ascii	"x\234cb`b`d\200\002\000\000F\000\006"
  381      60626064 
  381      80020000 
-ARM GAS  /tmp/ccXdXdaP.s 			page 29
+ARM GAS  /tmp/cchk29Gr.s 			page 29
 
 
  381      460006
  382              		.text
- 383              		.section	.gnu.lto_.decls.309fc447539978a9,"",%progbits
+ 383              		.section	.gnu.lto_.decls.e01dc43e7e206e48,"",%progbits
  384 0000 789CAD5A 		.ascii	"x\234\255Z\015p\024E\026\236\236\311\317\006\002\002"
  384      0D701445 
  384      169E9EC9 
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  395 00c6 1C7DCC25 		.ascii	"\034}\314%\003\244\036d\003\310z\220F\220\213 W@\322"
  395      03A41E64 
  395      03C87A90 
-ARM GAS  /tmp/ccXdXdaP.s 			page 30
+ARM GAS  /tmp/cchk29Gr.s 			page 30
 
 
  395      46908B20 
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  407      86C75887 
  407      3C1AA1FE 
  407      24C3632C 
-ARM GAS  /tmp/ccXdXdaP.s 			page 31
+ARM GAS  /tmp/cchk29Gr.s 			page 31
 
 
  407      87C7
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  419      073B7713 
  419      E66394
  420 027a 9C839D05 		.ascii	"\234\203\235\005\275}\014\351\000=@\273\217\260\006"
-ARM GAS  /tmp/ccXdXdaP.s 			page 32
+ARM GAS  /tmp/cchk29Gr.s 			page 32
 
 
  420      BD7D0CE9 
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  431      24DAD8
  432 0350 8A723819 		.ascii	"\212r8\031c\326\225\321np\244M5\254\270\207I\252\350"
  432      63D695D1 
-ARM GAS  /tmp/ccXdXdaP.s 			page 33
+ARM GAS  /tmp/cchk29Gr.s 			page 33
 
 
  432      6E70A44D 
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  443      176F
  444 0427 4139323A 		.ascii	"A92:E&\202\250\310\235\011\2541\2607\255\354\013\333"
  444      452682A8 
-ARM GAS  /tmp/ccXdXdaP.s 			page 34
+ARM GAS  /tmp/cchk29Gr.s 			page 34
 
 
  444      C89D09AC 
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  455      32AF3DE3 
  455      D2B4
  456 0504 E8923300 		.ascii	"\350\2223\000f\377\315\336\252\316#\027I7VH?\313\233"
-ARM GAS  /tmp/ccXdXdaP.s 			page 35
+ARM GAS  /tmp/cchk29Gr.s 			page 35
 
 
  456      66FFCDDE 
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  467      C16ED801 
  467      B31A
  468 05e0 B000EC35 		.ascii	"\260\000\3545\032lZ\232S03\263\3454\330\313v\300\254"
-ARM GAS  /tmp/ccXdXdaP.s 			page 36
+ARM GAS  /tmp/cchk29Gr.s 			page 36
 
 
  468      1A6C5A9A 
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  479      D6A55EE4 
  479      6F5D
  480 06b4 E8C588A1 		.ascii	"\350\305\210\241\005n\037b\3356\221\320n\237\344\304"
-ARM GAS  /tmp/ccXdXdaP.s 			page 37
+ARM GAS  /tmp/cchk29Gr.s 			page 37
 
 
  480      056E1F62 
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  491      E3FEE1AA 
  491      2119
  492 0797 7D855237 		.ascii	"}\205R7kL\021\"\334\312\024\242w\270!z\367\200\026\""
-ARM GAS  /tmp/ccXdXdaP.s 			page 38
+ARM GAS  /tmp/cchk29Gr.s 			page 38
 
 
  492      6B4C1122 
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  504      DBAEE1E4 
  504      2CCB2AC6 
  504      65D57C84 
-ARM GAS  /tmp/ccXdXdaP.s 			page 39
+ARM GAS  /tmp/cchk29Gr.s 			page 39
 
 
  504      617592
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  516      8CC0FC5A 
  516      B93AC5AF 
  516      9515
-ARM GAS  /tmp/ccXdXdaP.s 			page 40
+ARM GAS  /tmp/cchk29Gr.s 			page 40
 
 
  517 0947 92E917C9 		.ascii	"\222\351\027\311\304\376\254\2723u\316\334=\30513\376"
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  528      4BCCAA68 
  528      1F19D74D 
  528      ABA0
-ARM GAS  /tmp/ccXdXdaP.s 			page 41
+ARM GAS  /tmp/cchk29Gr.s 			page 41
 
 
  529 0a16 8326AADA 		.ascii	"\203&\252\332\277xNfi\011\255O\330\260\301C\372o\014"
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  540      58A77318 
  540      9FADCEBC 
  540      19
-ARM GAS  /tmp/ccXdXdaP.s 			page 42
+ARM GAS  /tmp/cchk29Gr.s 			page 42
 
 
  541 0af7 9F93CFBC 		.ascii	"\237\223\317\274\2679v\272\301\302i\372_`\206V\302i"
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  552      40E6905B 
  552      78CDAAC9 
  552      E8
-ARM GAS  /tmp/ccXdXdaP.s 			page 43
+ARM GAS  /tmp/cchk29Gr.s 			page 43
 
 
  553 0bcb 8863AF8F 		.ascii	"\210c\257\217Zx\335\303\344\365Q\326k\352\\\202e!\012"
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  564 0c8d 8DFC8EA7 		.ascii	"\215\374\216\2476Q\366\025\005B\376\\o\241\177\274\\"
  564      3651F615 
  564      0542FE5C 
-ARM GAS  /tmp/ccXdXdaP.s 			page 44
+ARM GAS  /tmp/cchk29Gr.s 			page 44
 
 
  564      6FA17FBC 
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  576 0d65 868EF648 		.ascii	"\206\216\366HCq\313\374!\036\361\011\265\325@\320\177"
  576      4371CBFC 
  576      211EF109 
-ARM GAS  /tmp/ccXdXdaP.s 			page 45
+ARM GAS  /tmp/cchk29Gr.s 			page 45
 
 
  576      B5D540D0 
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  588      4DE737AA 
  588      8EAF185E 
  588      8F9096B0 
-ARM GAS  /tmp/ccXdXdaP.s 			page 46
+ARM GAS  /tmp/cchk29Gr.s 			page 46
 
 
  588      433CF9
@@ -2739,7 +2739,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  596 0ec9 36F8FF75 		.ascii	"6\370\377u\343Wm"
  596      E3576D
  597              		.text
- 598              		.section	.gnu.lto_.symtab.309fc447539978a9,"",%progbits
+ 598              		.section	.gnu.lto_.symtab.e01dc43e7e206e48,"",%progbits
  599 0000 70776D49 		.ascii	"pwmInit\000\000\000\000\000\000\000\000\000\000\000"
  599      6E697400 
  599      00000000 
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  602 003b 74000000 		.ascii	"t\000\000\000\000\000\000\000\000\000\000\000\0007\001"
  602      00000000 
  602      00000000 
-ARM GAS  /tmp/ccXdXdaP.s 			page 47
+ARM GAS  /tmp/cchk29Gr.s 			page 47
 
 
  602      003701
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  614 0149 0070776D 		.ascii	"\000pwmDisableChannelNotification\000\000\000\000\000"
  614      44697361 
  614      626C6543 
-ARM GAS  /tmp/ccXdXdaP.s 			page 48
+ARM GAS  /tmp/cchk29Gr.s 			page 48
 
 
  614      68616E6E 
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  626      00000000 
  626      7D010000 
  626      70776D5F 
-ARM GAS  /tmp/ccXdXdaP.s 			page 49
+ARM GAS  /tmp/cchk29Gr.s 			page 49
 
 
  626      6C6C
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  650              		.cfi_startproc
  651              		@ args = 0, pretend = 0, frame = 0
  652              		@ frame_needed = 0, uses_anonymous_args = 0
-ARM GAS  /tmp/ccXdXdaP.s 			page 50
+ARM GAS  /tmp/cchk29Gr.s 			page 50
 
 
  653              		@ link register save eliminated.
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  705              		.cfi_def_cfa_offset 8
  706              		.cfi_offset 4, -8
  707              		.cfi_offset 14, -4
-ARM GAS  /tmp/ccXdXdaP.s 			page 51
+ARM GAS  /tmp/cchk29Gr.s 			page 51
 
 
  708              	.LBB141:
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  762              		.loc 2 264 0
  763              	@ 264 "../os/common/ext/CMSIS/include/cmsis_gcc.h" 1
  764 001c 83F31188 		MSR basepri, r3
-ARM GAS  /tmp/ccXdXdaP.s 			page 52
+ARM GAS  /tmp/cchk29Gr.s 			page 52
 
 
  765              	@ 0 "" 2
@@ -3118,7 +3118,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  816 0006 83F31188 		MSR basepri, r3
  817              	@ 0 "" 2
  818              		.thumb
-ARM GAS  /tmp/ccXdXdaP.s 			page 53
+ARM GAS  /tmp/cchk29Gr.s 			page 53
 
 
  819              	.LBE162:
@@ -3178,7 +3178,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  873 0000 10B4     		push	{r4}
  874              		.cfi_def_cfa_offset 4
  875              		.cfi_offset 4, -4
-ARM GAS  /tmp/ccXdXdaP.s 			page 54
+ARM GAS  /tmp/cchk29Gr.s 			page 54
 
 
  876              	.LBB173:
@@ -3238,7 +3238,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  930              		.loc 1 151 0
  931 0016 5DF8044B 		ldr	r4, [sp], #4
  932 001a 7047     		bx	lr
-ARM GAS  /tmp/ccXdXdaP.s 			page 55
+ARM GAS  /tmp/cchk29Gr.s 			page 55
 
 
  933              		.cfi_endproc
@@ -3298,7 +3298,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  987 0018 83F31188 		MSR basepri, r3
  988              	@ 0 "" 2
  989              		.thumb
-ARM GAS  /tmp/ccXdXdaP.s 			page 56
+ARM GAS  /tmp/cchk29Gr.s 			page 56
 
 
  990 001c 10BD     		pop	{r4, pc}
@@ -3358,7 +3358,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  1044              	.LBB208:
  1045              	.LBB209:
  1046              	.LBB210:
-ARM GAS  /tmp/ccXdXdaP.s 			page 57
+ARM GAS  /tmp/cchk29Gr.s 			page 57
 
 
  1047              	.LBB211:
@@ -3418,7 +3418,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  1101              	.LBB217:
  1102              	.LBB218:
  1103              	.LBB219:
-ARM GAS  /tmp/ccXdXdaP.s 			page 58
+ARM GAS  /tmp/cchk29Gr.s 			page 58
 
 
  1104              	.LBB220:
@@ -3478,7 +3478,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  1156              	.LBE223:
  1157              		.loc 1 250 0
  1158 0008 FFF7FEFF 		bl	pwm_lld_disable_periodic_notification
-ARM GAS  /tmp/ccXdXdaP.s 			page 59
+ARM GAS  /tmp/cchk29Gr.s 			page 59
 
 
  1159              	.LVL17:
@@ -3538,7 +3538,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  1211              	.LBE238:
  1212              	.LBE237:
  1213              	.LBE236:
-ARM GAS  /tmp/ccXdXdaP.s 			page 60
+ARM GAS  /tmp/cchk29Gr.s 			page 60
 
 
  1214              	.LBE235:
@@ -3598,7 +3598,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  1266              	@ 264 "../os/common/ext/CMSIS/include/cmsis_gcc.h" 1
  1267 0004 83F31188 		MSR basepri, r3
  1268              	@ 0 "" 2
-ARM GAS  /tmp/ccXdXdaP.s 			page 61
+ARM GAS  /tmp/cchk29Gr.s 			page 61
 
 
  1269              		.thumb
@@ -3658,7 +3658,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  1321 0006 00000000 		.4byte	.Ldebug_abbrev0
  1322 000a 04       		.byte	0x4
  1323 000b 01       		.uleb128 0x1
-ARM GAS  /tmp/ccXdXdaP.s 			page 62
+ARM GAS  /tmp/cchk29Gr.s 			page 62
 
 
  1324 000c 0D070000 		.4byte	.LASF158
@@ -3718,7 +3718,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  1378 007e 82000000 		.4byte	0x82
  1379 0082 03       		.uleb128 0x3
  1380 0083 04       		.byte	0x4
-ARM GAS  /tmp/ccXdXdaP.s 			page 63
+ARM GAS  /tmp/cchk29Gr.s 			page 63
 
 
  1381 0084 07       		.byte	0x7
@@ -3778,7 +3778,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  1435 00f6 A2000000 		.4byte	0xa2
  1436 00fa 04       		.uleb128 0x4
  1437 00fb 04050000 		.4byte	.LASF22
-ARM GAS  /tmp/ccXdXdaP.s 			page 64
+ARM GAS  /tmp/cchk29Gr.s 			page 64
 
 
  1438 00ff 05       		.byte	0x5
@@ -3838,7 +3838,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  1492 0171 07       		.byte	0x7
  1493 0172 9F       		.byte	0x9f
  1494 0173 25020000 		.4byte	0x225
-ARM GAS  /tmp/ccXdXdaP.s 			page 65
+ARM GAS  /tmp/cchk29Gr.s 			page 65
 
 
  1495 0177 10       		.byte	0x10
@@ -3898,7 +3898,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  1549 01e4 2C       		.byte	0x2c
  1550 01e5 09       		.uleb128 0x9
  1551 01e6 9C030000 		.4byte	.LASF39
-ARM GAS  /tmp/ccXdXdaP.s 			page 66
+ARM GAS  /tmp/cchk29Gr.s 			page 66
 
 
  1552 01ea 07       		.byte	0x7
@@ -3958,7 +3958,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  1606 025a 05       		.uleb128 0x5
  1607 025b 7A000000 		.4byte	.LASF49
  1608 025f 08       		.byte	0x8
-ARM GAS  /tmp/ccXdXdaP.s 			page 67
+ARM GAS  /tmp/cchk29Gr.s 			page 67
 
 
  1609 0260 07       		.byte	0x7
@@ -4018,7 +4018,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  1663 02d1 7201     		.2byte	0x172
  1664 02d3 25020000 		.4byte	0x225
  1665 02d7 14       		.byte	0x14
-ARM GAS  /tmp/ccXdXdaP.s 			page 68
+ARM GAS  /tmp/cchk29Gr.s 			page 68
 
 
  1666 02d8 09       		.uleb128 0x9
@@ -4078,7 +4078,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  1720 0349 4901     		.2byte	0x149
  1721 034b E6020000 		.4byte	0x2e6
  1722 034f 0C       		.byte	0xc
-ARM GAS  /tmp/ccXdXdaP.s 			page 69
+ARM GAS  /tmp/cchk29Gr.s 			page 69
 
 
  1723 0350 08       		.uleb128 0x8
@@ -4138,7 +4138,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  1777 03c3 09       		.uleb128 0x9
  1778 03c4 86060000 		.4byte	.LASF64
  1779 03c8 07       		.byte	0x7
-ARM GAS  /tmp/ccXdXdaP.s 			page 70
+ARM GAS  /tmp/cchk29Gr.s 			page 70
 
 
  1780 03c9 8401     		.2byte	0x184
@@ -4198,7 +4198,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  1834 043b C3000000 		.4byte	0xc3
  1835 043f 4A040000 		.4byte	0x44a
  1836 0443 11       		.uleb128 0x11
-ARM GAS  /tmp/ccXdXdaP.s 			page 71
+ARM GAS  /tmp/cchk29Gr.s 			page 71
 
 
  1837 0444 1E040000 		.4byte	0x41e
@@ -4258,7 +4258,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  1891 04b0 4A040000 		.4byte	0x44a
  1892 04b4 0C       		.byte	0xc
  1893 04b5 08       		.uleb128 0x8
-ARM GAS  /tmp/ccXdXdaP.s 			page 72
+ARM GAS  /tmp/cchk29Gr.s 			page 72
 
 
  1894 04b6 723800   		.ascii	"r8\000"
@@ -4318,7 +4318,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  1948 0525 25040000 		.4byte	0x425
  1949 0529 08       		.byte	0x8
  1950 052a 09       		.uleb128 0x9
-ARM GAS  /tmp/ccXdXdaP.s 			page 73
+ARM GAS  /tmp/cchk29Gr.s 			page 73
 
 
  1951 052b D1070000 		.4byte	.LASF76
@@ -4378,7 +4378,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2005 059f 52435200 		.ascii	"RCR\000"
  2006 05a3 0A       		.byte	0xa
  2007 05a4 AE01     		.2byte	0x1ae
-ARM GAS  /tmp/ccXdXdaP.s 			page 74
+ARM GAS  /tmp/cchk29Gr.s 			page 74
 
 
  2008 05a6 25040000 		.4byte	0x425
@@ -4438,7 +4438,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2062 061c 14       		.uleb128 0x14
  2063 061d 04       		.byte	0x4
  2064 061e 07       		.byte	0x7
-ARM GAS  /tmp/ccXdXdaP.s 			page 75
+ARM GAS  /tmp/cchk29Gr.s 			page 75
 
 
  2065 061f D2       		.byte	0xd2
@@ -4498,7 +4498,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2119 0696 0B       		.byte	0xb
  2120 0697 35       		.byte	0x35
  2121 0698 4F020000 		.4byte	0x24f
-ARM GAS  /tmp/ccXdXdaP.s 			page 76
+ARM GAS  /tmp/cchk29Gr.s 			page 76
 
 
  2122 069c 00       		.byte	0
@@ -4558,7 +4558,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2176 0705 0F       		.uleb128 0xf
  2177 0706 E7060000 		.4byte	0x6e7
  2178 070a 04       		.uleb128 0x4
-ARM GAS  /tmp/ccXdXdaP.s 			page 77
+ARM GAS  /tmp/cchk29Gr.s 			page 77
 
 
  2179 070b BE020000 		.4byte	.LASF97
@@ -4618,7 +4618,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2233 077a 09       		.uleb128 0x9
  2234 077b A4000000 		.4byte	.LASF105
  2235 077f 0E       		.byte	0xe
-ARM GAS  /tmp/ccXdXdaP.s 			page 78
+ARM GAS  /tmp/cchk29Gr.s 			page 78
 
 
  2236 0780 BF01     		.2byte	0x1bf
@@ -4678,7 +4678,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2290 07f6 13       		.uleb128 0x13
  2291 07f7 74050000 		.4byte	.LASF112
  2292 07fb 0E       		.byte	0xe
-ARM GAS  /tmp/ccXdXdaP.s 			page 79
+ARM GAS  /tmp/cchk29Gr.s 			page 79
 
 
  2293 07fc 6901     		.2byte	0x169
@@ -4738,7 +4738,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2347 086f C5010000 		.4byte	.LASF107
  2348 0873 0E       		.byte	0xe
  2349 0874 9A01     		.2byte	0x19a
-ARM GAS  /tmp/ccXdXdaP.s 			page 80
+ARM GAS  /tmp/cchk29Gr.s 			page 80
 
 
  2350 0876 96080000 		.4byte	0x896
@@ -4798,7 +4798,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2404 08eb 09       		.byte	0x9
  2405 08ec 6A02     		.2byte	0x26a
  2406 08ee 03       		.byte	0x3
-ARM GAS  /tmp/ccXdXdaP.s 			page 81
+ARM GAS  /tmp/cchk29Gr.s 			page 81
 
 
  2407 08ef 1C       		.uleb128 0x1c
@@ -4858,7 +4858,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2461 0968 01       		.uleb128 0x1
  2462 0969 9C       		.byte	0x9c
  2463 096a 7C090000 		.4byte	0x97c
-ARM GAS  /tmp/ccXdXdaP.s 			page 82
+ARM GAS  /tmp/cchk29Gr.s 			page 82
 
 
  2464 096e 20       		.uleb128 0x20
@@ -4918,7 +4918,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2518 09f4 00000000 		.4byte	.Ldebug_ranges0+0
  2519 09f8 09       		.byte	0x9
  2520 09f9 5A02     		.2byte	0x25a
-ARM GAS  /tmp/ccXdXdaP.s 			page 83
+ARM GAS  /tmp/cchk29Gr.s 			page 83
 
 
  2521 09fb 25       		.uleb128 0x25
@@ -4978,7 +4978,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2575 0a70 00       		.byte	0
  2576 0a71 00       		.byte	0
  2577 0a72 10       		.uleb128 0x10
-ARM GAS  /tmp/ccXdXdaP.s 			page 84
+ARM GAS  /tmp/cchk29Gr.s 			page 84
 
 
  2578 0a73 F2060000 		.4byte	0x6f2
@@ -5038,7 +5038,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2632 0afd 00       		.byte	0
  2633 0afe 00       		.byte	0
  2634 0aff 00       		.byte	0
-ARM GAS  /tmp/ccXdXdaP.s 			page 85
+ARM GAS  /tmp/cchk29Gr.s 			page 85
 
 
  2635 0b00 00       		.byte	0
@@ -5098,7 +5098,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2689 0b78 1E040000 		.4byte	0x41e
  2690 0b7c 07       		.byte	0x7
  2691 0b7d 00       		.byte	0
-ARM GAS  /tmp/ccXdXdaP.s 			page 86
+ARM GAS  /tmp/cchk29Gr.s 			page 86
 
 
  2692 0b7e 17       		.uleb128 0x17
@@ -5158,7 +5158,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2746 0bff D0080000 		.4byte	0x8d0
  2747 0c03 20       		.byte	0x20
  2748 0c04 00       		.byte	0
-ARM GAS  /tmp/ccXdXdaP.s 			page 87
+ARM GAS  /tmp/cchk29Gr.s 			page 87
 
 
  2749 0c05 00       		.byte	0
@@ -5218,7 +5218,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2803 0c7d 1E000000 		.4byte	.LFE224-.LFB224
  2804 0c81 01       		.uleb128 0x1
  2805 0c82 9C       		.byte	0x9c
-ARM GAS  /tmp/ccXdXdaP.s 			page 88
+ARM GAS  /tmp/cchk29Gr.s 			page 88
 
 
  2806 0c83 7F0D0000 		.4byte	0xd7f
@@ -5278,7 +5278,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2860 0d0a 26       		.uleb128 0x26
  2861 0d0b 31090000 		.4byte	0x931
  2862 0d0f 16000000 		.4byte	.LBB195
-ARM GAS  /tmp/ccXdXdaP.s 			page 89
+ARM GAS  /tmp/cchk29Gr.s 			page 89
 
 
  2863 0d13 08000000 		.4byte	.LBE195-.LBB195
@@ -5338,7 +5338,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2917 0d7f 10       		.uleb128 0x10
  2918 0d80 F2060000 		.4byte	0x6f2
  2919 0d84 8F0D0000 		.4byte	0xd8f
-ARM GAS  /tmp/ccXdXdaP.s 			page 90
+ARM GAS  /tmp/cchk29Gr.s 			page 90
 
 
  2920 0d88 11       		.uleb128 0x11
@@ -5398,7 +5398,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  2974 0e11 5A02     		.2byte	0x25a
  2975 0e13 25       		.uleb128 0x25
  2976 0e14 D0080000 		.4byte	0x8d0
-ARM GAS  /tmp/ccXdXdaP.s 			page 91
+ARM GAS  /tmp/cchk29Gr.s 			page 91
 
 
  2977 0e18 20       		.byte	0x20
@@ -5458,7 +5458,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  3031 0e8a 00       		.byte	0
  3032 0e8b 10       		.uleb128 0x10
  3033 0e8c F2060000 		.4byte	0x6f2
-ARM GAS  /tmp/ccXdXdaP.s 			page 92
+ARM GAS  /tmp/cchk29Gr.s 			page 92
 
 
  3034 0e90 9B0E0000 		.4byte	0xe9b
@@ -5518,7 +5518,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  3088 0f17 00       		.byte	0
  3089 0f18 00       		.byte	0
  3090 0f19 00       		.byte	0
-ARM GAS  /tmp/ccXdXdaP.s 			page 93
+ARM GAS  /tmp/cchk29Gr.s 			page 93
 
 
  3091 0f1a 26       		.uleb128 0x26
@@ -5578,7 +5578,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  3145 0f92 1E040000 		.4byte	0x41e
  3146 0f96 1D       		.byte	0x1d
  3147 0f97 00       		.byte	0
-ARM GAS  /tmp/ccXdXdaP.s 			page 94
+ARM GAS  /tmp/cchk29Gr.s 			page 94
 
 
  3148 0f98 17       		.uleb128 0x17
@@ -5638,7 +5638,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  3202 101c 0C000000 		.4byte	.LBB228
  3203 1020 08000000 		.4byte	.LBE228-.LBB228
  3204 1024 01       		.byte	0x1
-ARM GAS  /tmp/ccXdXdaP.s 			page 95
+ARM GAS  /tmp/cchk29Gr.s 			page 95
 
 
  3205 1025 FC       		.byte	0xfc
@@ -5698,7 +5698,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  3259 109a 2E       		.uleb128 0x2e
  3260 109b 2A030000 		.4byte	.LASF146
  3261 109f 01       		.byte	0x1
-ARM GAS  /tmp/ccXdXdaP.s 			page 96
+ARM GAS  /tmp/cchk29Gr.s 			page 96
 
 
  3262 10a0 0A01     		.2byte	0x10a
@@ -5758,7 +5758,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  3316 1128 31090000 		.4byte	0x931
  3317 112c 0C000000 		.4byte	.LBB239
  3318 1130 08000000 		.4byte	.LBE239-.LBB239
-ARM GAS  /tmp/ccXdXdaP.s 			page 97
+ARM GAS  /tmp/cchk29Gr.s 			page 97
 
 
  3319 1134 01       		.byte	0x1
@@ -5818,7 +5818,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  3373 11a7 96110000 		.4byte	0x1196
  3374 11ab 2E       		.uleb128 0x2e
  3375 11ac E5060000 		.4byte	.LASF148
-ARM GAS  /tmp/ccXdXdaP.s 			page 98
+ARM GAS  /tmp/cchk29Gr.s 			page 98
 
 
  3376 11b0 01       		.byte	0x1
@@ -5878,7 +5878,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  3430 1238 30       		.uleb128 0x30
  3431 1239 31090000 		.4byte	0x931
  3432 123d 0C000000 		.4byte	.LBB250
-ARM GAS  /tmp/ccXdXdaP.s 			page 99
+ARM GAS  /tmp/cchk29Gr.s 			page 99
 
 
  3433 1241 08000000 		.4byte	.LBE250-.LBB250
@@ -5938,7 +5938,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  3487 12b8 0F       		.uleb128 0xf
  3488 12b9 B8000000 		.4byte	0xb8
  3489 12bd 32       		.uleb128 0x32
-ARM GAS  /tmp/ccXdXdaP.s 			page 100
+ARM GAS  /tmp/cchk29Gr.s 			page 100
 
 
  3490 12be 636800   		.ascii	"ch\000"
@@ -5998,7 +5998,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  3544 1339 34       		.uleb128 0x34
  3545 133a B7040000 		.4byte	.LASF156
  3546 133e 0E       		.byte	0xe
-ARM GAS  /tmp/ccXdXdaP.s 			page 101
+ARM GAS  /tmp/cchk29Gr.s 			page 101
 
 
  3547 133f 1802     		.2byte	0x218
@@ -6058,7 +6058,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  3601 001b 08       		.uleb128 0x8
  3602 001c 00       		.byte	0
  3603 001d 00       		.byte	0
-ARM GAS  /tmp/ccXdXdaP.s 			page 102
+ARM GAS  /tmp/cchk29Gr.s 			page 102
 
 
  3604 001e 03       		.uleb128 0x3
@@ -6118,7 +6118,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  3658 0054 07       		.uleb128 0x7
  3659 0055 0D       		.uleb128 0xd
  3660 0056 00       		.byte	0
-ARM GAS  /tmp/ccXdXdaP.s 			page 103
+ARM GAS  /tmp/cchk29Gr.s 			page 103
 
 
  3661 0057 03       		.uleb128 0x3
@@ -6178,7 +6178,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  3715 008d 03       		.uleb128 0x3
  3716 008e 0E       		.uleb128 0xe
  3717 008f 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccXdXdaP.s 			page 104
+ARM GAS  /tmp/cchk29Gr.s 			page 104
 
 
  3718 0090 0B       		.uleb128 0xb
@@ -6238,7 +6238,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  3772 00c6 0B       		.uleb128 0xb
  3773 00c7 00       		.byte	0
  3774 00c8 00       		.byte	0
-ARM GAS  /tmp/ccXdXdaP.s 			page 105
+ARM GAS  /tmp/cchk29Gr.s 			page 105
 
 
  3775 00c9 12       		.uleb128 0x12
@@ -6298,7 +6298,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  3829 00ff 00       		.byte	0
  3830 0100 03       		.uleb128 0x3
  3831 0101 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccXdXdaP.s 			page 106
+ARM GAS  /tmp/cchk29Gr.s 			page 106
 
 
  3832 0102 3A       		.uleb128 0x3a
@@ -6358,7 +6358,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  3886 0138 1B       		.uleb128 0x1b
  3887 0139 05       		.uleb128 0x5
  3888 013a 00       		.byte	0
-ARM GAS  /tmp/ccXdXdaP.s 			page 107
+ARM GAS  /tmp/cchk29Gr.s 			page 107
 
 
  3889 013b 03       		.uleb128 0x3
@@ -6418,7 +6418,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  3943 0171 06       		.uleb128 0x6
  3944 0172 40       		.uleb128 0x40
  3945 0173 18       		.uleb128 0x18
-ARM GAS  /tmp/ccXdXdaP.s 			page 108
+ARM GAS  /tmp/cchk29Gr.s 			page 108
 
 
  3946 0174 9742     		.uleb128 0x2117
@@ -6478,7 +6478,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4000 01ae 34       		.uleb128 0x34
  4001 01af 19       		.uleb128 0x19
  4002 01b0 00       		.byte	0
-ARM GAS  /tmp/ccXdXdaP.s 			page 109
+ARM GAS  /tmp/cchk29Gr.s 			page 109
 
 
  4003 01b1 00       		.byte	0
@@ -6538,7 +6538,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4057 01e7 0B       		.uleb128 0xb
  4058 01e8 01       		.uleb128 0x1
  4059 01e9 13       		.uleb128 0x13
-ARM GAS  /tmp/ccXdXdaP.s 			page 110
+ARM GAS  /tmp/cchk29Gr.s 			page 110
 
 
  4060 01ea 00       		.byte	0
@@ -6598,7 +6598,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4114 0225 31       		.uleb128 0x31
  4115 0226 13       		.uleb128 0x13
  4116 0227 52       		.uleb128 0x52
-ARM GAS  /tmp/ccXdXdaP.s 			page 111
+ARM GAS  /tmp/cchk29Gr.s 			page 111
 
 
  4117 0228 01       		.uleb128 0x1
@@ -6658,7 +6658,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4171 025f 00       		.byte	0
  4172 0260 00       		.byte	0
  4173 0261 30       		.uleb128 0x30
-ARM GAS  /tmp/ccXdXdaP.s 			page 112
+ARM GAS  /tmp/cchk29Gr.s 			page 112
 
 
  4174 0262 1D       		.uleb128 0x1d
@@ -6718,7 +6718,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4228 0298 19       		.uleb128 0x19
  4229 0299 03       		.uleb128 0x3
  4230 029a 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccXdXdaP.s 			page 113
+ARM GAS  /tmp/cchk29Gr.s 			page 113
 
 
  4231 029b 3A       		.uleb128 0x3a
@@ -6778,7 +6778,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4285 000b 13000000 		.4byte	.LVL3-1
  4286 000f 22000000 		.4byte	.LFE221
  4287 0013 0100     		.2byte	0x1
-ARM GAS  /tmp/ccXdXdaP.s 			page 114
+ARM GAS  /tmp/cchk29Gr.s 			page 114
 
 
  4288 0015 54       		.byte	0x54
@@ -6838,7 +6838,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4342 0097 00000000 		.4byte	0
  4343 009b 00000000 		.4byte	0
  4344              	.LLST5:
-ARM GAS  /tmp/ccXdXdaP.s 			page 115
+ARM GAS  /tmp/cchk29Gr.s 			page 115
 
 
  4345 009f 00000000 		.4byte	.LVL10
@@ -6898,7 +6898,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4399 011f 00000000 		.4byte	0
  4400              	.LLST9:
  4401 0123 00000000 		.4byte	.LVL16
-ARM GAS  /tmp/ccXdXdaP.s 			page 116
+ARM GAS  /tmp/cchk29Gr.s 			page 116
 
 
  4402 0127 0B000000 		.4byte	.LVL17-1
@@ -6958,7 +6958,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4456              	.LLST13:
  4457 01a7 00000000 		.4byte	.LVL20
  4458 01ab 0B000000 		.4byte	.LVL21-1
-ARM GAS  /tmp/ccXdXdaP.s 			page 117
+ARM GAS  /tmp/cchk29Gr.s 			page 117
 
 
  4459 01af 0100     		.2byte	0x1
@@ -7018,7 +7018,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4513 0024 0A000000 		.4byte	.LBE166
  4514 0028 00000000 		.4byte	0
  4515 002c 00000000 		.4byte	0
-ARM GAS  /tmp/ccXdXdaP.s 			page 118
+ARM GAS  /tmp/cchk29Gr.s 			page 118
 
 
  4516 0030 0E000000 		.4byte	.LBB178
@@ -7078,7 +7078,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4556      7000
  4557              	.LASF47:
  4558 002e 6E657874 		.ascii	"next\000"
-ARM GAS  /tmp/ccXdXdaP.s 			page 119
+ARM GAS  /tmp/cchk29Gr.s 			page 119
 
 
  4558      00
@@ -7138,7 +7138,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4584 00c2 65786974 		.ascii	"exitcode\000"
  4584      636F6465 
  4584      00
-ARM GAS  /tmp/ccXdXdaP.s 			page 120
+ARM GAS  /tmp/cchk29Gr.s 			page 120
 
 
  4585              	.LASF69:
@@ -7198,7 +7198,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4612      68616E67 
  4612      65506572 
  4612      696F6400 
-ARM GAS  /tmp/ccXdXdaP.s 			page 121
+ARM GAS  /tmp/cchk29Gr.s 			page 121
 
 
  4613              	.LASF147:
@@ -7258,7 +7258,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4638 0212 70776D49 		.ascii	"pwmInit\000"
  4638      6E697400 
  4639              	.LASF79:
-ARM GAS  /tmp/ccXdXdaP.s 			page 122
+ARM GAS  /tmp/cchk29Gr.s 			page 122
 
 
  4640 021a 43434552 		.ascii	"CCER\000"
@@ -7318,7 +7318,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4664      6F636B00 
  4665              	.LASF97:
  4666 02be 6D757465 		.ascii	"mutex_t\000"
-ARM GAS  /tmp/ccXdXdaP.s 			page 123
+ARM GAS  /tmp/cchk29Gr.s 			page 123
 
 
  4666      785F7400 
@@ -7378,7 +7378,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4693              	.LASF75:
  4694 0381 534D4352 		.ascii	"SMCR\000"
  4694      00
-ARM GAS  /tmp/ccXdXdaP.s 			page 124
+ARM GAS  /tmp/cchk29Gr.s 			page 124
 
 
  4695              	.LASF23:
@@ -7438,7 +7438,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4720      5F7400
  4721              	.LASF30:
  4722 042d 6E657765 		.ascii	"newer\000"
-ARM GAS  /tmp/ccXdXdaP.s 			page 125
+ARM GAS  /tmp/cchk29Gr.s 			page 125
 
 
  4722      7200
@@ -7498,7 +7498,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4746      70657269 
  4747              	.LASF21:
  4748 04dd 74726566 		.ascii	"trefs_t\000"
-ARM GAS  /tmp/ccXdXdaP.s 			page 126
+ARM GAS  /tmp/cchk29Gr.s 			page 126
 
 
  4748      735F7400 
@@ -7558,7 +7558,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4776 056a 63685F73 		.ascii	"ch_system\000"
  4776      79737465 
  4776      6D00
-ARM GAS  /tmp/ccXdXdaP.s 			page 127
+ARM GAS  /tmp/cchk29Gr.s 			page 127
 
 
  4777              	.LASF112:
@@ -7618,7 +7618,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4804 05fc 6F6C6465 		.ascii	"older\000"
  4804      7200
  4805              	.LASF100:
-ARM GAS  /tmp/ccXdXdaP.s 			page 128
+ARM GAS  /tmp/cchk29Gr.s 			page 128
 
 
  4806 0602 50574D5F 		.ascii	"PWM_STOP\000"
@@ -7678,7 +7678,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4832      7420756E 
  4832      7369676E 
  4832      65642069 
-ARM GAS  /tmp/ccXdXdaP.s 			page 129
+ARM GAS  /tmp/cchk29Gr.s 			page 129
 
 
  4832      6E7400
@@ -7738,7 +7738,7 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4853      6F00
  4854              	.LASF35:
  4855 07b0 666C6167 		.ascii	"flags\000"
-ARM GAS  /tmp/ccXdXdaP.s 			page 130
+ARM GAS  /tmp/cchk29Gr.s 			page 130
 
 
  4855      7300
@@ -7792,33 +7792,33 @@ ARM GAS  /tmp/ccXdXdaP.s 			page 1
  4881      00
  4882              		.comm	__gnu_lto_v1,1,1
  4883              		.ident	"GCC: (4.8.2-14ubuntu1+6) 4.8.2"
-ARM GAS  /tmp/ccXdXdaP.s 			page 131
+ARM GAS  /tmp/cchk29Gr.s 			page 131
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 hal_pwm.c
-     /tmp/ccXdXdaP.s:640    .text.pwmInit:0000000000000000 $t
-     /tmp/ccXdXdaP.s:646    .text.pwmInit:0000000000000000 pwmInit
-     /tmp/ccXdXdaP.s:661    .text.pwmObjectInit:0000000000000000 $t
-     /tmp/ccXdXdaP.s:667    .text.pwmObjectInit:0000000000000000 pwmObjectInit
-     /tmp/ccXdXdaP.s:691    .text.pwmStart:0000000000000000 $t
-     /tmp/ccXdXdaP.s:697    .text.pwmStart:0000000000000000 pwmStart
-     /tmp/ccXdXdaP.s:778    .text.pwmStop:0000000000000000 $t
-     /tmp/ccXdXdaP.s:784    .text.pwmStop:0000000000000000 pwmStop
-     /tmp/ccXdXdaP.s:859    .text.pwmChangePeriod:0000000000000000 $t
-     /tmp/ccXdXdaP.s:865    .text.pwmChangePeriod:0000000000000000 pwmChangePeriod
-     /tmp/ccXdXdaP.s:937    .text.pwmEnableChannel:0000000000000000 $t
-     /tmp/ccXdXdaP.s:943    .text.pwmEnableChannel:0000000000000000 pwmEnableChannel
-     /tmp/ccXdXdaP.s:1001   .text.pwmDisableChannel:0000000000000000 $t
-     /tmp/ccXdXdaP.s:1007   .text.pwmDisableChannel:0000000000000000 pwmDisableChannel
-     /tmp/ccXdXdaP.s:1065   .text.pwmEnablePeriodicNotification:0000000000000000 $t
-     /tmp/ccXdXdaP.s:1071   .text.pwmEnablePeriodicNotification:0000000000000000 pwmEnablePeriodicNotification
-     /tmp/ccXdXdaP.s:1124   .text.pwmDisablePeriodicNotification:0000000000000000 $t
-     /tmp/ccXdXdaP.s:1130   .text.pwmDisablePeriodicNotification:0000000000000000 pwmDisablePeriodicNotification
-     /tmp/ccXdXdaP.s:1183   .text.pwmEnableChannelNotification:0000000000000000 $t
-     /tmp/ccXdXdaP.s:1189   .text.pwmEnableChannelNotification:0000000000000000 pwmEnableChannelNotification
-     /tmp/ccXdXdaP.s:1242   .text.pwmDisableChannelNotification:0000000000000000 $t
-     /tmp/ccXdXdaP.s:1248   .text.pwmDisableChannelNotification:0000000000000000 pwmDisableChannelNotification
+     /tmp/cchk29Gr.s:640    .text.pwmInit:0000000000000000 $t
+     /tmp/cchk29Gr.s:646    .text.pwmInit:0000000000000000 pwmInit
+     /tmp/cchk29Gr.s:661    .text.pwmObjectInit:0000000000000000 $t
+     /tmp/cchk29Gr.s:667    .text.pwmObjectInit:0000000000000000 pwmObjectInit
+     /tmp/cchk29Gr.s:691    .text.pwmStart:0000000000000000 $t
+     /tmp/cchk29Gr.s:697    .text.pwmStart:0000000000000000 pwmStart
+     /tmp/cchk29Gr.s:778    .text.pwmStop:0000000000000000 $t
+     /tmp/cchk29Gr.s:784    .text.pwmStop:0000000000000000 pwmStop
+     /tmp/cchk29Gr.s:859    .text.pwmChangePeriod:0000000000000000 $t
+     /tmp/cchk29Gr.s:865    .text.pwmChangePeriod:0000000000000000 pwmChangePeriod
+     /tmp/cchk29Gr.s:937    .text.pwmEnableChannel:0000000000000000 $t
+     /tmp/cchk29Gr.s:943    .text.pwmEnableChannel:0000000000000000 pwmEnableChannel
+     /tmp/cchk29Gr.s:1001   .text.pwmDisableChannel:0000000000000000 $t
+     /tmp/cchk29Gr.s:1007   .text.pwmDisableChannel:0000000000000000 pwmDisableChannel
+     /tmp/cchk29Gr.s:1065   .text.pwmEnablePeriodicNotification:0000000000000000 $t
+     /tmp/cchk29Gr.s:1071   .text.pwmEnablePeriodicNotification:0000000000000000 pwmEnablePeriodicNotification
+     /tmp/cchk29Gr.s:1124   .text.pwmDisablePeriodicNotification:0000000000000000 $t
+     /tmp/cchk29Gr.s:1130   .text.pwmDisablePeriodicNotification:0000000000000000 pwmDisablePeriodicNotification
+     /tmp/cchk29Gr.s:1183   .text.pwmEnableChannelNotification:0000000000000000 $t
+     /tmp/cchk29Gr.s:1189   .text.pwmEnableChannelNotification:0000000000000000 pwmEnableChannelNotification
+     /tmp/cchk29Gr.s:1242   .text.pwmDisableChannelNotification:0000000000000000 $t
+     /tmp/cchk29Gr.s:1248   .text.pwmDisableChannelNotification:0000000000000000 pwmDisableChannelNotification
                             *COM*:0000000000000001 __gnu_lto_v1
                      .debug_frame:0000000000000010 $d
 
